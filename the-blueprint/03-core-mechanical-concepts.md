@@ -40,7 +40,7 @@ In practice: knees wide, hips low, weight centered. When the opponent pushes, yo
 
 **How it works**: Good posture follows the spine's natural alignment — head over shoulders, shoulders over hips, hips over knees (when applicable). The body functions as a single connected unit rather than a series of hinges that the opponent can fold.
 
-- **Head position** drives posture. Where the head goes, the body follows. Control your own head position and you control your own posture. Control the opponent's head and you control theirs.
+- **Head position** drives posture. The head dictates the body's direction — when the head is displaced, the spine and hips follow. Control your own head position and you control your own posture. Control the opponent's head and you control theirs.
 - **Spinal alignment** distributes force efficiently. A straight (neutrally curved) spine transfers force from the hips through the torso without collapsing at any joint.
 - **Hip position** anchors posture. If the hips are pulled forward or pushed backward, the spine compensates and posture breaks.
 
@@ -126,7 +126,7 @@ In practice: knees wide, hips low, weight centered. When the opponent pushes, yo
 
 **What it is**: Controlling the position and movement of the opponent's head to dictate the direction and range of their entire body.
 
-**Why it matters**: The head is the steering wheel of the body. Where the head goes, the spine follows. Where the spine goes, the hips follow. Control the head and you control the body's orientation, posture, and movement options.
+**Why it matters**: The head is the steering wheel of the body. Displacing the head forces the spine to compensate, and when the spine shifts, the hips follow. Control the head and you control the body's orientation, posture, and movement options.
 
 **How it works**: Head control operates through direct contact or indirect manipulation:
 

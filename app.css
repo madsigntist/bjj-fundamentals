@@ -599,6 +599,17 @@ body {
     background-color: var(--color-surface-hover);
 }
 
+.reader__btn--accent {
+    background-color: transparent;
+    color: var(--color-accent);
+    border: 2px solid var(--color-accent);
+}
+
+.reader__btn--accent:hover {
+    background-color: var(--color-accent);
+    color: var(--color-text-inverse);
+}
+
 /* Home Section Cards */
 .reader__home-sections {
     display: flex;
@@ -747,6 +758,52 @@ body {
     color: var(--color-text-tertiary);
 }
 
+.reader__bookmark-btn {
+    margin-left: auto;
+    color: var(--color-text-tertiary);
+    transition: color var(--transition-fast), transform var(--transition-fast);
+}
+
+.reader__bookmark-btn:hover {
+    color: var(--color-accent);
+}
+
+.reader__bookmark-btn.is-bookmarked {
+    color: var(--color-accent);
+}
+
+.reader__bookmark-btn.is-bookmarked .material-symbols-outlined {
+    font-variation-settings: 'FILL' 1;
+}
+
+/* Heading-level bookmark buttons */
+.reader__heading-bookmark {
+    flex-shrink: 0;
+    margin-left: auto;
+    background: none;
+    border: none;
+    cursor: pointer;
+    padding: 0.125rem;
+    color: var(--color-text-tertiary);
+    transition: color var(--transition-fast);
+}
+
+.reader__heading-bookmark:hover {
+    color: var(--color-accent);
+}
+
+.reader__heading-bookmark.is-bookmarked {
+    color: var(--color-accent);
+}
+
+.reader__heading-bookmark.is-bookmarked .material-symbols-outlined {
+    font-variation-settings: 'FILL' 1;
+}
+
+.reader__heading-bookmark .material-symbols-outlined {
+    font-size: 1.125rem;
+}
+
 /* Markdown Body Styles */
 .reader__document-body {
     font-family: var(--font-serif);
@@ -765,6 +822,9 @@ body {
 }
 
 .reader__document-body h2 {
+    display: flex;
+    align-items: center;
+    gap: var(--space-sm);
     font-family: var(--font-sans);
     font-size: 1.3125rem;
     font-weight: 700;
@@ -772,6 +832,7 @@ body {
     margin-top: var(--space-2xl);
     margin-bottom: var(--space-md);
     color: var(--color-text);
+    scroll-margin-top: calc(var(--topbar-height) + var(--space-md));
 }
 
 .reader__document-body h3 {

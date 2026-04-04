@@ -55,7 +55,7 @@ These principles are not unique to one position. They appear in side control, mo
 
 ### A Pin Is a Means, Not an End
 
-Nobody was ever harmed by simply being held down. A pin that does nothing but hold an opponent in place is a waste of a dominant position. The pin is only valuable insofar as it creates the conditions to finish — submissions, transitions to stronger positions, or sustained pressure that forces reactive mistakes.
+Holding someone down, by itself, does not end a fight. A pin that does nothing but keep an opponent stationary is a wasted dominant position. The pin is only valuable insofar as it creates the conditions to finish — submissions, transitions to stronger positions, or sustained pressure that forces reactive mistakes.
 
 This means not all pins are equal. They should be evaluated by how effectively they enable fight-ending actions:
 

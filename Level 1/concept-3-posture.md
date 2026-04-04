@@ -60,7 +60,7 @@ You need both. You can have a wide base but still be weak if your posture is bro
 
 Another key aspect is head position.
 
-Where your head goes, your body follows. If your head is pulled out of alignment, your posture will break. Protecting head position is one of the easiest ways to maintain structure.
+Your head dictates your body's direction. If your head is pulled out of alignment, your posture will break. Protecting head position is one of the easiest ways to maintain structure.
 
 Posture is not rigid. It adapts.
 

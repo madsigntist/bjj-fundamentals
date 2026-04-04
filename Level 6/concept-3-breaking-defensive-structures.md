@@ -59,7 +59,7 @@ _Breaking grip defenses._ Grips are the most common barrier, so breaking them is
 
 _Breaking postural defenses._ Posture absorbs submission force, so removing posture restores the force.
 
-- **Control the head**: The head controls posture. Where the head goes, the spine follows. Pull the head down to break upright posture. Push the head sideways to prevent stacking. Pin the head to the mat to prevent any postural adjustment
+- **Control the head**: The head controls posture — displacing it forces the spine to compensate. Pull the head down to break upright posture. Push the head sideways to prevent stacking. Pin the head to the mat to prevent any postural adjustment
 - **Remove the posting hand**: The opponent's posture is often supported by a hand posted on the mat or on your body. Remove the post — pin it, redirect it, or knock it away — and the posture collapses
 - **Attack the base of support**: The opponent's posture stands on their base. If you move their base (sweep the supporting leg, shift their weight), the posture breaks without fighting it directly
 

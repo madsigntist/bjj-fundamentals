@@ -702,5 +702,5 @@ Use this guide:
 
 - **Before training**: Look up the positions you will be working and review the key controls, threats, and transitions
 - **After training**: When a position went wrong, look it up here and compare what happened with what should happen — identify which element broke down
-- **During curriculum study**: Cross-reference the concept files with these positional breakdowns to see how concepts map to specific positions
+- **During curriculum study**: Cross-reference the concept sections with these positional breakdowns to see how concepts map to specific positions
 - **As a teaching tool**: The eight-point template can be used to teach any position in a structured way — goal, controls, threats, opponent goals, defense, offense, transitions, submissions

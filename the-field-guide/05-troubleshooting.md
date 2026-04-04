@@ -65,7 +65,7 @@ Common problems mapped to specific concepts and levels. When something consisten
 
 **Fix**:
 
-- Re-read Level 3 integration file — all five concepts must be applied simultaneously
+- Re-read Level 3 integration section — all five concepts must be applied simultaneously
 - Check specifically: Is the crossface driving the head? Are the hips controlled? Is weight low and distributed?
 - Drill: The Complete Pin (Drill 10) — 5-minute rounds, control only, diagnose which concept fails first
 - Drill: Diagnostic Drill (Drill 12) — after each escape, identify the specific concept that broke down
@@ -220,7 +220,7 @@ Common problems mapped to specific concepts and levels. When something consisten
 
 **Fix**:
 
-- Read Level 7 in its entirety — all six concepts and the integration file
+- Read Level 7 in its entirety — all six concepts and the integration section
 - Focus on the Decision-Making Checklist in the Level 7 integration
 - Drill: Full System Rounds (Drill 27) — 8-minute rounds with post-round debrief
 - Drill: Complete Offensive System Drill (Drill 32) — practice the full pass → control → submit chain

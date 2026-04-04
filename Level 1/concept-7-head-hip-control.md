@@ -48,7 +48,7 @@ The head and hips are the two most important control points.
 
 The head influences direction.
 
-Where the head goes, the body follows. If you can turn, pin, or misalign your opponent’s head, you can disrupt their posture and control their ability to move effectively.
+The head dictates the body's direction. If you can turn, pin, or misalign your opponent's head, you can disrupt their posture and control their ability to move effectively.
 
 For example:
 

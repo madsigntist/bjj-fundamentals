@@ -43,7 +43,7 @@ Alignment is the middle ground.
 
 The first element is your spine. When your spine is aligned — not twisted, not overextended, not collapsed — your body can transmit force efficiently. Your bridge becomes stronger. Your hip escapes cover more distance. Your frames connect to a solid foundation.
 
-The second element is head position. Where your head goes, your body follows. If the opponent controls your head and turns it away, your spine follows, your hips flatten, and your structure breaks. Protecting your head position — keeping your chin tucked, resisting crossface pressure, maintaining the ability to look toward your opponent — keeps your alignment intact.
+The second element is head position. Your head dictates your body's direction. If the opponent controls your head and turns it away, your spine follows, your hips flatten, and your structure breaks. Protecting your head position — keeping your chin tucked, resisting crossface pressure, maintaining the ability to look toward your opponent — keeps your alignment intact.
 
 The third element is hip position. Your hips are your engine. If your hips are flat on the mat with the opponent's weight on top, your movement is gone. Getting your hips onto their side, even partially, restores your ability to move. It gives your frames something to connect to. It changes your body from a flat surface that accepts weight into an angled structure that redirects it.
 

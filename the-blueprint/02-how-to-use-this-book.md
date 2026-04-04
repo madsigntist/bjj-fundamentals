@@ -18,9 +18,9 @@ If you are an instructor, read the entire book once before teaching from it. The
 
 Every level contains three types of content:
 
-### Concept Files
+### Concept Sections
 
-Each concept is a standalone chapter that follows a consistent ten-section structure:
+Each concept is a standalone section that follows a consistent ten-part structure:
 
 1. **Definition** — What the concept is, in one to two sentences
 2. **Why It Matters** — What goes wrong without it
@@ -30,14 +30,14 @@ Each concept is a standalone chapter that follows a consistent ten-section struc
 6. **Common Mistakes** — What students get wrong and why
 7. **Application / Positional Examples** — How the concept looks in specific positions
 8. **Simple Mental Model** — A metaphor or image that makes the concept stick
-9. **Drills** — Practice methods (optional within the concept file; all drills are compiled in the Drill Index)
+9. **Drills** — Practice methods (optional within the concept section; all drills are compiled in the Drill Index)
 10. **Progression Notes** — How this concept connects to other levels
 
-This structure means you can read any concept file and walk away with a complete understanding of that idea — its theory, its application, its pitfalls, and its connections.
+This structure means you can read any concept section and walk away with a complete understanding of that idea — its theory, its application, its pitfalls, and its connections.
 
-### Integration File
+### Integration Section
 
-Each level ends with an integration file that ties the level's concepts together. It includes:
+Each level ends with an integration section that ties the level's concepts together. It includes:
 
 - **Level Goal and Outcomes** — What the student should be able to do after this level
 - **Concept Summary Table** — All concepts at a glance
@@ -48,7 +48,7 @@ Each level ends with an integration file that ties the level's concepts together
 - **Drills** — Practice methods that integrate all concepts simultaneously
 - **Relationship to Other Levels** — Where this level fits in the curriculum
 
-The integration file is where individual concepts become a system. Read the concepts first, then read the integration to see how they combine.
+The integration section is where individual concepts become a system. Read the concepts first, then read the integration to see how they combine.
 
 ---
 
@@ -56,13 +56,13 @@ The integration file is where individual concepts become a system. Read the conc
 
 Reading is necessary but not sufficient. This is a physical discipline, and the concepts only become real through practice.
 
-There is a tremendous gap between theoretical knowledge of a concept and practical knowledge of a concept. Understanding how off-balancing works on the page is radically different from executing it against a fully resisting opponent. The bridge between theory and practice is **live training** — drilling and sparring against partners who resist, counter, and impose their own game. The way you train is the way you will fight. If your training consists only of cooperative drilling with a passive partner, your ability to apply concepts under genuine pressure will remain theoretical. Live training against resisting partners develops the attributes — timing, recognition, composure, speed of application — that make concepts functional.
+Reading a concept and owning it are separated by mat time. Understanding how off-balancing works on the page is nothing like executing it against a fully resisting opponent. The bridge between the two is **live training** — drilling and sparring against partners who resist, counter, and impose their own game. What you practice is what you produce under pressure. If your training consists only of cooperative drilling with a passive partner, your ability to apply concepts under genuine pressure will remain theoretical. Live training against resisting partners develops the attributes — timing, recognition, composure, speed of application — that make concepts functional.
 
 Here is the recommended approach:
 
 ### Phase 1: Read and Understand
 
-Read one concept file. Make sure you understand the core idea, the key principles, and the common mistakes. If you can explain the concept in your own words without looking at the page, you understand it.
+Read one concept section. Make sure you understand the core idea, the key principles, and the common mistakes. If you can explain the concept in your own words without looking at the page, you understand it.
 
 ### Phase 2: Isolate and Drill
 
@@ -70,7 +70,7 @@ Practice the concept in isolation using the drills provided. This means position
 
 ### Phase 3: Integrate Within the Level
 
-After all concepts in a level are understood individually, practice the integration drills from the level's integration file. These drills combine multiple concepts and require the student to use them together.
+After all concepts in a level are understood individually, practice the integration drills from the level's integration section. These drills combine multiple concepts and require the student to use them together.
 
 ### Phase 4: Apply in Live Rolling
 
@@ -78,7 +78,7 @@ Take the concepts into live sparring. Start with positional sparring (specific s
 
 ### Phase 5: Diagnose and Return
 
-When something fails in live rolling, diagnose the failure. Which concept broke down? Return to that concept file, re-read it, and drill the specific area that failed. This feedback loop — practice, fail, diagnose, return, re-drill — is where real learning happens.
+When something fails in live rolling, diagnose the failure. Which concept broke down? Return to that concept's chapter, re-read it, and drill the specific area that failed. This feedback loop — practice, fail, diagnose, return, re-drill — is where real learning happens.
 
 ---
 

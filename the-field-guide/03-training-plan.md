@@ -49,11 +49,11 @@ A suggested schedule for working through the entire curriculum. This plan assume
 
 ### Week 5: Level 1 Integration
 
-**Reading**: Level 1 integration file
+**Reading**: Level 1 integration section
 
 **Session structure**:
 
-- 10 min: Review the integration file together
+- 10 min: Review the integration section together
 - 25 min: All four Level 1 drills — rotate through
 - 25 min: Positional sparring from bad positions — using the full Level 1 sequence
 
@@ -69,7 +69,7 @@ A suggested schedule for working through the entire curriculum. This plan assume
 
 ### Weeks 9-10: Level 2 Integration + Phase 1 Review
 
-**Reading**: Level 2 integration file, Universal Decision Framework
+**Reading**: Level 2 integration section, Universal Decision Framework
 
 **Session structure**:
 
@@ -95,7 +95,7 @@ A suggested schedule for working through the entire curriculum. This plan assume
 
 ### Weeks 15-16: Level 3 Integration
 
-**Reading**: Level 3 integration file
+**Reading**: Level 3 integration section
 
 **Session structure**:
 
@@ -139,7 +139,7 @@ A suggested schedule for working through the entire curriculum. This plan assume
 
 ### Weeks 27-28: Level 4 Integration + Phase 3 Review
 
-**Reading**: Level 4 integration file
+**Reading**: Level 4 integration section
 
 **Session structure**:
 
@@ -175,7 +175,7 @@ A suggested schedule for working through the entire curriculum. This plan assume
 
 ### Weeks 37-38: Level 5 Integration + Phase 4 Review
 
-**Reading**: Level 5 integration file
+**Reading**: Level 5 integration section
 
 **Session structure**:
 
@@ -211,7 +211,7 @@ A suggested schedule for working through the entire curriculum. This plan assume
 
 ### Weeks 47-48: Level 6 Integration + Phase 5 Review
 
-**Reading**: Level 6 integration file
+**Reading**: Level 6 integration section
 
 **Session structure**:
 
@@ -247,7 +247,7 @@ A suggested schedule for working through the entire curriculum. This plan assume
 
 ### Weeks 57+: Ongoing Integration
 
-**Reading**: Level 7 integration file (re-read periodically)
+**Reading**: Level 7 integration section (re-read periodically)
 
 **Session structure**:
 

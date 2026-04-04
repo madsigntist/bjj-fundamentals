@@ -876,6 +876,8 @@
        ====================================================================== */
   var state = {
     currentIndex: -1,
+    bookmarkIndex: -1,
+    bookmarkHeadingId: null,
     cachedContent: {},
     searchIndex: null,
   };
@@ -923,6 +925,9 @@
     dom.bottomSearch = document.getElementById("bottomSearch");
     dom.bottomPrev = document.getElementById("bottomPrev");
     dom.bottomNext = document.getElementById("bottomNext");
+
+    dom.bookmarkBtn = document.getElementById("bookmarkBtn");
+    dom.continueReadingBtn = document.getElementById("continueReadingBtn");
   }
 
   /* ======================================================================
@@ -930,6 +935,7 @@
        ====================================================================== */
   function initializeApp() {
     cacheDom();
+    loadBookmark();
     buildToc();
     buildHomeCards();
     bindEvents();
@@ -1076,14 +1082,36 @@
 
     dom.homeBtn.addEventListener("click", showHome);
 
+    // Bookmark
+    dom.bookmarkBtn.addEventListener("click", function () {
+      setBookmark(state.currentIndex, null);
+    });
+
+    // Heading-level bookmark clicks (event delegation)
+    dom.docBody.addEventListener("click", function (e) {
+      var btn = e.target.closest(".reader__heading-bookmark");
+      if (!btn) return;
+      var headingId = btn.getAttribute("data-heading-id");
+      setBookmark(state.currentIndex, headingId);
+    });
+
+    dom.continueReadingBtn.addEventListener("click", function () {
+      if (state.bookmarkIndex >= 0) {
+        loadDocument(state.bookmarkIndex, state.bookmarkHeadingId);
+      }
+    });
+
     // Chapter nav
     dom.prevBtn.addEventListener("click", function () {
       if (state.currentIndex > 0) loadDocument(state.currentIndex - 1);
     });
 
     dom.nextBtn.addEventListener("click", function () {
-      if (state.currentIndex < DOCUMENTS.length - 1)
-        loadDocument(state.currentIndex + 1);
+      if (state.currentIndex < DOCUMENTS.length - 1) {
+        var nextIndex = state.currentIndex + 1;
+        setBookmark(nextIndex);
+        loadDocument(nextIndex);
+      }
     });
 
     // Bottom bar
@@ -1094,8 +1122,11 @@
       if (state.currentIndex > 0) loadDocument(state.currentIndex - 1);
     });
     dom.bottomNext.addEventListener("click", function () {
-      if (state.currentIndex < DOCUMENTS.length - 1)
-        loadDocument(state.currentIndex + 1);
+      if (state.currentIndex < DOCUMENTS.length - 1) {
+        var nextIndex = state.currentIndex + 1;
+        setBookmark(nextIndex);
+        loadDocument(nextIndex);
+      }
     });
 
     // Search
@@ -1134,7 +1165,7 @@
   /* ======================================================================
        NAVIGATION
        ====================================================================== */
-  function loadDocument(index) {
+  function loadDocument(index, scrollToHeadingId) {
     if (index < 0 || index >= DOCUMENTS.length) return;
 
     var doc = DOCUMENTS[index];
@@ -1166,12 +1197,22 @@
     // Highlight TOC
     highlightTocItem(index);
 
+    // Update bookmark icon
+    updateBookmarkIcon(index);
+
     // Scroll to top
     window.scrollTo(0, 0);
 
     // Fetch markdown
     fetchDocument(doc.path, function (content) {
       renderMarkdown(content);
+      // Scroll to bookmarked heading if specified
+      if (scrollToHeadingId) {
+        var target = document.getElementById(scrollToHeadingId);
+        if (target) {
+          target.scrollIntoView({ behavior: "smooth", block: "start" });
+        }
+      }
     });
   }
 
@@ -1200,8 +1241,36 @@
       });
   }
 
+  function slugify(text) {
+    return text
+      .toLowerCase()
+      .replace(/[^\w\s-]/g, "")
+      .replace(/\s+/g, "-")
+      .replace(/-+/g, "-")
+      .replace(/^-|-$/g, "");
+  }
+
   function renderMarkdown(text) {
     dom.docBody.innerHTML = marked.parse(text);
+
+    // Inject bookmark buttons into h2 headings
+    var headings = dom.docBody.querySelectorAll("h2");
+    for (var i = 0; i < headings.length; i++) {
+      var h = headings[i];
+      var id = slugify(h.textContent);
+      h.id = id;
+      var btn = document.createElement("button");
+      btn.className = "reader__icon-btn reader__heading-bookmark";
+      btn.setAttribute("data-heading-id", id);
+      btn.setAttribute("aria-label", "Bookmark this subsection");
+      btn.innerHTML = '<span class="material-symbols-outlined">bookmark</span>';
+      h.appendChild(btn);
+    }
+
+    // Update heading bookmark icons after injection
+    if (state.currentIndex >= 0) {
+      updateBookmarkIcon(state.currentIndex);
+    }
   }
 
   function showHome() {
@@ -1215,6 +1284,7 @@
     }
 
     updateBottomBar(-1);
+    updateContinueBtn();
     clearTocHighlight();
     window.scrollTo(0, 0);
   }
@@ -1227,6 +1297,11 @@
         loadDocument(index);
         return;
       }
+    }
+    // Auto-resume from bookmark
+    if (state.bookmarkIndex >= 0) {
+      loadDocument(state.bookmarkIndex, state.bookmarkHeadingId);
+      return;
     }
     showHome();
   }
@@ -1495,6 +1570,91 @@
       "<p>Search by concept, position, or technique</p>" +
       "</div>"
     );
+  }
+
+  /* ======================================================================
+       BOOKMARK
+       ====================================================================== */
+  function loadBookmark() {
+    try {
+      var saved = localStorage.getItem("bjj-bookmark");
+      if (saved !== null) {
+        var data;
+        try {
+          data = JSON.parse(saved);
+        } catch (_) {
+          // Legacy format: plain number
+          data = { index: parseInt(saved, 10), headingId: null };
+        }
+        var idx =
+          typeof data.index === "number"
+            ? data.index
+            : parseInt(data.index, 10);
+        if (idx >= 0 && idx < DOCUMENTS.length) {
+          state.bookmarkIndex = idx;
+          state.bookmarkHeadingId = data.headingId || null;
+        }
+      }
+    } catch (e) {
+      // localStorage unavailable
+    }
+  }
+
+  function setBookmark(index, headingId) {
+    if (index < 0 || index >= DOCUMENTS.length) return;
+    state.bookmarkIndex = index;
+    state.bookmarkHeadingId = headingId || null;
+    try {
+      localStorage.setItem(
+        "bjj-bookmark",
+        JSON.stringify({ index: index, headingId: state.bookmarkHeadingId }),
+      );
+    } catch (e) {
+      // localStorage unavailable
+    }
+    updateBookmarkIcon(index);
+  }
+
+  function updateBookmarkIcon(currentIndex) {
+    // Top-level page bookmark
+    var isPageBookmarked =
+      state.bookmarkIndex === currentIndex && !state.bookmarkHeadingId;
+    var icon = dom.bookmarkBtn.querySelector(".material-symbols-outlined");
+    icon.textContent = isPageBookmarked ? "bookmark_added" : "bookmark";
+    dom.bookmarkBtn.classList.toggle("is-bookmarked", isPageBookmarked);
+    dom.bookmarkBtn.setAttribute(
+      "aria-label",
+      isPageBookmarked ? "Bookmarked" : "Bookmark this section",
+    );
+
+    // Heading-level bookmarks
+    var headingBtns = dom.docBody.querySelectorAll(".reader__heading-bookmark");
+    for (var i = 0; i < headingBtns.length; i++) {
+      var btn = headingBtns[i];
+      var hId = btn.getAttribute("data-heading-id");
+      var isActive =
+        state.bookmarkIndex === currentIndex && state.bookmarkHeadingId === hId;
+      var hIcon = btn.querySelector(".material-symbols-outlined");
+      hIcon.textContent = isActive ? "bookmark_added" : "bookmark";
+      btn.classList.toggle("is-bookmarked", isActive);
+      btn.setAttribute(
+        "aria-label",
+        isActive ? "Bookmarked" : "Bookmark this subsection",
+      );
+    }
+  }
+
+  function updateContinueBtn() {
+    if (state.bookmarkIndex >= 0) {
+      dom.continueReadingBtn.hidden = false;
+      var doc = DOCUMENTS[state.bookmarkIndex];
+      dom.continueReadingBtn.setAttribute(
+        "aria-label",
+        "Continue reading: " + doc.title,
+      );
+    } else {
+      dom.continueReadingBtn.hidden = true;
+    }
   }
 
   /* ======================================================================

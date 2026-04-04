@@ -94,6 +94,10 @@
                     <span class="material-symbols-outlined">auto_stories</span>
                     Start Reading
                 </button>
+                <button class="reader__btn reader__btn--accent" id="continueReadingBtn" hidden>
+                    <span class="material-symbols-outlined">bookmark</span>
+                    Continue Reading
+                </button>
                 <button class="reader__btn reader__btn--secondary" id="browseBtn">
                     <span class="material-symbols-outlined">list</span>
                     Browse Contents
@@ -110,6 +114,9 @@
             <div class="reader__document-meta" id="docMeta">
                 <span class="reader__document-section" id="docSection"></span>
                 <span class="reader__document-number" id="docNumber"></span>
+                <button class="reader__icon-btn reader__bookmark-btn" id="bookmarkBtn" aria-label="Bookmark this section">
+                    <span class="material-symbols-outlined">bookmark</span>
+                </button>
             </div>
             <div class="reader__document-body" id="docBody"></div>
 
@@ -140,13 +147,13 @@
             <span class="material-symbols-outlined">home</span>
             <span class="reader__bottombar-label">Home</span>
         </button>
-        <button class="reader__bottombar-btn" id="bottomToc" aria-label="Contents">
-            <span class="material-symbols-outlined">menu_book</span>
-            <span class="reader__bottombar-label">Contents</span>
-        </button>
         <button class="reader__bottombar-btn" id="bottomSearch" aria-label="Search">
             <span class="material-symbols-outlined">search</span>
             <span class="reader__bottombar-label">Search</span>
+        </button>
+        <button class="reader__bottombar-btn" id="bottomToc" aria-label="Contents">
+            <span class="material-symbols-outlined">menu_book</span>
+            <span class="reader__bottombar-label">Contents</span>
         </button>
         <button class="reader__bottombar-btn" id="bottomPrev" aria-label="Previous" disabled>
             <span class="material-symbols-outlined">arrow_back</span>

@@ -8,7 +8,7 @@ This is a complete Brazilian Jiu-Jitsu curriculum built on concepts, not techniq
 
 Most instructional material in jiu jitsu is organized by technique — here is an armbar from guard, here is a kimura from side control, here is a knee cut pass. The student collects techniques the way a person collects tools in a toolbox: one at a time, disconnected, sorted by category. The hope is that with enough tools, the student will eventually figure out which one to reach for and when.
 
-This book takes the opposite approach. Instead of teaching what to do, it teaches how to think. Instead of cataloguing moves, it builds a decision-making system. The techniques still exist — they appear as examples throughout every chapter — but they serve the concepts, not the other way around.
+This book takes the opposite approach. Instead of teaching what to do, it teaches how to think. Instead of cataloging moves, it builds a decision-making system. The techniques still exist — they appear as examples throughout every chapter — but they serve the concepts, not the other way around.
 
 The result is a practitioner who does not need to memorize hundreds of techniques. They need to understand a smaller number of principles and apply them everywhere.
 
@@ -22,17 +22,17 @@ This book is for three kinds of readers:
 
 **The intermediate practitioner** who has techniques but feels lost in live rolling. They know an armbar and a triangle and a few sweeps, but they cannot connect them. They survive but do not control. They attack but do not finish. This book provides the conceptual framework that turns isolated techniques into a complete game.
 
-**The instructor** who wants a structured teaching progression for their students. The seven levels, the concept templates, the integration files, and the drill library provide a ready-made curriculum that can be delivered as-is or adapted to fit an existing program.
+**The instructor** who wants a structured teaching progression for their students. The seven levels, the concept templates, the integration sections, and the drill library provide a ready-made curriculum that can be delivered as-is or adapted to fit an existing program.
 
 ---
 
 ## Where Ground Fighting Fits
 
-Unarmed grappling divides into three distinct phases, each differentiated by the degree of body contact between opponents:
+Unarmed grappling divides into three distinct stages, each defined by the degree of body contact between opponents:
 
-1. **Free-Movement Phase** — No grip contact. Opponents maneuver for distance, angle, and grip establishment.
-2. **Clinch Phase** — Grip established on the opponent. Movement constrained. Off-balancing and takedowns dominate.
-3. **Ground Phase** — The match moves to the mat. Maximum body contact. Positional control, submissions, and ground strategy determine the outcome.
+1. **Standing / Open-Movement** — No grip contact. Opponents maneuver for distance, angle, and grip establishment.
+2. **Grip / Tie-Up** — Grip established on the opponent. Movement constrained. Off-balancing and takedowns dominate.
+3. **Ground** — The match moves to the mat. Maximum body contact. Positional control, submissions, and ground strategy determine the outcome.
 
 Each phase demands its own set of skills. A practitioner can be exceptional in one phase and limited in another. The strategic practitioner identifies which phase favors their skill set and works to stay there.
 
@@ -48,7 +48,7 @@ If a student learns "armbar from mount," they have one answer that works in one 
 
 Concept-first learning scales. Technique-first learning does not.
 
-An effective fighter carries three things: **techniques** (specific movements designed to achieve specific outcomes), **concepts** (general principles that guide when and how to apply techniques), and **attributes** (abilities that make technique application possible under pressure — timing, recognition, control, composure). A technique without concepts and attributes is a technique without value. This curriculum builds concepts first because concepts are the organizing intelligence that gives techniques meaning and develops the attributes that make techniques work.
+An effective fighter operates on three layers: **techniques** (specific movements designed to achieve specific outcomes), **concepts** (general principles that guide when and how to apply techniques), and **attributes** (the physical and mental qualities that make execution possible under pressure — timing, recognition, control, composure). Technique without underlying concept is worthless. Concept without trained attributes is just theory. All three must be present. This curriculum builds concepts first because concepts are the organizing intelligence that gives techniques meaning and develops the attributes that make techniques work.
 
 Too often, martial artists obsess over accumulating techniques without ever developing a strategy to guide their application. They arrive at a fight with a bag full of tools and no blueprint for the building. Strategy gives direction. Direction gives confidence. Confidence sustains effort even when things go wrong.
 

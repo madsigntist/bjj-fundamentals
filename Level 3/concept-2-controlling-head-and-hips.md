@@ -29,7 +29,7 @@ The body moves from the head and the hips. Control both and the middle cannot go
 
 ## Detailed Explanation
 
-The human body creates movement from two primary regions. The head leads direction changes. Where the head goes, the shoulders and torso follow. The hips generate force. Bridging, shrimping, and turning all originate from hip movement.
+The human body creates movement from two primary regions. The head leads direction changes — displacing the head forces the shoulders and torso to follow. The hips generate force. Bridging, shrimping, and turning all originate from hip movement.
 
 **Head control and what it gives you.** When you control the opponent's head, you control where they can look and which direction they can turn. Crossface pressure (driving your shoulder or forearm into the jaw to turn the head away) prevents the opponent from turning into you. If they cannot face you, they cannot build frames toward you, insert a knee, or create the angle needed for most escapes.
 

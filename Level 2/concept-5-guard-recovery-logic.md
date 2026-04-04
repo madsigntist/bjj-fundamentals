@@ -54,7 +54,7 @@ Guard recovery is the default. The other options exist for specific circumstance
 
 The logic starts with understanding what a guard actually is. A guard is any position where your legs are between you and the opponent and you have some form of control or structure. It does not need to be a specific named guard. It needs to be functional — your legs are in the way, the opponent cannot freely advance, and you have options.
 
-The **elbow escape** (hip escape / shrimp) is the king of escapes — the most useful and important escape method in jiu jitsu. It requires little strength, works against much larger opponents, and exposes the user to minimal danger. Most guard recoveries begin with some form of elbow escape to create the space needed to reinsert the legs.
+The **elbow escape** (hip escape / shrimp) is the single most reliable escape in jiu jitsu. It demands little strength, works against much larger opponents, and keeps the escaping player in a low-risk position throughout. Most guard recoveries begin with some form of elbow escape to create the space needed to reinsert the legs.
 
 The recovery process follows a sequence.
 
