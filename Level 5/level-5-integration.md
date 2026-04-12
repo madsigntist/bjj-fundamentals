@@ -44,13 +44,11 @@ Level 5 transforms the top player from someone who reacts to the guard into some
 
 The relationship flows like this:
 
-```
-Control Before Passing (establish the foundation)
-    → Beat Feet → Knees → Hips → Upper Body (work through the gates)
-        → Separate Knees from Elbows (break the connection that holds each gate together)
-            → Clear Frames Before Advancing (remove the last barrier to completion)
-                → Pressure vs Movement (choose how to execute each step)
-```
+**Control Before Passing** (establish the foundation)
+→ **Beat Feet → Knees → Hips → Upper Body** (work through the gates)
+→→ **Separate Knees from Elbows** (break the connection that holds each gate together)
+→→→ **Clear Frames Before Advancing** (remove the last barrier to completion)
+→→→→ **Pressure vs Movement** (choose how to execute each step)
 
 ---
 

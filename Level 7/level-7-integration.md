@@ -41,26 +41,25 @@ Level 7 is the capstone of the entire curriculum. It takes everything from Level
 
 The three pairs integrate:
 
-```
-Offensive Engine (what to do)
-    Dilemma Creation → Chaining Attacks
+**Offensive Engine** (what to do)
 
-Perception System (what to see and when to act)
-    Anticipating Reactions → Transition Awareness
+- Dilemma Creation → Chaining Attacks
 
-Resource Management (how to sustain it)
-    Energy Efficiency → Strategic Pacing
-```
+**Perception System** (what to see and when to act)
+
+- Anticipating Reactions → Transition Awareness
+
+**Resource Management** (how to sustain it)
+
+- Energy Efficiency → Strategic Pacing
 
 And the full system flows:
 
-```
-Perceive (anticipate the reaction, identify the transition window)
-    → Decide (choose the dilemma, select the chain)
-        → Execute (attack with efficiency, at the right pace)
-            → Adapt (read the defense, flow to the next link)
-                → Perceive (the cycle continues)
-```
+**Perceive** (anticipate the reaction, identify the transition window)
+→ **Decide** (choose the dilemma, select the chain)
+→→ **Execute** (attack with efficiency, at the right pace)
+→→→ **Adapt** (read the defense, flow to the next link)
+→→→→ **Perceive** (the cycle continues)
 
 ---
 
@@ -250,15 +249,13 @@ Level 7 does not replace the previous levels — it connects them into a single 
 
 The full curriculum now reads as a single narrative:
 
-```
-Level 1: Learn the physical language (base, posture, frames, position)
-Level 2: Learn to survive and escape (defense, frames, recovery)
-Level 3: Learn to hold and control (pins, pressure, prevention)
-Level 4: Learn to attack from bottom (guard, sweeps, retention)
-Level 5: Learn to defeat the guard (passing, gates, separation)
-Level 6: Learn to finish (isolation, exposure, mechanics)
-Level 7: Learn to connect everything into one system (dilemmas, chains, timing, efficiency)
-```
+- **Level 1:** Learn the physical language (base, posture, frames, position)
+- **Level 2:** Learn to survive and escape (defense, frames, recovery)
+- **Level 3:** Learn to hold and control (pins, pressure, prevention)
+- **Level 4:** Learn to attack from bottom (guard, sweeps, retention)
+- **Level 5:** Learn to defeat the guard (passing, gates, separation)
+- **Level 6:** Learn to finish (isolation, exposure, mechanics)
+- **Level 7:** Learn to connect everything into one system (dilemmas, chains, timing, efficiency)
 
 Each level builds on the ones before it. Nothing exists in isolation. The student who completes all seven levels does not have seven separate skill sets — they have one integrated system where every concept reinforces every other concept and every position connects to every other position.
 

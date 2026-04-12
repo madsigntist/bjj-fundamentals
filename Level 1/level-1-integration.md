@@ -50,15 +50,13 @@ Level 1 is the operating system for everything that follows. The seven concepts 
 
 The relationship flows like this:
 
-```
-Positional Hierarchy (know where you are)
-    → Base (stay stable)
-        → Posture (stay aligned)
-            → Frames and Distance (create space)
-                → Movement Fundamentals (use that space)
-                    → Inside Position Awareness (who controls the center)
-                        → Head and Hip Control (who controls the body)
-```
+**Positional Hierarchy** (know where you are)
+→ **Base** (stay stable)
+→→ **Posture** (stay aligned)
+→→→ **Frames and Distance** (create space)
+→→→→ **Movement Fundamentals** (use that space)
+→→→→→ **Inside Position Awareness** (who controls the center)
+→→→→→→ **Head and Hip Control** (who controls the body)
 
 Each layer builds on the previous. Together, they give the complete beginner a functional system for understanding and surviving any position.
 

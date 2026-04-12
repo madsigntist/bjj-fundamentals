@@ -47,14 +47,12 @@ Level 4 transforms the guard from a survival position into an offensive system. 
 
 The relationship flows like this:
 
-```
-Distance Management (choose the range)
-    → Inside Leg Position (structure at that range)
-        → Connection Points (control within that structure)
-            → Off-Balancing (create attacking opportunities)
-                → Retention Layers (recover when things break)
-                    → Sweep vs Submission (decide what to attack)
-```
+**Distance Management** (choose the range)
+→ **Inside Leg Position** (structure at that range)
+→→ **Connection Points** (control within that structure)
+→→→ **Off-Balancing** (create attacking opportunities)
+→→→→ **Retention Layers** (recover when things break)
+→→→→→ **Sweep vs Submission** (decide what to attack)
 
 ---
 

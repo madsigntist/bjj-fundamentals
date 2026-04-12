@@ -179,16 +179,14 @@ In the beginning, the loop is slow and conscious. The student pauses, evaluates,
 
 The full loop:
 
-```
-→ Am I safe?
-    → Who has inside position?
-        → Who controls head and hips?
-            → Who has mobility?
-                → What is the next best position?
-                    → What threats exist right now?
-                        → ACT
-                            → (position changes)
-                                → Am I safe? (loop restarts)
-```
+**Am I safe?**
+→ **Who has inside position?**
+→→ **Who controls head and hips?**
+→→→ **Who has mobility?**
+→→→→ **What is the next best position?**
+→→→→→ **What threats exist right now?**
+→→→→→→ **ACT**
+→→→→→→→ _(position changes)_
+→→→→→→→→ **Am I safe?** _(loop restarts)_
 
 This loop is the universal operating system. Every concept in every level plugs into it. Every technique is a specific answer to one of these six questions. Master the questions and the answers follow.

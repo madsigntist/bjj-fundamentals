@@ -179,7 +179,7 @@
     },
     {
       title: "Level 1 Integration",
-      path: "Level 1/level-1-intergration.md",
+      path: "Level 1/level-1-integration.md",
       section: "Level 1 — Foundational Mechanics",
       sectionKey: "level-1",
       keywords: [

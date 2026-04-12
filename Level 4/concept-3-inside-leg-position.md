@@ -50,7 +50,7 @@ The most basic inside leg positions:
 - _Shin-to-shin_: Your shin pressed against the opponent's shin, creating connection and inside position from a seated guard.
 - _De La Riva hook_: One leg threaded around the outside of the opponent's leg with the foot hooking the inside of the far thigh — a specialized inside position that controls one leg.
 
-**Why inside wins.** The mechanical advantage of inside leg position is leverage. Your legs can push harder than their arms can pull. Your hooks can elevate a body that outweighs you. Your knees can hold a barrier that their chest cannot easily break. When your legs are inside, you have the longer lever ad the stronger muscle group occupying the contested space.
+**Why inside wins.** The mechanical advantage of inside leg position is leverage. Your legs can push harder than their arms can pull. Your hooks can elevate a body that outweighs you. Your knees can hold a barrier that their chest cannot easily break. When your legs are inside, you have the longer lever and the stronger muscle group occupying the contested space.
 
 The passer knows this. Every passing system is — at its core — an attempt to get past the guard player's legs. Around them, over them, through them, or under them. Once the passer clears the legs, the guard is passed. Inside leg position is what makes that clearing difficult.
 

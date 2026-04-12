@@ -16,35 +16,39 @@ This chapter defines every tier of the hierarchy, explains the logic behind the 
 
 The positional hierarchy is organized from worst to best. "Worst" means the most dangerous and the fewest options. "Best" means the most control and the most offensive opportunity.
 
-```
-Tier 1 — Defensive Positions (Worst)
-    Back controlled (bottom)
-    Mount (bottom)
-    Side control (bottom)
+**Tier 1 — Defensive Positions (Worst)**
 
-Tier 2 — Recovery Positions
-    Turtle
-    Half guard (bottom)
-    Transitional frames (quarter guard, knee shield half)
+- Back controlled (bottom)
+- Mount (bottom)
+- Side control (bottom)
 
-Tier 3 — Neutral / Guard Positions
-    Closed guard (bottom)
-    Open guard variations (butterfly, De La Riva, spider, lasso, etc.)
+**Tier 2 — Recovery Positions**
 
-Tier 4 — Offensive Positions
-    Passing positions (standing in guard, headquarters)
-    Top half guard
+- Turtle
+- Half guard (bottom)
+- Transitional frames (quarter guard, knee shield half)
 
-Tier 5 — Dominant Positions
-    Side control (top)
-    Knee-on-belly (top)
-    Mount (top)
-    Back control (top)
+**Tier 3 — Neutral / Guard Positions**
 
-Tier 6 — Submission Phase
-    Strangles
-    Joint locks
-```
+- Closed guard (bottom)
+- Open guard variations (butterfly, De La Riva, spider, lasso, etc.)
+
+**Tier 4 — Offensive Positions**
+
+- Passing positions (standing in guard, headquarters)
+- Top half guard
+
+**Tier 5 — Dominant Positions**
+
+- Side control (top)
+- Knee-on-belly (top)
+- Mount (top)
+- Back control (top)
+
+**Tier 6 — Submission Phase**
+
+- Strangles
+- Joint locks
 
 ---
 
@@ -184,7 +188,7 @@ The top player sits on the opponent's torso with weight, gravity, and hip contro
 
 The top player controls the opponent's back with hooks and a seatbelt grip. This is the most dominant position in jiu jitsu — the opponent cannot see the attacker, cannot defend efficiently, and the rear naked choke is available.
 
-**Why it ranks here**: Back control is the apex of the positional hierarchy. The highest-percentage submission in the sport (rear naked choke) is directlyavailable. The bottom player has the fewest options and the lowest success rate for escape.
+**Why it ranks here**: Back control is the apex of the positional hierarchy. The highest-percentage submission in the sport (rear naked choke) is directly available. The bottom player has the fewest options and the lowest success rate for escape.
 
 **Primary curriculum reference**: Level 3 (back control maintenance), Level 6 (rear naked choke execution, arm attacks from back)
 
