@@ -1,10 +1,10 @@
-# The Universal Decision Framework
+﻿# The Universal Decision Framework
 
 ---
 
 ## The Six Questions
 
-In every position, in every transition, at every moment of every exchange, the same six questions apply. These questions are the operating system that runs beneath every technique. A student who can answer these six questions in real time — under pressure, while fatigued, against resistance — has the decision-making ability that separates competent practitioners from reactive ones.
+In every position, in every transition, at every moment of every exchange, the same six questions apply. These questions are the operating system that runs beneath every technique. A student who can answer these six questions in real time - under pressure, while fatigued, against resistance - has the decision-making ability that separates competent practitioners from reactive ones.
 
 The questions are ordered by priority. Question 1 must be answered before Question 2. Question 2 before Question 3. This order never changes.
 
@@ -32,13 +32,13 @@ The questions are ordered by priority. Question 1 must be answered before Questi
 
 - Proceed to Question 2
 
-**Curriculum connection**: Level 1 (recognizing danger, structural awareness), Level 2 (survival before escape — the entire level is built on answering this question first)
+**Curriculum connection**: Level 1 (recognizing danger, structural awareness), Level 2 (survival before escape - the entire level is built on answering this question first)
 
 ---
 
 ## Question 2: Who Has Inside Position?
 
-**What it means**: Whose limbs are closer to the other person's centerline? Who has underhooks, inside leg position, or inside frames — and who has lost them?
+**What it means**: Whose limbs are closer to the other person's centerline? Who has underhooks, inside leg position, or inside frames - and who has lost them?
 
 **Why it comes second**: Inside position is the most reliable predictor of who controls the exchange. The player with inside position dictates what happens next. The player without it reacts. Before planning any offensive or defensive action, the student must know who has this advantage.
 
@@ -51,7 +51,7 @@ The questions are ordered by priority. Question 1 must be answered before Questi
 **If the opponent has inside position**:
 
 - Pummel, re-frame, or reposition to reclaim inside position before advancing
-- Do not attempt sweeps, passes, or submissions from outside position — they will be countered
+- Do not attempt sweeps, passes, or submissions from outside position - they will be countered
 
 **If I have inside position**:
 
@@ -64,9 +64,9 @@ The questions are ordered by priority. Question 1 must be answered before Questi
 
 ## Question 3: Who Controls Head and Hips?
 
-**What it means**: Who has physical control of the opponent's head position and hip position? These are the two ends of the spine — control both and the opponent cannot move effectively.
+**What it means**: Who has physical control of the opponent's head position and hip position? These are the two ends of the spine - control both and the opponent cannot move effectively.
 
-**Why it comes third**: Inside position establishes the advantage. Head and hip control converts that advantage into physical dominance. A player with inside position who does not control head and hips has positional advantage without positional control — the opponent can still move, still escape, still create problems.
+**Why it comes third**: Inside position establishes the advantage. Head and hip control converts that advantage into physical dominance. A player with inside position who does not control head and hips has positional advantage without positional control - the opponent can still move, still escape, still create problems.
 
 **How to evaluate it**:
 
@@ -83,9 +83,9 @@ The questions are ordered by priority. Question 1 must be answered before Questi
 **If I control their head and hips**:
 
 - Maintain the control while proceeding to Question 4
-- Tighten the control if it is loose — a crossface that is not driving, or hip weight that is not pinning, invites escape
+- Tighten the control if it is loose - a crossface that is not driving, or hip weight that is not pinning, invites escape
 
-**Curriculum connection**: Level 1 (head and hip control as directional tools), Level 3 (pinning mechanics — controlling head and hips together), Level 5 (crossface and hip control to complete passes)
+**Curriculum connection**: Level 1 (head and hip control as directional tools), Level 3 (pinning mechanics - controlling head and hips together), Level 5 (crossface and hip control to complete passes)
 
 ---
 
@@ -93,7 +93,7 @@ The questions are ordered by priority. Question 1 must be answered before Questi
 
 **What it means**: Who can move? Who has the ability to change angles, change levels, create space, or close space? And who is immobilized?
 
-**Why it comes fourth**: After safety, inside position, and head/hip control are established, the next differentiator is movement. The player who can move has options. The player who cannot move has only one option — wait for an opportunity. Mobility determines whether the current advantage can be converted into the next position.
+**Why it comes fourth**: After safety, inside position, and head/hip control are established, the next differentiator is movement. The player who can move has options. The player who cannot move has only one option - wait for an opportunity. Mobility determines whether the current advantage can be converted into the next position.
 
 **How to evaluate it**:
 
@@ -105,7 +105,7 @@ The questions are ordered by priority. Question 1 must be answered before Questi
 **If I lack mobility**:
 
 - Create space using frames (Level 1, Level 2)
-- Recover hip movement first — the hips drive all positional changes
+- Recover hip movement first - the hips drive all positional changes
 - Do not attempt techniques that require mobility until mobility is restored
 
 **If I have mobility and the opponent does not**:
@@ -113,15 +113,15 @@ The questions are ordered by priority. Question 1 must be answered before Questi
 - Use the mobility to advance position, change angle for attacks, or transition to a more dominant position
 - Proceed to Question 5
 
-**Curriculum connection**: Level 2 (hip escape as the primary mobility tool), Level 4 (mobility from guard — leg pummeling, hip movement, angle creation), Level 7 (transition awareness — mobility during transitions is where the highest-value opportunities exist)
+**Curriculum connection**: Level 2 (hip escape as the primary mobility tool), Level 4 (mobility from guard - leg pummeling, hip movement, angle creation), Level 7 (transition awareness - mobility during transitions is where the highest-value opportunities exist)
 
 ---
 
 ## Question 5: What Is the Next Best Position?
 
-**What it means**: Where should I go from here? What is one tier up on the positional hierarchy? What is the realistic next step — not the dream finish, but the achievable next improvement?
+**What it means**: Where should I go from here? What is one tier up on the positional hierarchy? What is the realistic next step - not the dream finish, but the achievable next improvement?
 
-**Why it comes fifth**: Once safety, inside position, head/hip control, and mobility are accounted for, the student must decide where to go. This is the strategic question — the one that separates a reactive scrambler from a systematic practitioner.
+**Why it comes fifth**: Once safety, inside position, head/hip control, and mobility are accounted for, the student must decide where to go. This is the strategic question - the one that separates a reactive scrambler from a systematic practitioner.
 
 **How to evaluate it**:
 
@@ -139,15 +139,15 @@ The questions are ordered by priority. Question 1 must be answered before Questi
 
 **Do not skip tiers**. A student who tries to submit from half guard bottom is skipping three tiers. It works occasionally. It fails systematically.
 
-**Curriculum connection**: Level 1 (positional hierarchy awareness), Level 3 (advancing from control to more dominant control), Level 5 (guard to dominant position through passing), Level 7 (transition awareness — upgrading positions during transitions)
+**Curriculum connection**: Level 1 (positional hierarchy awareness), Level 3 (advancing from control to more dominant control), Level 5 (guard to dominant position through passing), Level 7 (transition awareness - upgrading positions during transitions)
 
 ---
 
 ## Question 6: What Threats Exist Right Now?
 
-**What it means**: What can the opponent do to me from this position? What submissions, sweeps, escapes, or transitions are available to them? And equally — what submissions, sweeps, passes, or transitions are available to me?
+**What it means**: What can the opponent do to me from this position? What submissions, sweeps, escapes, or transitions are available to them? And equally - what submissions, sweeps, passes, or transitions are available to me?
 
-**Why it comes last**: This is the tactical question — the specific, in-the-moment assessment that determines the next action. It comes last because it only makes sense in the context of the previous five answers. Identifying threats without knowing whether you are safe, who has inside position, who controls head and hips, who has mobility, and what the next best position is produces a list of threats without a framework for prioritizing them.
+**Why it comes last**: This is the tactical question - the specific, in-the-moment assessment that determines the next action. It comes last because it only makes sense in the context of the previous five answers. Identifying threats without knowing whether you are safe, who has inside position, who controls head and hips, who has mobility, and what the next best position is produces a list of threats without a framework for prioritizing them.
 
 **How to evaluate it**:
 
@@ -163,9 +163,9 @@ The questions are ordered by priority. Question 1 must be answered before Questi
 - What submissions can I attempt from here?
 - What sweeps, passes, or transitions can I use to advance?
 - Which opportunity is highest percentage given the current configuration?
-- Can I present two threats simultaneously (Level 7 — dilemma creation)?
+- Can I present two threats simultaneously (Level 7 - dilemma creation)?
 
-**Decision**: The most immediate threat — theirs or mine — determines the next action. If their threat is more immediate, defend first (return to Question 1). If my opportunity is clear, execute. If neither is urgent, improve position (return to Question 5).
+**Decision**: The most immediate threat - theirs or mine - determines the next action. If their threat is more immediate, defend first (return to Question 1). If my opportunity is clear, execute. If neither is urgent, improve position (return to Question 5).
 
 **Curriculum connection**: Level 4 (sweep vs submission decision from guard), Level 5 (choosing pass type based on available threats), Level 6 (recognizing submission opportunities), Level 7 (dilemma creation, chaining attacks, anticipating reactions)
 
@@ -173,9 +173,9 @@ The questions are ordered by priority. Question 1 must be answered before Questi
 
 ## The Framework in Practice
 
-The six questions run as a continuous loop. They are not asked once and forgotten — they are re-evaluated constantly as the situation changes. A position change triggers all six questions. A grip change triggers at least three. A transition triggers all six again.
+The six questions run as a continuous loop. They are not asked once and forgotten - they are re-evaluated constantly as the situation changes. A position change triggers all six questions. A grip change triggers at least three. A transition triggers all six again.
 
-In the beginning, the loop is slow and conscious. The student pauses, evaluates, and decides. With practice, the loop becomes automatic — running in the background while the body executes. This is what "mat awareness" actually is: the decision framework running fast enough that the answers arrive before the conscious mind processes them.
+In the beginning, the loop is slow and conscious. The student pauses, evaluates, and decides. With practice, the loop becomes automatic - running in the background while the body executes. This is what "mat awareness" actually is: the decision framework running fast enough that the answers arrive before the conscious mind processes them.
 
 The full loop:
 

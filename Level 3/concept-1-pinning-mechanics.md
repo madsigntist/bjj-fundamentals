@@ -1,4 +1,4 @@
-# Pinning Mechanics
+﻿# Pinning Mechanics
 
 ---
 
@@ -35,15 +35,15 @@ Make your weight their problem, not yours.
 
 ## Detailed Explanation
 
-A pin works when the opponent cannot move and you are not working hard to make that happen. That combination — their immobility and your efficiency — is the goal.
+A pin works when the opponent cannot move and you are not working hard to make that happen. That combination - their immobility and your efficiency - is the goal.
 
 There are several mechanical principles that make this possible.
 
-**Removing space.** A pin fails when there is space between your body and the opponent's body. Space is what they use to insert frames, turn, bridge, or hip escape. Eliminating space means covering them — chest to chest, hip to hip, shoulder to mat. Every gap you leave is a potential escape route.
+**Removing space.** A pin fails when there is space between your body and the opponent's body. Space is what they use to insert frames, turn, bridge, or hip escape. Eliminating space means covering them - chest to chest, hip to hip, shoulder to mat. Every gap you leave is a potential escape route.
 
 **Controlling the flat position.** The opponent is hardest to pin when they are on their side. They have frames, angles, and hip movement. When they are flat on their back, they lose most of these tools. Pinning mechanics often start with getting the opponent flat and keeping them there. Crossface pressure, hip control, and shoulder driving all contribute to flattening.
 
-**Angle of pressure.** Where your weight points matters as much as how much you weigh. Driving your weight straight down compresses but does not control direction. Driving at an angle — into the opponent's shoulder, across their face, toward the mat — takes away their ability to move in a specific direction. The best pins use angled pressure to shut down the escape routes one by one.
+**Angle of pressure.** Where your weight points matters as much as how much you weigh. Driving your weight straight down compresses but does not control direction. Driving at an angle - into the opponent's shoulder, across their face, toward the mat - takes away their ability to move in a specific direction. The best pins use angled pressure to shut down the escape routes one by one.
 
 **Low center of gravity.** Staying low and heavy is more effective than staying high and posted. When your hips are high, the opponent can get underneath you. When your hips are low and your weight is settled, they cannot create the leverage needed to move you.
 
@@ -55,7 +55,7 @@ These principles are not unique to one position. They appear in side control, mo
 
 ### A Pin Is a Means, Not an End
 
-Holding someone down, by itself, does not end a fight. A pin that does nothing but keep an opponent stationary is a wasted dominant position. The pin is only valuable insofar as it creates the conditions to finish — submissions, transitions to stronger positions, or sustained pressure that forces reactive mistakes.
+Holding someone down, by itself, does not end a fight. A pin that does nothing but keep an opponent stationary is a wasted dominant position. The pin is only valuable insofar as it creates the conditions to finish - submissions, transitions to stronger positions, or sustained pressure that forces reactive mistakes.
 
 This means not all pins are equal. They should be evaluated by how effectively they enable fight-ending actions:
 
@@ -64,18 +64,18 @@ This means not all pins are equal. They should be evaluated by how effectively t
 - **Knee-on-belly** sacrifices stability for tremendous mobility and transition speed. It compels movement and creates openings.
 - **Side control** offers the greatest stability and grinding pressure but somewhat fewer direct submission paths.
 
-The hierarchy within pins exists because some positions make the opponent's situation more desperate than others. A student should always be looking to advance from a good pin to a better one — not settling for control when a more dominant position is available.
+The hierarchy within pins exists because some positions make the opponent's situation more desperate than others. A student should always be looking to advance from a good pin to a better one - not settling for control when a more dominant position is available.
 
 ---
 
 ## Key Principles
 
-- A pin is a means to an end, not the end itself — it must enable submissions or positional advancement
-- Not all pins are equal — rank them by how effectively they enable fight-ending actions
+- A pin is a means to an end, not the end itself - it must enable submissions or positional advancement
+- Not all pins are equal - rank them by how effectively they enable fight-ending actions
 - Eliminate space between your body and the opponent's
-- Keep the opponent flat — fight to prevent them from turning to their side
+- Keep the opponent flat - fight to prevent them from turning to their side
 - Drive weight at an angle, not just straight down
-- Stay low and heavy — high hips invite escapes
+- Stay low and heavy - high hips invite escapes
 - Block escape routes before they open, do not chase them after
 - Use the mat as a second control surface
 - Effective pinning feels easy for you and heavy for them
@@ -135,7 +135,7 @@ Be heavy. Stay close. Keep them flat. Drive at an angle.
 
 - Hold side control or mount while the partner escapes at 50% effort
 - Focus on staying heavy and blocking movement before it starts
-- No submissions — only control
+- No submissions - only control
 - Rounds of 60 to 90 seconds
 
 **Weight Placement Drill**
@@ -150,4 +150,4 @@ Be heavy. Stay close. Keep them flat. Drive at an angle.
 
 At this level, the focus is on understanding what makes a pin effective and practicing the mechanics of holding position.
 
-At higher levels, pinning becomes dynamic. Students learn to adjust the pin in response to specific escape attempts, transition between pins without losing pressure, and combine pinning with submission setups. The mechanics stay the same — the application becomes more fluid.
+At higher levels, pinning becomes dynamic. Students learn to adjust the pin in response to specific escape attempts, transition between pins without losing pressure, and combine pinning with submission setups. The mechanics stay the same - the application becomes more fluid.

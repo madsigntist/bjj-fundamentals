@@ -1,4 +1,4 @@
-# Elbow-Knee Connection
+﻿# Elbow-Knee Connection
 
 ---
 
@@ -37,9 +37,9 @@ Close the gap. If your elbows and knees are connected, there is no highway throu
 
 Think of elbow-knee connection as a gate.
 
-When the gate is closed — elbows touching or near knees — the opponent has to work around you. They cannot drive through the center. They have to address your frames, deal with your legs, and find an indirect path.
+When the gate is closed - elbows touching or near knees - the opponent has to work around you. They cannot drive through the center. They have to address your frames, deal with your legs, and find an indirect path.
 
-When the gate is open — elbows high and knees low, or elbows out and knees in — the opponent walks through. No work required.
+When the gate is open - elbows high and knees low, or elbows out and knees in - the opponent walks through. No work required.
 
 This concept applies across almost every bottom position.
 
@@ -53,7 +53,7 @@ The connection does not need to be literal contact at all times. It is about kee
 
 This is also a recovery tool.
 
-When a position starts to go wrong — a pass is halfway through, mount is being established, a limb is being isolated — the first correction is often to pull elbows and knees back together. It does not solve the problem completely, but it slows the opponent down and gives you a chance to rebuild.
+When a position starts to go wrong - a pass is halfway through, mount is being established, a limb is being isolated - the first correction is often to pull elbows and knees back together. It does not solve the problem completely, but it slows the opponent down and gives you a chance to rebuild.
 
 Elbow-knee connection is quiet. It does not look impressive. There is no dramatic escape or counter. But it is one of the most consistent differences between a student who is hard to pass and control, and one who is not.
 
@@ -66,7 +66,7 @@ Elbow-knee connection is quiet. It does not look impressive. There is no dramati
 - Elbow-knee connection is the foundation of guard retention
 - Escapes from pins often start with re-establishing this connection
 - The opponent's primary passing goal is to separate your elbows from your knees
-- This is a habit, not a technique — it must become automatic
+- This is a habit, not a technique - it must become automatic
 - Small corrections matter more than big recoveries
 
 ---
@@ -88,7 +88,7 @@ Elbow-knee connection is quiet. It does not look impressive. There is no dramati
 ### Bottom Positions
 
 - Guard (all variations): keep elbows inside knees to prevent the passer from splitting your defense
-- Side control (bottom): hip escape to bring knee back to elbow — this is the escape
+- Side control (bottom): hip escape to bring knee back to elbow - this is the escape
 - Mount (bottom): elbows tight to ribs, knees working inward to prevent high mount and arm isolation
 - Half guard (bottom): the knee shield works because it maintains the elbow-knee connection on one side
 
@@ -121,7 +121,7 @@ When they separate, bad things happen. When they reconnect, you are back in the 
 
 - Partner attempts slow guard passes
 - Your only goal is to keep elbows and knees connected
-- No submissions, no sweeps — only connection maintenance
+- No submissions, no sweeps - only connection maintenance
 - Build awareness of when and where the gap opens
 
 **Reconnection Drill**
@@ -136,4 +136,4 @@ When they separate, bad things happen. When they reconnect, you are back in the 
 
 At this level, the focus is on building the habit of keeping elbows and knees close and recognizing when the connection is broken.
 
-At higher levels, this concept integrates with guard retention systems and passing defense. The connection becomes dynamic — maintained through movement rather than static positioning. Advanced students use the elbow-knee line as a reference point for all guard work, adjusting it constantly as the opponent changes angles.
+At higher levels, this concept integrates with guard retention systems and passing defense. The connection becomes dynamic - maintained through movement rather than static positioning. Advanced students use the elbow-knee line as a reference point for all guard work, adjusting it constantly as the opponent changes angles.

@@ -1,5 +1,5 @@
-/* ==========================================================================
-   BJJ Concepts Reader — app.css
+﻿/* ==========================================================================
+   BJJ Concepts Reader - app.css
    Mobile-first design / Book-style reader
    ========================================================================== */
 
@@ -28,7 +28,7 @@
     --color-text-tertiary: #8a8a8a;
     --color-text-inverse: #ffffff;
 
-    /* Section colors — black & red (instructor belt) */
+    /* Section colors - black & red (instructor belt) */
     --color-blueprint: #1a1a1a;
     --color-level1: #a41311;
     --color-level2: #a41311;
@@ -1150,7 +1150,7 @@ body {
 }
 
 /* --------------------------------------------------------------------------
-   DESKTOP — 768px+
+   DESKTOP - 768px+
    -------------------------------------------------------------------------- */
 @media (min-width: 768px) {
     .reader__home-actions {
@@ -1168,7 +1168,7 @@ body {
 }
 
 /* --------------------------------------------------------------------------
-   DESKTOP — 1024px+
+   DESKTOP - 1024px+
    -------------------------------------------------------------------------- */
 @media (min-width: 1024px) {
 
@@ -1196,12 +1196,12 @@ body {
         display: none;
     }
 
-    /* Hide menu toggle on desktop — sidebar is always visible */
+    /* Hide menu toggle on desktop - sidebar is always visible */
     .reader__icon-btn--menu {
         display: none;
     }
 
-    /* Browse Contents not needed on desktop — TOC sidebar is visible */
+    /* Browse Contents not needed on desktop - TOC sidebar is visible */
     #browseBtn {
         display: none;
     }

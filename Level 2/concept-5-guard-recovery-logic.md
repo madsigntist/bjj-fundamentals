@@ -1,4 +1,4 @@
-# Guard Recovery Logic
+﻿# Guard Recovery Logic
 
 ---
 
@@ -43,26 +43,26 @@ Guard recovery fills that window.
 
 Not every escape leads to guard. The escape priority from any inferior position follows this order:
 
-1. **Escape to guard position** — This is the primary goal and the safest path. Guard (Tier 3) gives you defensive structure and offensive options.
-2. **Escape to knees or standing** — A valid alternative that returns you to a neutral position, but carries more risk during the transition.
-3. **Reverse the opponent** — Higher risk and higher reward. A failed reversal often leaves you in a worse position and fatigued. Attempt only when the opportunity is clear.
-4. **Attempt a submission hold** — Even if the submission fails, it forces the opponent to back off and creates the space needed for escape. A submission attempt from the bottom should always be considered a secondary benefit of making the opponent react, not the primary plan.
+1. **Escape to guard position** - This is the primary goal and the safest path. Guard (Tier 3) gives you defensive structure and offensive options.
+2. **Escape to knees or standing** - A valid alternative that returns you to a neutral position, but carries more risk during the transition.
+3. **Reverse the opponent** - Higher risk and higher reward. A failed reversal often leaves you in a worse position and fatigued. Attempt only when the opportunity is clear.
+4. **Attempt a submission hold** - Even if the submission fails, it forces the opponent to back off and creates the space needed for escape. A submission attempt from the bottom should always be considered a secondary benefit of making the opponent react, not the primary plan.
 
 Guard recovery is the default. The other options exist for specific circumstances, but when in doubt, recover guard.
 
 ### What Guard Recovery Looks Like
 
-The logic starts with understanding what a guard actually is. A guard is any position where your legs are between you and the opponent and you have some form of control or structure. It does not need to be a specific named guard. It needs to be functional — your legs are in the way, the opponent cannot freely advance, and you have options.
+The logic starts with understanding what a guard actually is. A guard is any position where your legs are between you and the opponent and you have some form of control or structure. It does not need to be a specific named guard. It needs to be functional - your legs are in the way, the opponent cannot freely advance, and you have options.
 
 The **elbow escape** (hip escape / shrimp) is the single most reliable escape in jiu jitsu. It demands little strength, works against much larger opponents, and keeps the escaping player in a low-risk position throughout. Most guard recoveries begin with some form of elbow escape to create the space needed to reinsert the legs.
 
 The recovery process follows a sequence.
 
-**Step one: create space.** This comes from the escape itself — frames, hip escapes, bridges. Without space, there is nothing to recover into.
+**Step one: create space.** This comes from the escape itself - frames, hip escapes, bridges. Without space, there is nothing to recover into.
 
 **Step two: insert a knee or shin.** The first leg that crosses between you and the opponent is the anchor. In most escapes from side control, this is the near-side knee. It slides in along the frame line, turning the gap into a barrier. From mount escapes, it is often the knee that comes through after the bridge creates the opening.
 
-**Step three: establish a connection.** A loose leg between you and the opponent is not a guard. You need to connect — a knee shield, a foot on the hip, a hook around the leg. Something that gives your position structure and prevents the opponent from simply pushing through.
+**Step three: establish a connection.** A loose leg between you and the opponent is not a guard. You need to connect - a knee shield, a foot on the hip, a hook around the leg. Something that gives your position structure and prevents the opponent from simply pushing through.
 
 **Step four: rebuild.** From the initial connection, work toward a more complete guard. Bring the second leg into play. Adjust your hips. Re-establish grips or frames. This is where you transition from "I just escaped" to "I am in my guard."
 
@@ -70,7 +70,7 @@ Not every recovery goes through all four steps cleanly. Sometimes you get a quic
 
 Timing matters.
 
-If you try to insert your legs too early — before the space exists — your leg gets trapped and the position worsens. If you wait too long, the opponent re-establishes control and the window closes. The right moment is when the space is there but the opponent has not yet filled it.
+If you try to insert your legs too early - before the space exists - your leg gets trapped and the position worsens. If you wait too long, the opponent re-establishes control and the window closes. The right moment is when the space is there but the opponent has not yet filled it.
 
 Direction matters.
 
@@ -82,12 +82,12 @@ One common failure point is stopping after the first leg gets in. A single knee 
 
 ## Key Principles
 
-- Always recover to guard after escaping — do not settle for open space
-- Create space first, then insert legs — never force legs in without room
+- Always recover to guard after escaping - do not settle for open space
+- Create space first, then insert legs - never force legs in without room
 - The near-side knee is usually the first to recover
-- One leg is a start, not a guard — continue building until the position is stable
+- One leg is a start, not a guard - continue building until the position is stable
 - Recover in the direction of your hip escape
-- Speed of recovery matters — the window between escape and re-capture is short
+- Speed of recovery matters - the window between escape and re-capture is short
 - Guard recovery is the connection between defense and neutral position
 
 ---
@@ -124,7 +124,7 @@ One common failure point is stopping after the first leg gets in. A single knee 
 
 - Clear hooks and get shoulders to the mat
 - Turn into the opponent rather than away
-- Recover to guard as you turn — legs come in as the body rotates
+- Recover to guard as you turn - legs come in as the body rotates
 - Do not turn away and give up the back again
 
 ### Transitions
@@ -173,4 +173,4 @@ Create the space. Fill it with your legs. Build from there.
 
 At this level, the focus is on understanding the sequence and building the habit of always recovering to guard after escaping.
 
-At higher levels, guard recovery becomes more specific. Students learn to recover to particular guards based on the situation — choosing between half guard, butterfly, or open guard depending on the opponent's position and momentum. Recovery also becomes faster, blending with the escape itself into one continuous movement.
+At higher levels, guard recovery becomes more specific. Students learn to recover to particular guards based on the situation - choosing between half guard, butterfly, or open guard depending on the opponent's position and momentum. Recovery also becomes faster, blending with the escape itself into one continuous movement.

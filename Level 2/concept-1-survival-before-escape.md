@@ -1,4 +1,4 @@
-# Survival Before Escape
+﻿# Survival Before Escape
 
 ---
 
@@ -78,7 +78,7 @@ Survival teaches patience under pressure. It trains the student to resist panic.
 - Bridging or hip escaping at the wrong time, creating space the opponent fills
 - Ignoring neck protection to focus on escaping
 - Using maximum effort when the opponent's control is strongest
-- Confusing stillness with survival — survival requires structure, not just waiting
+- Confusing stillness with survival - survival requires structure, not just waiting
 - Treating every bad position with the same escape response
 
 ---
@@ -93,7 +93,7 @@ Survival teaches patience under pressure. It trains the student to resist panic.
 
 ### Top Positions
 
-- Recognize when the bottom player skips survival — their rushed escapes create openings for submissions and transitions
+- Recognize when the bottom player skips survival - their rushed escapes create openings for submissions and transitions
 - A patient top player punishes premature escape attempts
 
 ### Transitions
@@ -118,7 +118,7 @@ If you skip step one, step three does not work.
 **Survival Rounds**
 
 - Start in a bad position (mount, side control, or back control)
-- Goal is not to escape — goal is to survive for 30 to 60 seconds
+- Goal is not to escape - goal is to survive for 30 to 60 seconds
 - Focus on breathing, structure, and threat management
 - No escape attempts allowed during the drill
 

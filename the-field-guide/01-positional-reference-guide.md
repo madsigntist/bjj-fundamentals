@@ -1,27 +1,27 @@
-# Positional Reference Guide
+﻿# Positional Reference Guide
 
 ---
 
-Every major position in jiu jitsu is broken down using the same eight-point template defined in the Guideline Framework. This guide is a quick-reference companion to the main curriculum — use it to look up any position and immediately understand its goals, controls, threats, and connections.
+Every major position in jiu jitsu is broken down using the same eight-point template defined in the Guideline Framework. This guide is a quick-reference companion to the main curriculum - use it to look up any position and immediately understand its goals, controls, threats, and connections.
 
 ---
 
-## Mount — Top
+## Mount - Top
 
 ### 1. Positional Goal
 
-Maintain the mount position while setting up submissions. Mount is one of the two apex positions — the goal is to stay here and finish.
+Maintain the mount position while setting up submissions. Mount is one of the two apex positions - the goal is to stay here and finish.
 
 ### 2. Key Controls
 
-- Hips heavy on the opponent's torso — weight drives through the pelvis, not the knees
+- Hips heavy on the opponent's torso - weight drives through the pelvis, not the knees
 - Knees squeezed against the opponent's ribs or tucked under the armpits (high mount)
 - Grapevines or hooks on the legs to prevent bridging
 - Hands posted wide for base or controlling the opponent's arms
 
 ### 3. Primary Threats
 
-- Opponent bridges (upa) to reverse — especially dangerous when the top player is reaching for attacks
+- Opponent bridges (upa) to reverse - especially dangerous when the top player is reaching for attacks
 - Opponent elbow-knee escapes to half guard or guard by creating space on one side
 - Opponent traps an arm during a submission attempt and uses it as a reversal lever
 
@@ -33,9 +33,9 @@ Maintain the mount position while setting up submissions. Mount is one of the tw
 
 ### 5. Defensive Responsibilities
 
-- Maintain base — do not get rolled during submission attempts
-- Keep hips low — elevation creates bridging space
-- Control at least one arm or the head at all times — if both arms are free, the opponent has escape tools
+- Maintain base - do not get rolled during submission attempts
+- Keep hips low - elevation creates bridging space
+- Control at least one arm or the head at all times - if both arms are free, the opponent has escape tools
 
 ### 6. Offensive Opportunities
 
@@ -57,23 +57,23 @@ Maintain the mount position while setting up submissions. Mount is one of the tw
 
 ---
 
-## Mount — Bottom
+## Mount - Bottom
 
 ### 1. Positional Goal
 
-Escape the mount and recover to guard. This is a Tier 1 defensive position — survival first, escape second.
+Escape the mount and recover to guard. This is a Tier 1 defensive position - survival first, escape second.
 
 ### 2. Key Controls
 
-- Elbows tight to the body — do not allow arm isolation
-- Hands protecting the neck — chin tucked, frames on the biceps or chest
-- Feet flat on the mat — ready to bridge
+- Elbows tight to the body - do not allow arm isolation
+- Hands protecting the neck - chin tucked, frames on the biceps or chest
+- Feet flat on the mat - ready to bridge
 
 ### 3. Primary Threats
 
 - Chokes: cross-collar, ezekiel, arm triangle
 - Arm attacks: armbar (high mount), americana (low mount)
-- The opponent climbing to high mount — each inch higher reduces escape options
+- The opponent climbing to high mount - each inch higher reduces escape options
 
 ### 4. Opponent Objectives
 
@@ -83,13 +83,13 @@ Escape the mount and recover to guard. This is a Tier 1 defensive position — s
 
 ### 5. Defensive Responsibilities
 
-- Protect the neck at all times — tuck the chin, frame the chest
-- Keep elbows connected to the body — isolated arms get attacked
-- Do not panic bridge — time the bridge to the opponent's weight shift
+- Protect the neck at all times - tuck the chin, frame the chest
+- Keep elbows connected to the body - isolated arms get attacked
+- Do not panic bridge - time the bridge to the opponent's weight shift
 
 ### 6. Offensive Opportunities
 
-- Very limited — this is a survival position
+- Very limited - this is a survival position
 - Trap-and-roll (upa) reversal when the opponent overcommits weight
 - Elbow-knee escape to half guard or guard
 
@@ -101,11 +101,11 @@ Escape the mount and recover to guard. This is a Tier 1 defensive position — s
 
 ### 8. Submissions
 
-- None from standard mount bottom — escape first, attack later
+- None from standard mount bottom - escape first, attack later
 
 ---
 
-## Knee-on-Belly — Top
+## Knee-on-Belly - Top
 
 ### 1. Positional Goal
 
@@ -113,14 +113,14 @@ Maintain knee pressure on the opponent's torso while using superior mobility to 
 
 ### 2. Key Controls
 
-- Knee driven into the opponent's solar plexus or lower ribs — active downward pressure through the shin
+- Knee driven into the opponent's solar plexus or lower ribs - active downward pressure through the shin
 - Far-side leg posted wide for base and balance
 - Near-side hand gripping the opponent's collar, lapel, or far-side arm
 - Far-side hand controlling the near-side hip or belt to prevent turning
 
 ### 3. Primary Threats
 
-- Opponent turns into you (the near-side turn — most common escape attempt)
+- Opponent turns into you (the near-side turn - most common escape attempt)
 - Opponent pushes the knee off with hands
 - Opponent hip bumps and turns away, creating distance to recover guard
 - Opponent catches half guard by trapping the posted leg
@@ -133,14 +133,14 @@ Maintain knee pressure on the opponent's torso while using superior mobility to 
 
 ### 5. Defensive Responsibilities
 
-- Keep the knee heavy and centered — a light knee invites push-offs
-- Maintain wide base with the posted leg — do not let both knees come together
-- React to the near-side turn immediately — if they turn in, transition to mount or re-spin to the far side
-- Do not chase — if the position is lost, settle into side control rather than losing everything
+- Keep the knee heavy and centered - a light knee invites push-offs
+- Maintain wide base with the posted leg - do not let both knees come together
+- React to the near-side turn immediately - if they turn in, transition to mount or re-spin to the far side
+- Do not chase - if the position is lost, settle into side control rather than losing everything
 
 ### 6. Offensive Opportunities
 
-- Baseball bat choke (gi — collar grips set before dropping)
+- Baseball bat choke (gi - collar grips set before dropping)
 - Far-side armbar (spin to armbar when opponent pushes the knee)
 - Near-side collar choke (cross-collar grip, drop weight)
 - Transition to mount (step over when opponent is flat and not pushing)
@@ -156,21 +156,21 @@ Maintain knee pressure on the opponent's torso while using superior mobility to 
 ### 8. Submissions
 
 - Baseball bat choke, cross-collar choke, far-side armbar, near-side collar choke
-- Many submissions from knee-on-belly come from the opponent's escape reactions — their attempts to push off or turn away expose limbs and the neck
+- Many submissions from knee-on-belly come from the opponent's escape reactions - their attempts to push off or turn away expose limbs and the neck
 
 ---
 
-## Knee-on-Belly — Bottom
+## Knee-on-Belly - Bottom
 
 ### 1. Positional Goal
 
-Escape the pressure and recover to guard or half guard. Knee-on-belly bottom requires immediate action — the pressure compels movement, which the top player exploits.
+Escape the pressure and recover to guard or half guard. Knee-on-belly bottom requires immediate action - the pressure compels movement, which the top player exploits.
 
 ### 2. Key Controls
 
 - Frame against the knee with both hands to prevent it from sinking deeper
-- Protect the collar — cross-collar chokes are the primary threat
-- Keep elbows tight — extended arms are easy submission targets
+- Protect the collar - cross-collar chokes are the primary threat
+- Keep elbows tight - extended arms are easy submission targets
 
 ### 3. Primary Threats
 
@@ -186,29 +186,29 @@ Escape the pressure and recover to guard or half guard. Knee-on-belly bottom req
 
 ### 5. Defensive Responsibilities
 
-- Do not push the knee with a straight arm — this invites armbars
-- Frame with both hands — one on the knee, one on the hip
+- Do not push the knee with a straight arm - this invites armbars
+- Frame with both hands - one on the knee, one on the hip
 - Turn to the near side (toward the opponent) to create space for guard recovery
-- Act quickly — knee-on-belly is designed to punish inaction
+- Act quickly - knee-on-belly is designed to punish inaction
 
 ### 6. Offensive Opportunities
 
-- Very limited from bottom — escape first
+- Very limited from bottom - escape first
 - If opponent is sloppy with base, a strong hip bump and turn-in can create a single-leg or scramble opportunity
 
 ### 7. Transitions
 
 - To half guard: block the knee and hip escape to catch the posted leg
 - To guard: push the knee off and insert both legs, reestablishing a guard framework
-- To turtle: turn away and come to knees (less ideal — exposes back momentarily)
+- To turtle: turn away and come to knees (less ideal - exposes back momentarily)
 
 ### 8. Submissions
 
-- None from standard knee-on-belly bottom — escape first, attack later
+- None from standard knee-on-belly bottom - escape first, attack later
 
 ---
 
-## Side Control — Top
+## Side Control - Top
 
 ### 1. Positional Goal
 
@@ -235,9 +235,9 @@ Maintain the pin while preparing submissions or transitions to mount or back. Si
 
 ### 5. Defensive Responsibilities
 
-- Maintain crossface — if the bottom player faces the top player, escape percentage increases dramatically
-- Block the near hip — if the hip is free, shrimping is easy
-- Stay heavy — if the weight lifts, frames become effective
+- Maintain crossface - if the bottom player faces the top player, escape percentage increases dramatically
+- Block the near hip - if the hip is free, shrimping is easy
+- Stay heavy - if the weight lifts, frames become effective
 
 ### 6. Offensive Opportunities
 
@@ -260,7 +260,7 @@ Maintain the pin while preparing submissions or transitions to mount or back. Si
 
 ---
 
-## Side Control — Bottom
+## Side Control - Bottom
 
 ### 1. Positional Goal
 
@@ -277,7 +277,7 @@ Escape side control and recover to guard. A Tier 1 defensive position.
 - Kimura and americana if arms are displaced
 - Cross-body arm attacks if far arm is reached
 - Opponent transitions to mount or north-south
-- Being flattened — progressive weight breaks down all frame structure over time
+- Being flattened - progressive weight breaks down all frame structure over time
 
 ### 4. Opponent Objectives
 
@@ -287,29 +287,29 @@ Escape side control and recover to guard. A Tier 1 defensive position.
 
 ### 5. Defensive Responsibilities
 
-- Maintain frames constantly — the moment frames drop, weight crushes
-- Do not allow the crossface to drive the head flat — fight for head position
-- Keep elbows tight — do not allow arm isolation
+- Maintain frames constantly - the moment frames drop, weight crushes
+- Do not allow the crossface to drive the head flat - fight for head position
+- Keep elbows tight - do not allow arm isolation
 
 ### 6. Offensive Opportunities
 
-- Very limited — frame, create space, escape
+- Very limited - frame, create space, escape
 - If the opponent overreaches for a submission, the underhook becomes available
 - Ghost escape when the opponent's weight is poorly distributed
 
 ### 7. Transitions
 
 - To guard: shrimp to create space, insert the knee, recover full guard or half guard
-- To turtle: if the opponent allows space above, turn to knees (temporary — recover guard from turtle)
+- To turtle: if the opponent allows space above, turn to knees (temporary - recover guard from turtle)
 - To standing: frame to create space, technical stand-up
 
 ### 8. Submissions
 
-- Rare from this position — occasional kimura or guillotine if the opponent's head drops low
+- Rare from this position - occasional kimura or guillotine if the opponent's head drops low
 
 ---
 
-## Back Control — Top
+## Back Control - Top
 
 ### 1. Positional Goal
 
@@ -336,9 +336,9 @@ The ultimate dominant position. Maintain back control and finish with a strangle
 
 ### 5. Defensive Responsibilities
 
-- Maintain hooks or body triangle — if hooks are cleared, the position is lost
-- Maintain seatbelt — if the grip breaks, the opponent can turn and escape
-- Follow the opponent's movement — if they scoot, follow; if they turn, re-adjust
+- Maintain hooks or body triangle - if hooks are cleared, the position is lost
+- Maintain seatbelt - if the grip breaks, the opponent can turn and escape
+- Follow the opponent's movement - if they scoot, follow; if they turn, re-adjust
 
 ### 6. Offensive Opportunities
 
@@ -359,7 +359,7 @@ The ultimate dominant position. Maintain back control and finish with a strangle
 
 ---
 
-## Back Control — Bottom
+## Back Control - Bottom
 
 ### 1. Positional Goal
 
@@ -367,13 +367,13 @@ Survive and escape. The most dangerous position in jiu jitsu. Priority zero: pro
 
 ### 2. Key Controls
 
-- Two-hand grip defense: both hands fighting the choking arm — one on the wrist, one on the elbow
+- Two-hand grip defense: both hands fighting the choking arm - one on the wrist, one on the elbow
 - Chin tuck: chin pressed to the chest to deny access to the neck
 - Shoulder shrug: shoulder elevated on the choking side to close the neck space
 
 ### 3. Primary Threats
 
-- Rear naked choke — the primary and most dangerous threat
+- Rear naked choke - the primary and most dangerous threat
 - Collar chokes from behind
 - Arm attacks if the bottom player overcommits one arm to defense
 
@@ -385,18 +385,18 @@ Survive and escape. The most dangerous position in jiu jitsu. Priority zero: pro
 
 ### 5. Defensive Responsibilities
 
-- Protect the neck at all costs — this is the number one priority, above everything
-- Fight the hands — clear the grip before any escape attempt
-- Do not extend the arms — a reaching arm is an isolated arm
+- Protect the neck at all costs - this is the number one priority, above everything
+- Fight the hands - clear the grip before any escape attempt
+- Do not extend the arms - a reaching arm is an isolated arm
 
 ### 6. Offensive Opportunities
 
-- None — this is purely a defensive position. Escape first.
+- None - this is purely a defensive position. Escape first.
 
 ### 7. Transitions
 
 - Escape to guard: fight grips, clear the top hook, drop hips to the mat, turn to face, recover guard
-- Escape to turtle: worst case mid-escape position — immediately recover to guard or standing from turtle
+- Escape to turtle: worst case mid-escape position - immediately recover to guard or standing from turtle
 
 ### 8. Submissions
 
@@ -404,15 +404,15 @@ Survive and escape. The most dangerous position in jiu jitsu. Priority zero: pro
 
 ---
 
-## Closed Guard — Top (In Opponent's Guard)
+## Closed Guard - Top (In Opponent's Guard)
 
 ### 1. Positional Goal
 
-Maintain posture, open the guard, and pass. Being inside someone's closed guard is a slight disadvantage — the guard player has more offensive options than the top player.
+Maintain posture, open the guard, and pass. Being inside someone's closed guard is a slight disadvantage - the guard player has more offensive options than the top player.
 
 ### 2. Key Controls
 
-- Posture: head up, spine straight, hands on the hips or lapels — do not let posture break
+- Posture: head up, spine straight, hands on the hips or lapels - do not let posture break
 - Hip distance: maintain space between the torso and the guard player's hips
 - Grip control: strip threatening grips before they establish
 
@@ -430,14 +430,14 @@ Maintain posture, open the guard, and pass. Being inside someone's closed guard 
 
 ### 5. Defensive Responsibilities
 
-- Maintain posture at all times — posture is the primary defense against everything from closed guard
-- Keep elbows inside — arms extended or reaching create armbar and triangle openings
-- Keep base — do not get swept by ignoring weight distribution
+- Maintain posture at all times - posture is the primary defense against everything from closed guard
+- Keep elbows inside - arms extended or reaching create armbar and triangle openings
+- Keep base - do not get swept by ignoring weight distribution
 
 ### 6. Offensive Opportunities
 
 - Guard opening sequences: posture up, control hips, open the legs
-- Very limited submission options from inside closed guard — the priority is to pass
+- Very limited submission options from inside closed guard - the priority is to pass
 
 ### 7. Transitions
 
@@ -447,11 +447,11 @@ Maintain posture, open the guard, and pass. Being inside someone's closed guard 
 
 ### 8. Submissions
 
-- Limited from this position — occasional can-opener setup, ezekiel, or guillotine if the opponent sits up
+- Limited from this position - occasional can-opener setup, ezekiel, or guillotine if the opponent sits up
 
 ---
 
-## Closed Guard — Bottom
+## Closed Guard - Bottom
 
 ### 1. Positional Goal
 
@@ -465,7 +465,7 @@ Control the opponent's posture and attack with sweeps and submissions. Closed gu
 
 ### 3. Primary Threats
 
-- Opponent postures up and opens the guard — leading to guard passing
+- Opponent postures up and opens the guard - leading to guard passing
 - Opponent stacks during submission attempts
 - Opponent stands to begin a standing guard pass
 
@@ -479,7 +479,7 @@ Control the opponent's posture and attack with sweeps and submissions. Closed gu
 
 - Do not let the guard be opened without being in a strong retention position
 - Do not overcommit to sweeps that leave the back exposed
-- Do not hang on submissions that are clearly defended — transition instead
+- Do not hang on submissions that are clearly defended - transition instead
 
 ### 6. Offensive Opportunities
 
@@ -499,11 +499,11 @@ Control the opponent's posture and attack with sweeps and submissions. Closed gu
 
 ---
 
-## Half Guard — Top
+## Half Guard - Top
 
 ### 1. Positional Goal
 
-Complete the pass to side control or mount. Top half guard is an offensive position — the pass is in progress.
+Complete the pass to side control or mount. Top half guard is an offensive position - the pass is in progress.
 
 ### 2. Key Controls
 
@@ -526,9 +526,9 @@ Complete the pass to side control or mount. Top half guard is an offensive posit
 
 ### 5. Defensive Responsibilities
 
-- Maintain crossface — do not concede head position
-- Deny the underhook — whizzer (overhook) defense if the opponent gets it
-- Keep weight low — do not create space for the knee shield insertion
+- Maintain crossface - do not concede head position
+- Deny the underhook - whizzer (overhook) defense if the opponent gets it
+- Keep weight low - do not create space for the knee shield insertion
 
 ### 6. Offensive Opportunities
 
@@ -548,7 +548,7 @@ Complete the pass to side control or mount. Top half guard is an offensive posit
 
 ---
 
-## Half Guard — Bottom
+## Half Guard - Bottom
 
 ### 1. Positional Goal
 
@@ -562,7 +562,7 @@ Sweep the opponent or recover full guard. Half guard bottom is a Tier 2 recovery
 
 ### 3. Primary Threats
 
-- Opponent crossfaces and flattens — killing the underhook and guard retention options
+- Opponent crossfaces and flattens - killing the underhook and guard retention options
 - Opponent frees the trapped leg and completes the pass to side control
 - Opponent uses heavy hip pressure to immobilize the bottom player
 
@@ -574,8 +574,8 @@ Sweep the opponent or recover full guard. Half guard bottom is a Tier 2 recovery
 
 ### 5. Defensive Responsibilities
 
-- Do not get flattened — maintain a frame or knee shield at all times
-- Do not lose the underhook — it is the primary offensive tool from half guard bottom
+- Do not get flattened - maintain a frame or knee shield at all times
+- Do not lose the underhook - it is the primary offensive tool from half guard bottom
 - Do not allow both shoulders to touch the mat simultaneously
 
 ### 6. Offensive Opportunities
@@ -597,7 +597,7 @@ Sweep the opponent or recover full guard. Half guard bottom is a Tier 2 recovery
 
 ---
 
-## Turtle — Top
+## Turtle - Top
 
 ### 1. Positional Goal
 
@@ -623,9 +623,9 @@ Take the back or return the opponent to a controlled bottom position (side contr
 
 ### 5. Defensive Responsibilities
 
-- Maintain chest-to-back contact — if the opponent creates space, they escape
-- Do not overcommit to one side — the opponent will roll to the other
-- Follow the opponent's movement — stay connected
+- Maintain chest-to-back contact - if the opponent creates space, they escape
+- Do not overcommit to one side - the opponent will roll to the other
+- Follow the opponent's movement - stay connected
 
 ### 6. Offensive Opportunities
 
@@ -645,16 +645,16 @@ Take the back or return the opponent to a controlled bottom position (side contr
 
 ---
 
-## Turtle — Bottom
+## Turtle - Bottom
 
 ### 1. Positional Goal
 
-Recover guard or stand up. Turtle is a Tier 2 transitional position — do not stay here longer than necessary.
+Recover guard or stand up. Turtle is a Tier 2 transitional position - do not stay here longer than necessary.
 
 ### 2. Key Controls
 
-- Elbows tight to the body — prevent the opponent from reaching through
-- Chin tucked — protect the neck from chokes
+- Elbows tight to the body - prevent the opponent from reaching through
+- Chin tucked - protect the neck from chokes
 - Hips ready to sit through or stand
 
 ### 3. Primary Threats
@@ -673,11 +673,11 @@ Recover guard or stand up. Turtle is a Tier 2 transitional position — do not s
 
 - Do not allow hooks: keep elbows against the thighs to block hook insertion
 - Do not allow seatbelt: keep arms tight and fight any grip that reaches across the chest
-- Move immediately: turtle is temporary — every second spent here increases the opponent's back-take percentage
+- Move immediately: turtle is temporary - every second spent here increases the opponent's back-take percentage
 
 ### 6. Offensive Opportunities
 
-- Very limited — the priority is to escape
+- Very limited - the priority is to escape
 - Sit-through to guard: roll to one hip and recover guard
 - Granby roll: rolling inversion to arrive in guard
 - Stand up: post on the hands and stand to a wrestling stance
@@ -690,7 +690,7 @@ Recover guard or stand up. Turtle is a Tier 2 transitional position — do not s
 
 ### 8. Submissions
 
-- None — escape first
+- None - escape first
 
 ---
 
@@ -701,6 +701,6 @@ Each entry follows the same eight-point template. This consistency means that on
 Use this guide:
 
 - **Before training**: Look up the positions you will be working and review the key controls, threats, and transitions
-- **After training**: When a position went wrong, look it up here and compare what happened with what should happen — identify which element broke down
+- **After training**: When a position went wrong, look it up here and compare what happened with what should happen - identify which element broke down
 - **During curriculum study**: Cross-reference the concept sections with these positional breakdowns to see how concepts map to specific positions
-- **As a teaching tool**: The eight-point template can be used to teach any position in a structured way — goal, controls, threats, opponent goals, defense, offense, transitions, submissions
+- **As a teaching tool**: The eight-point template can be used to teach any position in a structured way - goal, controls, threats, opponent goals, defense, offense, transitions, submissions

@@ -1,8 +1,8 @@
-(function () {
+﻿(function () {
   "use strict";
 
   /* ======================================================================
-       DOCUMENTS — Ordered sequentially for cover-to-cover reading
+       DOCUMENTS - Ordered sequentially for cover-to-cover reading
        ====================================================================== */
   var DOCUMENTS = [
     // ── The Blueprint ────────────────────────────────────────────────
@@ -79,11 +79,11 @@
       ],
     },
 
-    // ── Level 1 — Foundational Mechanics ─────────────────────────────
+    // ── Level 1 - Foundational Mechanics ─────────────────────────────
     {
       title: "Positional Hierarchy",
       path: "Level 1/concept-1-positional-hierarchy.md",
-      section: "Level 1 — Foundational Mechanics",
+      section: "Level 1 - Foundational Mechanics",
       sectionKey: "level-1",
       keywords: [
         "positional hierarchy",
@@ -98,7 +98,7 @@
     {
       title: "Base",
       path: "Level 1/concept-2-base.md",
-      section: "Level 1 — Foundational Mechanics",
+      section: "Level 1 - Foundational Mechanics",
       sectionKey: "level-1",
       keywords: [
         "base",
@@ -112,7 +112,7 @@
     {
       title: "Posture",
       path: "Level 1/concept-3-posture.md",
-      section: "Level 1 — Foundational Mechanics",
+      section: "Level 1 - Foundational Mechanics",
       sectionKey: "level-1",
       keywords: [
         "posture",
@@ -126,7 +126,7 @@
     {
       title: "Frames & Distance",
       path: "Level 1/concept-4-frames-distance.md",
-      section: "Level 1 — Foundational Mechanics",
+      section: "Level 1 - Foundational Mechanics",
       sectionKey: "level-1",
       keywords: [
         "frames",
@@ -140,7 +140,7 @@
     {
       title: "Movement Fundamentals",
       path: "Level 1/concept-5-movement-fundamentals.md",
-      section: "Level 1 — Foundational Mechanics",
+      section: "Level 1 - Foundational Mechanics",
       sectionKey: "level-1",
       keywords: [
         "movement",
@@ -154,7 +154,7 @@
     {
       title: "Inside Position Awareness",
       path: "Level 1/concept-6-inside-position-awareness.md",
-      section: "Level 1 — Foundational Mechanics",
+      section: "Level 1 - Foundational Mechanics",
       sectionKey: "level-1",
       keywords: [
         "inside position",
@@ -167,7 +167,7 @@
     {
       title: "Head & Hip Control",
       path: "Level 1/concept-7-head-hip-control.md",
-      section: "Level 1 — Foundational Mechanics",
+      section: "Level 1 - Foundational Mechanics",
       sectionKey: "level-1",
       keywords: [
         "head control",
@@ -180,7 +180,7 @@
     {
       title: "Level 1 Integration",
       path: "Level 1/level-1-integration.md",
-      section: "Level 1 — Foundational Mechanics",
+      section: "Level 1 - Foundational Mechanics",
       sectionKey: "level-1",
       keywords: [
         "integration",
@@ -190,11 +190,11 @@
       ],
     },
 
-    // ── Level 2 — Defensive Systems ──────────────────────────────────
+    // ── Level 2 - Defensive Systems ──────────────────────────────────
     {
       title: "Survival Before Escape",
       path: "Level 2/concept-1-survival-before-escape.md",
-      section: "Level 2 — Defensive Systems",
+      section: "Level 2 - Defensive Systems",
       sectionKey: "level-2",
       keywords: [
         "survival",
@@ -208,7 +208,7 @@
     {
       title: "Frame Creation & Maintenance",
       path: "Level 2/concept-2-frame-creation-maintenance.md",
-      section: "Level 2 — Defensive Systems",
+      section: "Level 2 - Defensive Systems",
       sectionKey: "level-2",
       keywords: [
         "frames",
@@ -221,7 +221,7 @@
     {
       title: "Alignment Under Pressure",
       path: "Level 2/concept-3-alignment-under-pressure.md",
-      section: "Level 2 — Defensive Systems",
+      section: "Level 2 - Defensive Systems",
       sectionKey: "level-2",
       keywords: [
         "alignment",
@@ -235,7 +235,7 @@
     {
       title: "Elbow–Knee Connection",
       path: "Level 2/concept-4-elbow-knee-connection.md",
-      section: "Level 2 — Defensive Systems",
+      section: "Level 2 - Defensive Systems",
       sectionKey: "level-2",
       keywords: [
         "elbow knee",
@@ -248,7 +248,7 @@
     {
       title: "Guard Recovery Logic",
       path: "Level 2/concept-5-guard-recovery-logic.md",
-      section: "Level 2 — Defensive Systems",
+      section: "Level 2 - Defensive Systems",
       sectionKey: "level-2",
       keywords: [
         "guard recovery",
@@ -262,7 +262,7 @@
     {
       title: "Hand Fighting Basics",
       path: "Level 2/concept-6-hand-fighting-basics.md",
-      section: "Level 2 — Defensive Systems",
+      section: "Level 2 - Defensive Systems",
       sectionKey: "level-2",
       keywords: [
         "hand fighting",
@@ -275,7 +275,7 @@
     {
       title: "Level 2 Integration",
       path: "Level 2/level-2-integration.md",
-      section: "Level 2 — Defensive Systems",
+      section: "Level 2 - Defensive Systems",
       sectionKey: "level-2",
       keywords: [
         "integration",
@@ -285,11 +285,11 @@
       ],
     },
 
-    // ── Level 3 — Top-Position Control ───────────────────────────────
+    // ── Level 3 - Top-Position Control ───────────────────────────────
     {
       title: "Pinning Mechanics",
       path: "Level 3/concept-1-pinning-mechanics.md",
-      section: "Level 3 — Top-Position Control",
+      section: "Level 3 - Top-Position Control",
       sectionKey: "level-3",
       keywords: [
         "pinning",
@@ -304,7 +304,7 @@
     {
       title: "Controlling Head & Hips",
       path: "Level 3/concept-2-controlling-head-and-hips.md",
-      section: "Level 3 — Top-Position Control",
+      section: "Level 3 - Top-Position Control",
       sectionKey: "level-3",
       keywords: [
         "head control",
@@ -317,7 +317,7 @@
     {
       title: "Weight Distribution",
       path: "Level 3/concept-3-weight-distribution.md",
-      section: "Level 3 — Top-Position Control",
+      section: "Level 3 - Top-Position Control",
       sectionKey: "level-3",
       keywords: [
         "weight distribution",
@@ -330,7 +330,7 @@
     {
       title: "Preventing Movement Before Attacking",
       path: "Level 3/concept-4-preventing-movement-before-attacking.md",
-      section: "Level 3 — Top-Position Control",
+      section: "Level 3 - Top-Position Control",
       sectionKey: "level-3",
       keywords: [
         "prevent movement",
@@ -343,7 +343,7 @@
     {
       title: "Connection & Pressure",
       path: "Level 3/concept-5-connection-and-pressure.md",
-      section: "Level 3 — Top-Position Control",
+      section: "Level 3 - Top-Position Control",
       sectionKey: "level-3",
       keywords: [
         "connection",
@@ -356,16 +356,16 @@
     {
       title: "Level 3 Integration",
       path: "Level 3/level-3-integration.md",
-      section: "Level 3 — Top-Position Control",
+      section: "Level 3 - Top-Position Control",
       sectionKey: "level-3",
       keywords: ["integration", "review", "level 3 summary", "top control"],
     },
 
-    // ── Level 4 — Guard Play ────────────────────────────────────────
+    // ── Level 4 - Guard Play ────────────────────────────────────────
     {
       title: "Distance Management",
       path: "Level 4/concept-1-distance-management.md",
-      section: "Level 4 — Guard Play",
+      section: "Level 4 - Guard Play",
       sectionKey: "level-4",
       keywords: [
         "distance",
@@ -379,7 +379,7 @@
     {
       title: "Off-Balancing",
       path: "Level 4/concept-2-off-balancing.md",
-      section: "Level 4 — Guard Play",
+      section: "Level 4 - Guard Play",
       sectionKey: "level-4",
       keywords: [
         "off-balancing",
@@ -393,7 +393,7 @@
     {
       title: "Inside Leg Position",
       path: "Level 4/concept-3-inside-leg-position.md",
-      section: "Level 4 — Guard Play",
+      section: "Level 4 - Guard Play",
       sectionKey: "level-4",
       keywords: [
         "inside leg",
@@ -407,7 +407,7 @@
     {
       title: "Connection Points",
       path: "Level 4/concept-4-connection-points.md",
-      section: "Level 4 — Guard Play",
+      section: "Level 4 - Guard Play",
       sectionKey: "level-4",
       keywords: [
         "connection",
@@ -421,7 +421,7 @@
     {
       title: "Retention Layers",
       path: "Level 4/concept-5-retention-layers.md",
-      section: "Level 4 — Guard Play",
+      section: "Level 4 - Guard Play",
       sectionKey: "level-4",
       keywords: [
         "retention",
@@ -435,7 +435,7 @@
     {
       title: "Sweep vs Submission Decision Making",
       path: "Level 4/concept-6-sweep-vs-submission-decision-making.md",
-      section: "Level 4 — Guard Play",
+      section: "Level 4 - Guard Play",
       sectionKey: "level-4",
       keywords: [
         "sweep",
@@ -449,16 +449,16 @@
     {
       title: "Level 4 Integration",
       path: "Level 4/level-4-integration.md",
-      section: "Level 4 — Guard Play",
+      section: "Level 4 - Guard Play",
       sectionKey: "level-4",
       keywords: ["integration", "review", "level 4 summary", "guard play"],
     },
 
-    // ── Level 5 — Guard Passing ─────────────────────────────────────
+    // ── Level 5 - Guard Passing ─────────────────────────────────────
     {
       title: "Control Before Passing",
       path: "Level 5/concept-1-control-before-passing.md",
-      section: "Level 5 — Guard Passing",
+      section: "Level 5 - Guard Passing",
       sectionKey: "level-5",
       keywords: [
         "control",
@@ -471,7 +471,7 @@
     {
       title: "Beat Feet → Knees → Hips → Upper Body",
       path: "Level 5/concept-2-beat-feet-knees-hips-upper-body.md",
-      section: "Level 5 — Guard Passing",
+      section: "Level 5 - Guard Passing",
       sectionKey: "level-5",
       keywords: [
         "passing sequence",
@@ -485,7 +485,7 @@
     {
       title: "Separate Knees from Elbows",
       path: "Level 5/concept-3-separate-knees-from-elbows.md",
-      section: "Level 5 — Guard Passing",
+      section: "Level 5 - Guard Passing",
       sectionKey: "level-5",
       keywords: [
         "knees elbows",
@@ -498,7 +498,7 @@
     {
       title: "Clear Frames Before Advancing",
       path: "Level 5/concept-4-clear-frames-before-advancing.md",
-      section: "Level 5 — Guard Passing",
+      section: "Level 5 - Guard Passing",
       sectionKey: "level-5",
       keywords: [
         "clear frames",
@@ -511,7 +511,7 @@
     {
       title: "Pressure vs Movement Passing",
       path: "Level 5/concept-5-pressure-vs-movement-passing.md",
-      section: "Level 5 — Guard Passing",
+      section: "Level 5 - Guard Passing",
       sectionKey: "level-5",
       keywords: [
         "pressure passing",
@@ -524,16 +524,16 @@
     {
       title: "Level 5 Integration",
       path: "Level 5/level-5-integration.md",
-      section: "Level 5 — Guard Passing",
+      section: "Level 5 - Guard Passing",
       sectionKey: "level-5",
       keywords: ["integration", "review", "level 5 summary", "guard passing"],
     },
 
-    // ── Level 6 — Submission Mechanics ──────────────────────────────
+    // ── Level 6 - Submission Mechanics ──────────────────────────────
     {
       title: "Isolation Before Attack",
       path: "Level 6/concept-1-isolation-before-attack.md",
-      section: "Level 6 — Submission Mechanics",
+      section: "Level 6 - Submission Mechanics",
       sectionKey: "level-6",
       keywords: [
         "isolation",
@@ -546,7 +546,7 @@
     {
       title: "Exposure Before Finishing",
       path: "Level 6/concept-2-exposure-before-finishing.md",
-      section: "Level 6 — Submission Mechanics",
+      section: "Level 6 - Submission Mechanics",
       sectionKey: "level-6",
       keywords: [
         "exposure",
@@ -560,7 +560,7 @@
     {
       title: "Breaking Defensive Structures",
       path: "Level 6/concept-3-breaking-defensive-structures.md",
-      section: "Level 6 — Submission Mechanics",
+      section: "Level 6 - Submission Mechanics",
       sectionKey: "level-6",
       keywords: [
         "breaking defense",
@@ -573,7 +573,7 @@
     {
       title: "Control During Submission",
       path: "Level 6/concept-4-control-during-submission.md",
-      section: "Level 6 — Submission Mechanics",
+      section: "Level 6 - Submission Mechanics",
       sectionKey: "level-6",
       keywords: [
         "control",
@@ -586,7 +586,7 @@
     {
       title: "Mechanical Efficiency",
       path: "Level 6/concept-5-mechanical-efficiency.md",
-      section: "Level 6 — Submission Mechanics",
+      section: "Level 6 - Submission Mechanics",
       sectionKey: "level-6",
       keywords: [
         "mechanical efficiency",
@@ -599,7 +599,7 @@
     {
       title: "Level 6 Integration",
       path: "Level 6/level-6-integration.md",
-      section: "Level 6 — Submission Mechanics",
+      section: "Level 6 - Submission Mechanics",
       sectionKey: "level-6",
       keywords: [
         "integration",
@@ -609,11 +609,11 @@
       ],
     },
 
-    // ── Level 7 — System Integration ────────────────────────────────
+    // ── Level 7 - System Integration ────────────────────────────────
     {
       title: "Dilemma Creation",
       path: "Level 7/concept-1-dilemma-creation.md",
-      section: "Level 7 — System Integration",
+      section: "Level 7 - System Integration",
       sectionKey: "level-7",
       keywords: [
         "dilemma",
@@ -627,7 +627,7 @@
     {
       title: "Chaining Attacks",
       path: "Level 7/concept-2-chaining-attacks.md",
-      section: "Level 7 — System Integration",
+      section: "Level 7 - System Integration",
       sectionKey: "level-7",
       keywords: [
         "chaining",
@@ -641,7 +641,7 @@
     {
       title: "Anticipating Reactions",
       path: "Level 7/concept-3-anticipating-reactions.md",
-      section: "Level 7 — System Integration",
+      section: "Level 7 - System Integration",
       sectionKey: "level-7",
       keywords: [
         "anticipating",
@@ -655,7 +655,7 @@
     {
       title: "Transition Awareness",
       path: "Level 7/concept-4-transition-awareness.md",
-      section: "Level 7 — System Integration",
+      section: "Level 7 - System Integration",
       sectionKey: "level-7",
       keywords: [
         "transition",
@@ -669,7 +669,7 @@
     {
       title: "Energy Efficiency",
       path: "Level 7/concept-5-energy-efficiency.md",
-      section: "Level 7 — System Integration",
+      section: "Level 7 - System Integration",
       sectionKey: "level-7",
       keywords: [
         "energy",
@@ -683,7 +683,7 @@
     {
       title: "Strategic Pacing",
       path: "Level 7/concept-6-strategic-pacing.md",
-      section: "Level 7 — System Integration",
+      section: "Level 7 - System Integration",
       sectionKey: "level-7",
       keywords: [
         "strategic",
@@ -697,7 +697,7 @@
     {
       title: "Level 7 Integration",
       path: "Level 7/level-7-integration.md",
-      section: "Level 7 — System Integration",
+      section: "Level 7 - System Integration",
       sectionKey: "level-7",
       keywords: [
         "integration",
@@ -821,7 +821,7 @@
   ];
 
   /* ======================================================================
-       SECTIONS — for TOC and home cards
+       SECTIONS - for TOC and home cards
        ====================================================================== */
   var SECTIONS = [
     {
@@ -831,37 +831,37 @@
     },
     {
       key: "level-1",
-      label: "Level 1 — Foundational Mechanics",
+      label: "Level 1 - Foundational Mechanics",
       color: "var(--color-level1)",
     },
     {
       key: "level-2",
-      label: "Level 2 — Defensive Systems",
+      label: "Level 2 - Defensive Systems",
       color: "var(--color-level2)",
     },
     {
       key: "level-3",
-      label: "Level 3 — Top-Position Control",
+      label: "Level 3 - Top-Position Control",
       color: "var(--color-level3)",
     },
     {
       key: "level-4",
-      label: "Level 4 — Guard Play",
+      label: "Level 4 - Guard Play",
       color: "var(--color-level4)",
     },
     {
       key: "level-5",
-      label: "Level 5 — Guard Passing",
+      label: "Level 5 - Guard Passing",
       color: "var(--color-level5)",
     },
     {
       key: "level-6",
-      label: "Level 6 — Submission Mechanics",
+      label: "Level 6 - Submission Mechanics",
       color: "var(--color-level6)",
     },
     {
       key: "level-7",
-      label: "Level 7 — System Integration",
+      label: "Level 7 - System Integration",
       color: "var(--color-level7)",
     },
     {
@@ -943,7 +943,7 @@
   }
 
   /* ======================================================================
-       TOC — Build sidebar table of contents
+       TOC - Build sidebar table of contents
        ====================================================================== */
   function buildToc() {
     var html = "";
@@ -978,7 +978,7 @@
   }
 
   /* ======================================================================
-       HOME CARDS — Build section cards on home screen
+       HOME CARDS - Build section cards on home screen
        ====================================================================== */
   function buildHomeCards() {
     var html = "";

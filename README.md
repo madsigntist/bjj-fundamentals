@@ -1,4 +1,4 @@
-# BJJ Concepts — A Foundational Curriculum
+﻿# BJJ Concepts - A Foundational Curriculum
 
 A concept-first Brazilian Jiu-Jitsu curriculum delivered as a mobile-first digital reader. Seven levels from foundational mechanics to complete system integration.
 
@@ -38,7 +38,7 @@ Then open `http://localhost:3000` in a browser.
 
 ## Author
 
-Michael Kelly — michael.kelly.hash@gmail.com
+Michael Kelly - michael.kelly.hash@gmail.com
 
 ## License
 

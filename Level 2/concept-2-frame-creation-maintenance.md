@@ -1,4 +1,4 @@
-# Frame Creation and Maintenance
+﻿# Frame Creation and Maintenance
 
 ---
 
@@ -68,10 +68,10 @@ Frames are not walls. They do not hold space indefinitely on their own. They hol
 - Create frames during windows of opportunity, not against full pressure
 - Keep elbows connected to your body at all times
 - Align frames against the direction of the opponent's force
-- Replace collapsed frames immediately — do not pause
+- Replace collapsed frames immediately - do not pause
 - Reinforce frames by connecting two structures together when possible
-- Body position supports frame strength — stay on your side when underneath
-- Frames hold space temporarily — use the space before it closes
+- Body position supports frame strength - stay on your side when underneath
+- Frames hold space temporarily - use the space before it closes
 
 ---
 
@@ -83,7 +83,7 @@ Frames are not walls. They do not hold space indefinitely on their own. They hol
 - Holding a frame without acting on the space it creates
 - Allowing a collapsed frame to stay collapsed instead of rebuilding or replacing
 - Framing in the wrong direction relative to the opponent's pressure
-- Ignoring body position — staying flat while trying to frame
+- Ignoring body position - staying flat while trying to frame
 
 ---
 
@@ -91,14 +91,14 @@ Frames are not walls. They do not hold space indefinitely on their own. They hol
 
 ### Bottom Positions
 
-- Side control (bottom): frame against the neck with your near-side forearm, frame against the hip with your far-side hand — maintain both while working to your side
-- Mount (bottom): frame across the chest or against the hips to prevent the opponent from climbing high — maintain while setting up bridge and escape
-- Half guard (bottom): use the knee shield as a primary frame, reinforce with a hand on the bicep — maintain while working for underhook or guard recovery
+- Side control (bottom): frame against the neck with your near-side forearm, frame against the hip with your far-side hand - maintain both while working to your side
+- Mount (bottom): frame across the chest or against the hips to prevent the opponent from climbing high - maintain while setting up bridge and escape
+- Half guard (bottom): use the knee shield as a primary frame, reinforce with a hand on the bicep - maintain while working for underhook or guard recovery
 
 ### Top Positions
 
 - Recognize which frames the bottom player is relying on
-- Attack the weakest frame first — collapsing one often causes the others to fail
+- Attack the weakest frame first - collapsing one often causes the others to fail
 - Settle weight after removing a frame to prevent reconstruction
 
 ### Transitions
@@ -138,4 +138,4 @@ Build it. Keep it. Use it. If it breaks, build the next one immediately.
 
 At this level, the focus is on creating frames deliberately and keeping them alive under pressure.
 
-At higher levels, frame creation becomes faster and more instinctive. Frames begin to combine with movement — creating space and escaping in one motion rather than two separate steps. Frame maintenance also becomes more subtle, using small adjustments instead of full reconstructions.
+At higher levels, frame creation becomes faster and more instinctive. Frames begin to combine with movement - creating space and escaping in one motion rather than two separate steps. Frame maintenance also becomes more subtle, using small adjustments instead of full reconstructions.

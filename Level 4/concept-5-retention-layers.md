@@ -1,22 +1,22 @@
-# Retention Layers
+﻿# Retention Layers
 
 ---
 
 ## Definition
 
-Retention layers are the sequential defensive structures the guard player uses to prevent the guard from being passed. They are organized from outermost (first line of defense) to innermost (last line of defense). When the outer layer fails, the next layer activates. Guard retention is not one skill — it is a series of fallback positions, each one buying time and opportunity to recover the previous layer.
+Retention layers are the sequential defensive structures the guard player uses to prevent the guard from being passed. They are organized from outermost (first line of defense) to innermost (last line of defense). When the outer layer fails, the next layer activates. Guard retention is not one skill - it is a series of fallback positions, each one buying time and opportunity to recover the previous layer.
 
 ---
 
 ## Why It Matters
 
-No guard is unpassable. Every guard position can be broken, stripped, or bypassed. What makes a guard effective is not invincibility — it is resilience. The ability to recover when a layer is broken and rebuild before the pass is completed.
+No guard is unpassable. Every guard position can be broken, stripped, or bypassed. What makes a guard effective is not invincibility - it is resilience. The ability to recover when a layer is broken and rebuild before the pass is completed.
 
 Without understanding retention layers:
 
 - one successful grip break or leg clear from the passer ends the guard
 - the student panics when their primary guard is disrupted
-- guard recovery is random — there is no system for what to do when things go wrong
+- guard recovery is random - there is no system for what to do when things go wrong
 - the pass feels inevitable once the first line of defense breaks
 
 With understanding of retention layers:
@@ -40,7 +40,7 @@ Guard is not one wall. It is a series of walls. When the first falls, the next i
 
 Retention layers can be understood as concentric defensive rings around the guard player's hips. The passer must break through each ring to complete the pass. The guard player defends each ring and, when one falls, retreats to the next.
 
-**Layer 1: Feet and ankles (outermost).** This is the first barrier — feet on hips, feet on biceps, feet on knees. The guard player uses extended legs to keep maximum distance. The passer cannot pass because they cannot get past the feet.
+**Layer 1: Feet and ankles (outermost).** This is the first barrier - feet on hips, feet on biceps, feet on knees. The guard player uses extended legs to keep maximum distance. The passer cannot pass because they cannot get past the feet.
 
 When Layer 1 is working:
 
@@ -59,7 +59,7 @@ When Layer 2 is working:
 
 - the passer is slowed at close-medium range
 - the guard player has options to re-establish feet on hips (climbing back to Layer 1) or set up sweeps from the closer range
-- knee shield and butterfly positions are active guard positions, not just defensive — offense remains available
+- knee shield and butterfly positions are active guard positions, not just defensive - offense remains available
 
 When Layer 2 fails:
 
@@ -70,7 +70,7 @@ When Layer 2 fails:
 
 When Layer 3 is working:
 
-- the guard player is barely holding — the passer is close
+- the guard player is barely holding - the passer is close
 - the primary goal is to create enough space to re-insert a knee or foot (climbing back to Layer 2 or Layer 1)
 - this is survival, not offense
 
@@ -89,9 +89,9 @@ When Layer 3 fails:
 
 The best guard players rarely drop below Layer 2 because they are quick to recover Layer 1 before the passer can progress further. The cycle runs continuously throughout the guard exchange.
 
-**Layer transitions are not panic.** Dropping from one layer to the next should be smooth and intentional. When the passer clears your feet, the immediate response is not to flail — it is to activate the knee shield or insert butterfly hooks. This transition should be trained until it is automatic.
+**Layer transitions are not panic.** Dropping from one layer to the next should be smooth and intentional. When the passer clears your feet, the immediate response is not to flail - it is to activate the knee shield or insert butterfly hooks. This transition should be trained until it is automatic.
 
-Similarly, climbing back up — from knee shield back to feet on hips, for example — should be a practiced movement. Hip escape to create distance, then re-insert feet. This is the core retention skill: recovering a higher layer before the passer can break the current one.
+Similarly, climbing back up - from knee shield back to feet on hips, for example - should be a practiced movement. Hip escape to create distance, then re-insert feet. This is the core retention skill: recovering a higher layer before the passer can break the current one.
 
 **Layer-specific tools.**
 
@@ -105,23 +105,23 @@ Similarly, climbing back up — from knee shield back to feet on hips, for examp
 
 ## Key Principles
 
-- Guard retention is layered — outer, middle, inner defenses in sequence
+- Guard retention is layered - outer, middle, inner defenses in sequence
 - When an outer layer breaks, immediately activate the next inner layer
 - Always fight to climb back to a higher (outer) layer
 - Layer 1 (feet) → Layer 2 (knees) → Layer 3 (hips/frames) → passed
 - Transitions between layers should be smooth and trained, not panicked
 - The best retention is preventing Layer 1 from breaking in the first place
-- If Layer 3 fails, switch to escape mode — Level 2 skills activate
+- If Layer 3 fails, switch to escape mode - Level 2 skills activate
 
 ---
 
 ## Common Mistakes
 
-- Having only one layer — when it breaks, going straight to a passed position
+- Having only one layer - when it breaks, going straight to a passed position
 - Panicking when Layer 1 breaks instead of smoothly activating Layer 2
 - Staying in a broken layer instead of retreating to the next one
-- Not fighting to recover higher layers — accepting the lower layer as the final position
-- Skipping Layer 2 entirely — going from feet on hips straight to hip escape framing
+- Not fighting to recover higher layers - accepting the lower layer as the final position
+- Skipping Layer 2 entirely - going from feet on hips straight to hip escape framing
 - Relying on arm frames (Layer 3) when legs could still be engaged (Layer 2)
 - Not training the transitions between layers
 
@@ -175,17 +175,17 @@ Three fences around a house. The passer must climb each one. If they get over th
 
 **Layer Recovery Race**
 
-- Start at Layer 3 — partner has passed from feet and knees, you are on frames only
+- Start at Layer 3 - partner has passed from feet and knees, you are on frames only
 - Goal: climb back to Layer 1 (feet on hips) as fast as possible
 - Partner resists at 50%
-- Clock how long it takes — improve each round
+- Clock how long it takes - improve each round
 - Builds the reflex of always climbing back up
 
 **Continuous Retention Sparring**
 
 - Guard player's only goal: maintain guard for 3 minutes
 - Passer's goal: complete the pass
-- Guard player cannot sweep or submit — retention only
+- Guard player cannot sweep or submit - retention only
 - Forces the guard player to practice all three layers under live pressure
 
 ---
@@ -194,4 +194,4 @@ Three fences around a house. The passer must climb each one. If they get over th
 
 At this level, the focus is on understanding the three retention layers, recognizing which layer you are in, and practicing transitions between layers (both descending under pressure and climbing back up).
 
-At higher levels, retention becomes invisible. Advanced guard players cycle through layers so quickly that the passer never gets traction. They re-insert legs before the passer can consolidate, creating a feeling that the guard is impenetrable — when in reality, it is being broken and rebuilt multiple times per exchange. Advanced retention also becomes offensive — the act of re-inserting a leg or recovering a hook can become the entry for a sweep or submission.
+At higher levels, retention becomes invisible. Advanced guard players cycle through layers so quickly that the passer never gets traction. They re-insert legs before the passer can consolidate, creating a feeling that the guard is impenetrable - when in reality, it is being broken and rebuilt multiple times per exchange. Advanced retention also becomes offensive - the act of re-inserting a leg or recovering a hook can become the entry for a sweep or submission.
