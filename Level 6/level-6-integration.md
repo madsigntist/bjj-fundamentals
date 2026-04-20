@@ -46,10 +46,10 @@ Level 6 transforms the submission from a hopeful grab at a limb into a systemati
 
 The relationship flows like this:
 
-**Isolation Before Attack** (separate the target from help)
-→ **Exposure Before Finishing** (position the target for the submission)
-→→ **Breaking Defensive Structures** (defeat the last active defense)
-→→→ **Control During Submission** (maintain position throughout)
+**Isolation Before Attack** (separate the target from help)  
+→ **Exposure Before Finishing** (position the target for the submission)  
+→→ **Breaking Defensive Structures** (defeat the last active defense)  
+→→→ **Control During Submission** (maintain position throughout)  
 →→→→ **Mechanical Efficiency** (apply the finish with maximum leverage)
 
 ---

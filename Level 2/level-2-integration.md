@@ -47,11 +47,11 @@ Level 2 is a complete escape system. The six concepts execute in sequence, each 
 
 The relationship flows like this:
 
-**Survival Before Escape** (address immediate danger)
-→ **Alignment Under Pressure** (organize the body)
-→→ **Frame Creation and Maintenance** (build structure to hold space)
-→→→ **Hand Fighting Basics** (clear the opponent's controlling grips)
-→→→→ **Elbow-Knee Connection** (close the gap, create the gateway)
+**Survival Before Escape** (address immediate danger)  
+→ **Alignment Under Pressure** (organize the body)  
+→→ **Frame Creation and Maintenance** (build structure to hold space)  
+→→→ **Hand Fighting Basics** (clear the opponent's controlling grips)  
+→→→→ **Elbow-Knee Connection** (close the gap, create the gateway)  
 →→→→→ **Guard Recovery Logic** (complete the escape into guard)
 
 Each step depends on the previous. The sequence is the escape.

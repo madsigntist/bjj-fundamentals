@@ -44,10 +44,10 @@ Level 3 is a single system with five components. Each concept depends on the oth
 
 The relationship flows like this:
 
-**Pinning Mechanics** (how to hold)
-→ **Head and Hips** (where to control)
-→→ **Weight Distribution** (how precisely to apply weight)
-→→→ **Connection and Pressure** (how to feel and respond in real time)
+**Pinning Mechanics** (how to hold)  
+→ **Head and Hips** (where to control)  
+→→ **Weight Distribution** (how precisely to apply weight)  
+→→→ **Connection and Pressure** (how to feel and respond in real time)  
 →→→→ **Prevent Before Attack** (when to start your offense)
 
 Each layer adds refinement. Together, they produce top control that is heavy, responsive, targeted, informed, and patient.

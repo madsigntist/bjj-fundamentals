@@ -55,10 +55,10 @@ The three pairs integrate:
 
 And the full system flows:
 
-**Perceive** (anticipate the reaction, identify the transition window)
-→ **Decide** (choose the dilemma, select the chain)
-→→ **Execute** (attack with efficiency, at the right pace)
-→→→ **Adapt** (read the defense, flow to the next link)
+**Perceive** (anticipate the reaction, identify the transition window)  
+→ **Decide** (choose the dilemma, select the chain)  
+→→ **Execute** (attack with efficiency, at the right pace)  
+→→→ **Adapt** (read the defense, flow to the next link)  
 →→→→ **Perceive** (the cycle continues)
 
 ---
