@@ -4,9 +4,11 @@
 
 ## Definition
 
-Posture is the alignment and structure of your body that allows you to support force without collapsing.
+Posture is the internal alignment of your head, shoulders, and hips.
 
-It determines how well you can resist pressure, maintain control, and move efficiently.
+It is the integrity of your spine that allows you to bear weight, generate power, and prevent your opponent from using your head as a lever.
+
+Posture determines how well you can resist pressure, maintain control, and move efficiently.
 
 ---
 
@@ -35,36 +37,36 @@ If your structure breaks, everything breaks.
 
 ## Detailed Explanation
 
-Posture is about how your body is aligned under pressure.
+Posture is about the internal alignment of your body under pressure.
 
-In jiu-jitsu, alignment means your spine, head, hips, and limbs are positioned in a way that supports incoming force instead of collapsing under it.
+Where base is external — the platform your contact points create with the mat — posture is internal. It is the integrity of the line running from your head through your shoulders to your hips. When that line is intact, force distributes through your whole structure. When it breaks, your body folds and your opponent takes control.
 
-A strong posture keeps your body connected as a unit. When force is applied, it is distributed through your structure instead of isolating and breaking one part.
+The three landmarks of posture are your head, your shoulders, and your hips. When all three are stacked or properly aligned for the position you are in, your spine can do its job: bear weight and transfer force. When any one of them drifts out of alignment, your structure weakens.
 
 A common example is inside closed guard.
 
-If your posture is upright, with your head aligned over your hips and your back not rounded, it becomes much harder for your opponent to break you down. Your arms and core can work together, and your base remains stable.
+If your posture is upright, with your head aligned over your hips and your shoulders back, it becomes much harder for your opponent to break you down. Your arms and core can work together, and your base remains stable.
 
-If your posture is broken, your head is pulled forward, your back rounds, and your elbows drift away from your body. Now your structure is disconnected. The opponent can control your head, attack submissions, and disrupt your balance easily.
+If your posture is broken, your head is pulled forward, your shoulders round, and your elbows drift away from your body. Now your structure is disconnected. The opponent can control your head, attack submissions, and disrupt your balance easily.
 
-Posture also determines how efficiently you can apply pressure.
+This is why head position matters so much. Your head is the top of the lever. When your opponent pulls your head forward and down, they are using it as a handle to collapse your spine and fold your structure. Protecting your head position is not about comfort — it is about denying your opponent the lever they need to break your posture.
+
+Posture also determines how efficiently you can generate and apply force.
+
+Good posture lets you bear weight and push, pull, or redirect with your whole body connected. Poor posture disconnects your chain — your arms work alone, your core cannot engage, and your power drops.
 
 On top positions, good posture allows you to transfer your weight into your opponent without collapsing yourself. Poor posture means your weight leaks and your pressure becomes ineffective.
 
 There is a direct relationship between posture and base.
 
-- Base keeps you balanced
-- Posture keeps you structurally sound
+- Base is external — the footprint of your contact points with the mat
+- Posture is internal — the alignment and integrity of your spine
 
 You need both. You can have a wide base but still be weak if your posture is broken. You can have good posture but still fall if your base is unstable.
 
-Another key aspect is head position.
-
-Your head dictates your body's direction. If your head is pulled out of alignment, your posture will break. Protecting head position is one of the easiest ways to maintain structure.
-
 Posture is not rigid. It adapts.
 
-As the opponent moves, your posture must adjust to maintain alignment. This means engaging your core, keeping elbows connected, and maintaining proper positioning of your spine and hips.
+As the opponent moves, your posture must adjust to maintain alignment. This means engaging your core, keeping elbows connected, and maintaining proper positioning of your head, shoulders, and hips.
 
 A student with good posture feels hard to bend, hard to collapse, and difficult to control.
 
@@ -72,13 +74,14 @@ A student with good posture feels hard to bend, hard to collapse, and difficult 
 
 ## Key Principles
 
-- Keep head, spine, and hips aligned
-- Protect your head position
+- Keep head, shoulders, and hips aligned
+- Protect your head position — it is the lever your opponent wants
 - Keep elbows connected to your body
 - Do not allow your structure to fold
-- Engage your core to support alignment
+- Engage your core to maintain spine integrity
+- Good posture lets you bear weight and generate power
 - Maintain posture before attempting movement
-- Posture and base must work together
+- Posture (internal alignment) and base (external platform) must work together
 
 ---
 
@@ -116,7 +119,7 @@ A student with good posture feels hard to bend, hard to collapse, and difficult 
 
 ## Simple Mental Model
 
-Stay aligned. Do not fold.
+Head, shoulders, hips — keep the line. If they break the line, they break you.
 
 ---
 

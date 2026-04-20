@@ -4,9 +4,11 @@
 
 ## Definition
 
-Base is the ability to maintain balance and stability while applying or receiving force.
+Base is the platform you create with the mat to manage weight and resist force.
 
-It allows you to stay upright, prevent being knocked over, and control your body under pressure.
+It is the footprint of your contact points — feet, knees, hands — that keeps your hips stable and prevents you from being moved.
+
+Base allows you to stay upright, absorb pressure, and control your body under resistance.
 
 ---
 
@@ -35,45 +37,48 @@ If you cannot be moved, you cannot be controlled.
 
 ## Detailed Explanation
 
-Base is about how your body distributes weight and maintains balance.
+Base is about the platform your body creates with the mat.
 
-In jiu-jitsu, balance is constantly being challenged. Your opponent is always trying to shift your weight, remove your support, or force you into a position where you cannot stabilize yourself.
+Every point where you touch the ground — feet, knees, hands — defines a footprint. That footprint is your base. The wider and more balanced the footprint, the harder it is for your opponent to move you. The narrower or more lopsided it becomes, the easier you are to displace.
+
+Your hips sit at the center of this platform. Everything your opponent does to attack your base is ultimately an attempt to move your hips — to tip them, shift them, or lift them off their support. A strong base keeps your hips stable over your contact points so force passes through you into the mat instead of toppling you.
 
 A strong base comes from three main elements:
 
-- proper weight distribution
-- effective use of contact points (hands, knees, feet)
-- alignment of your center of gravity
+- proper weight distribution across your contact points
+- a wide enough footprint to resist force from multiple directions
+- hips centered and low over your platform
 
-When your weight is evenly distributed and supported, you are stable. When your weight is extended too far in one direction, or your support points are compromised, you become easy to move.
+When your weight is evenly distributed and your hips are supported, you are stable. When your weight drifts too far in one direction, or a contact point is removed, your hips lose their platform and you become easy to move.
 
-For example, if you are on top in mount and lean too far forward without proper support, your opponent can bridge and disrupt your balance. If your knees are too narrow or your hands are not positioned to post, you will be easy to sweep or reverse.
+For example, if you are on top in mount and lean too far forward without proper support, your opponent can bridge and disrupt your balance. If your knees are too narrow or your hands are not positioned to post, your hips have no platform and you will be easy to sweep or reverse.
 
 Base is not static. It adjusts constantly.
 
-As your opponent moves, you must adjust your base to maintain stability. This may involve widening your knees, posting a hand, lowering your hips, or shifting your weight.
+As your opponent moves, you must adjust your contact points to keep your hips stable. This may involve widening your knees, posting a hand, lowering your hips, or shifting your weight.
 
 There is also a relationship between base and posture.
 
-You can have a wide base but poor posture, which still makes you vulnerable. True stability comes from both working together.
+Base is external — the footprint you create with the mat. Posture is internal — the alignment of your spine and structure. You can have a wide base but poor posture, which still makes you vulnerable. True stability comes from both working together.
 
 Another important part of base is understanding when to sacrifice it.
 
 Sometimes, you will temporarily give up base to create movement or attack. However, this should always be intentional and controlled. Beginners often lose base accidentally, which leads to immediate problems.
 
-A student with good base feels difficult to move. Their weight is controlled, their structure is stable, and their reactions maintain balance even under pressure.
+A student with good base feels difficult to move. Their hips are stable, their weight is controlled, and their contact points adjust to maintain the platform even under pressure.
 
 ---
 
 ## Key Principles
 
-- Keep your weight centered and controlled
+- Your base is the footprint of your contact points with the mat
+- Keep your hips centered over that footprint
 - Use multiple points of contact when possible
 - Widen your base to increase stability
-- Adjust your base as your opponent moves
-- Do not overextend your weight
+- Adjust your contact points as your opponent moves
+- Do not overextend your weight past your platform
 - Post when your balance is threatened
-- Base and posture must work together
+- Base (external platform) and posture (internal alignment) must work together
 
 ---
 
@@ -111,7 +116,7 @@ A student with good base feels difficult to move. Their weight is controlled, th
 
 ## Simple Mental Model
 
-Stay centered. Stay supported. Stay balanced.
+Your contact points are the platform. Your hips sit on top. Keep the platform wide and the hips centered.
 
 ---
 
