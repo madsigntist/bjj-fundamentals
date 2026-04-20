@@ -18,15 +18,15 @@ Build survival instincts and structural awareness.
 
 ## Concept Summary
 
-| #   | Concept                   | Core Lesson                                                                       |
-| --- | ------------------------- | --------------------------------------------------------------------------------- |
-| 1   | Positional Hierarchy      | Know where you are and what that means - bad, neutral, or dominant                |
-| 2   | Base                      | Balance and stability through weight distribution and support points              |
-| 3   | Posture                   | Skeletal alignment that maintains structure under pressure                        |
-| 4   | Frames and Distance       | Create and maintain space between you and the opponent using skeletal structure   |
-| 5   | Movement Fundamentals     | Hip escape and bridge - the two primary movements that change your position       |
-| 6   | Inside Position Awareness | The person with limbs closer to the centerline controls the exchange              |
-| 7   | Head and Hip Control      | The head directs the body, the hips power it - control both to control the person |
+| #   | Concept                   | Core Lesson                                                                                           |
+| --- | ------------------------- | ----------------------------------------------------------------------------------------------------- |
+| 1   | Positional Hierarchy      | Know where you are and what that means - bad, neutral, or dominant                                    |
+| 2   | Base                      | Balance and stability through weight distribution and support points                                  |
+| 3   | Posture                   | Skeletal alignment that maintains structure under pressure                                            |
+| 4   | Frames and Distance       | Create and maintain space between you and the opponent using skeletal structure                       |
+| 5   | Movement Fundamentals     | Hip escape and bridge - the two primary movements that change your position                           |
+| 6   | Inside Position Awareness | Control of the torso and neck zones — the player who occupies more inside space controls the exchange |
+| 7   | Head and Hip Control      | The head directs the body, the hips power it - control both to control the person                     |
 
 ---
 
@@ -44,7 +44,7 @@ Level 1 is the operating system for everything that follows. The seven concepts 
 
 **Movement Fundamentals** convert the space created by frames into positional change. Hip escapes create distance. Bridges disrupt the opponent's position. These two movements are the engines of escape and recovery. Without frames creating space first, movement fails. Without movement using that space, frames are just a stalling tactic.
 
-**Inside Position Awareness** introduces the concept of positional advantage within any exchange. It teaches the student to recognize that the person with limbs closer to the center of the engagement - elbows inside, knees inside - controls the interaction. This awareness runs through every exchange and becomes the lens for evaluating grips, frames, and body position.
+**Inside Position Awareness** introduces the concept of inside position as territory — the torso and neck zones (ear-to-shoulder, armpit-to-hip, hip-to-hip) that both players are fighting to control. It teaches the student to recognize that whoever occupies more of these zones on the opponent controls the interaction. Your limbs exist to protect your zones and attack theirs — through gripping, framing, or closing space. This awareness runs through every exchange and becomes the lens for evaluating grips, frames, and body position.
 
 **Head and Hip Control** is the most advanced concept in Level 1 and introduces the idea that the body moves from two primary points. Controlling the head controls direction. Controlling the hips controls power. This concept foreshadows everything in Levels 2 through 7 - every escape, every pin, every guard position, every pass involves the battle for head and hip control.
 

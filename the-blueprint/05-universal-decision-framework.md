@@ -38,14 +38,14 @@ The questions are ordered by priority. Question 1 must be answered before Questi
 
 ## Question 2: Who Has Inside Position?
 
-**What it means**: Whose limbs are closer to the other person's centerline? Who has underhooks, inside leg position, or inside frames - and who has lost them?
+**What it means**: Who controls the opponent's torso and neck zones — ear-to-shoulder, armpit-to-hip, hip-to-hip? Who has underhooks, inside leg position, or inside frames — and who has lost them?
 
 **Why it comes second**: Inside position is the most reliable predictor of who controls the exchange. The player with inside position dictates what happens next. The player without it reacts. Before planning any offensive or defensive action, the student must know who has this advantage.
 
 **How to evaluate it**:
 
-- **Arms**: Do I have underhooks? Are my arms between the opponent's arms and their body? Or are my arms outside, fighting to get back in?
-- **Legs**: Are my legs inside (butterfly hooks, knee shield, shin-to-shin)? Or are the opponent's legs inside mine?
+- **Arms**: Do I have underhooks? Are my arms on the inside path — controlling the space from their elbow to their shoulder, or their armpit to their hip? Or are my arms outside, fighting to get back in?
+- **Legs**: Are my legs inside (butterfly hooks, knee shield, shin-to-shin), controlling the space from their knee to their hip? Or are the opponent's legs inside mine?
 - **Overall**: If the answer is "opponent has inside position," the first priority is to fight for inside position before doing anything else. An attack launched from outside position will fail.
 
 **If the opponent has inside position**:

@@ -101,15 +101,16 @@ In practice: knees wide, hips low, weight centered. When the opponent pushes, yo
 
 ## 5. Inside Position
 
-**What it is**: Having your limbs (arms, legs, or both) positioned closer to the opponent's centerline than their limbs are to yours.
+**What it is**: Control of the opponent's torso and neck zones — ear-to-shoulder, armpit-to-hip, and hip-to-hip. Your limbs (everything below the elbows, below the knees, and above the chin) exist to protect your inside position and attack your opponent's.
 
-**Why it matters**: Inside position is the single most reliable predictor of positional advantage. The player with inside position controls the exchange. The player without it is defending. This is true in standing, in guard, in passing, in submissions, and in scrambles.
+**Why it matters**: Inside position is the single most reliable predictor of positional advantage. The player with inside position controls the exchange. The player without it is defending. This is true in standing, in guard, in passing, in submissions, and in scrambles. Every submission and every dominant control requires access to inside position.
 
-**How it works**: The centerline is the vertical line running through the middle of the body. Inside position means your arms or legs are between the opponent's arms and their body, or between their legs and their hips. From inside position, you can push, pull, lift, and redirect the opponent. From outside position, you can only react.
+**How it works**: Your limbs can only do three productive things — grip, frame, or close space. Gripping takes inside position on the opponent (offensive). Framing uses skeletal structure to keep the opponent away from your inside position (defensive). Closing space stays tight to deny entry (defensive). Defense operates in layers: if the opponent is in front of your hands, they are at layer one. Past your hands but in front of your elbows, layer two. Past the elbows, they have taken inside position — because you cannot frame with anything above the elbow.
 
-- **Arms inside**: Control the torso, underhooks, collar ties - the arms are between the opponent's arms and their body
-- **Legs inside**: Butterfly hooks, knee shields, shin-to-shin - the legs are between the opponent's legs and their hips
-- **Full inside position**: Both arms and legs inside - total control of the engagement
+- **Ear to shoulder**: The space where chokes enter and crossfaces control direction
+- **Armpit to hip**: The space where underhooks, seatbelt grips, and body control live
+- **Hip to hip**: The space where mount, body triangles, and waist control are established
+- **Full inside position**: Control of multiple zones simultaneously — the more zones occupied, the more dominant the control
 
 **Where it appears**:
 

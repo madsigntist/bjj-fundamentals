@@ -77,17 +77,17 @@ Condensed versions of the curriculum's key frameworks, checklists, and sequences
 
 ## 3. Core Mechanical Concepts - Quick List
 
-| Mechanic              | One-Line Definition                                        |
-| --------------------- | ---------------------------------------------------------- |
-| Base                  | Weight distribution that creates stability                 |
-| Posture               | Spinal alignment that creates structural integrity         |
-| Frames                | Rigid skeletal structures that maintain distance           |
-| Wedges                | Body parts inserted into gaps to block movement            |
-| Inside Position       | Limbs closer to opponent's centerline than theirs to yours |
-| Head Control          | Controlling the head to dictate body direction             |
-| Hip Control           | Controlling the hips to limit movement and power           |
-| Connection/Separation | Managing body contact - close to control, open to escape   |
-| Pressure/Mobility     | Weight to immobilize vs speed to reposition                |
+| Mechanic              | One-Line Definition                                                                            |
+| --------------------- | ---------------------------------------------------------------------------------------------- |
+| Base                  | Weight distribution that creates stability                                                     |
+| Posture               | Spinal alignment that creates structural integrity                                             |
+| Frames                | Rigid skeletal structures that maintain distance                                               |
+| Wedges                | Body parts inserted into gaps to block movement                                                |
+| Inside Position       | Occupation of the opponent's torso and neck zones (ear-to-shoulder, armpit-to-hip, hip-to-hip) |
+| Head Control          | Controlling the head to dictate body direction                                                 |
+| Hip Control           | Controlling the hips to limit movement and power                                               |
+| Connection/Separation | Managing body contact - close to control, open to escape                                       |
+| Pressure/Mobility     | Weight to immobilize vs speed to reposition                                                    |
 
 ---
 

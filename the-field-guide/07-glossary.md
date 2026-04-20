@@ -62,7 +62,7 @@ Definitions for terms used throughout the curriculum. Organized alphabetically.
 
 **Hook** - A leg or foot position where the foot is inserted behind the opponent's knee, thigh, or hip to control movement. Back hooks control the bottom player's hips from back control. Butterfly hooks control distance from butterfly guard.
 
-**Inside Position** - Having limbs positioned closer to the opponent's centerline than their limbs are to yours. The player with inside position controls the exchange. See Core Mechanical Concepts.
+**Inside Position** - Control of the opponent's torso and neck zones: ear-to-shoulder, armpit-to-hip, and hip-to-hip. Your limbs protect your inside position and attack your opponent's through gripping, framing, or closing space. The player who controls more zones controls the exchange. See Core Mechanical Concepts.
 
 **Inversion** - The act of going upside down (shoulders on the mat, hips above the head) to recover guard, attack submissions, or escape passing attempts. Common in modern open guard systems.
 

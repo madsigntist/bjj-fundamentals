@@ -4,9 +4,11 @@
 
 ## Definition
 
-Inside position refers to having your limbs and body positioned closer to the center line of the engagement than your opponent.
+Inside position is the space of the torso and neck — the area between your opponent's limbs and their center. The specific zones are ear-to-shoulder, armpit-to-hip, and hip-to-hip.
 
-Inside position awareness is the ability to recognize and fight for that advantage.
+Your limbs — everything below the knees, below the elbows, and above the chin — exist to protect your inside position and attack your opponent's. They do this through three actions: gripping, framing, or closing space.
+
+Inside position awareness is the ability to recognize and fight for control of these zones.
 
 ---
 
@@ -77,25 +79,26 @@ A student with strong inside position awareness feels difficult to control. Thei
 
 ## Key Principles
 
-- Keep elbows and knees inside when possible
-- Protect your center line
+- Inside position is the torso and neck — ear-to-shoulder, armpit-to-hip, hip-to-hip
+- Your limbs protect your inside position and attack your opponent's
+- Limbs can only grip, frame, or close space — know which one you are doing
+- Keep elbows and knees inside — they are your last layer of defense
 - Fight to regain inside position immediately when lost
-- Inside position comes before attacks
-- Do not allow easy access to your limbs
-- Use inside control to block and redirect movement
+- Inside position comes before attacks — every submission requires it
+- The more zones you occupy on your opponent, the more control you have
 - Maintain awareness at all times
 
 ---
 
 ## Common Mistakes
 
-- Letting elbows drift away from the body
-- Allowing knees to be pushed outward
-- Reaching outside and exposing limbs
+- Letting elbows drift away from the body, exposing the torso
+- Allowing knees to be pushed outward, opening the hips
+- Gripping from the outside, giving the opponent access to your inside position
 - Ignoring inside position while focusing on techniques
-- Not fighting to recover inside space
-- Overcommitting and losing internal structure
-- Treating inside position as static instead of dynamic
+- Not fighting to recover inside space when lost
+- Treating inside position as static instead of a constant battle
+- Not recognizing which layer of defense has been breached
 
 ---
 
@@ -122,7 +125,7 @@ A student with strong inside position awareness feels difficult to control. Thei
 
 ## Simple Mental Model
 
-Win the inside first.
+Your torso is the target. Your limbs are the barrier. Keep your barrier inside their barrier.
 
 ---
 
