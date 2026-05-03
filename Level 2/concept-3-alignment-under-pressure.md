@@ -16,10 +16,10 @@ Pressure breaks structure. Structure is what keeps you functional.
 
 When alignment is lost:
 
-- frames collapse because they have no foundation
-- escapes fail because your body cannot generate coordinated movement
-- breathing becomes restricted because your chest and ribs are compressed
-- the opponent's control deepens because your body stops resisting as a unit
+- Frames collapse because they have no foundation
+- Escapes fail because your body cannot generate coordinated movement
+- Breathing becomes restricted because your chest and ribs are compressed
+- The opponent's control deepens because your body stops resisting as a unit
 
 Good alignment makes you harder to control, harder to flatten, and harder to finish. It does not require strength. It requires awareness of how your body is positioned and the discipline to correct it under duress.
 

@@ -14,10 +14,10 @@ Two people of identical weight can feel completely different on top. One feels l
 
 Without understanding weight distribution:
 
-- you feel light on top even when you are heavier than your opponent
-- the opponent bridges or shrimps and you topple over
-- you cling to positions with grips and strength instead of settling into them
-- you tire yourself out staying on top while the bottom player conserves energy
+- You feel light on top even when you are heavier than your opponent
+- The opponent bridges or shrimps and you topple over
+- You cling to positions with grips and strength instead of settling into them
+- You tire yourself out staying on top while the bottom player conserves energy
 
 Proper weight distribution turns your body into a tool. It makes you feel heavier than you are. It makes the opponent work harder than they should have to. And it costs you almost no energy.
 

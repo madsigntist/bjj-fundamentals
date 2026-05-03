@@ -14,17 +14,17 @@ The guard player's body is organized in layers of defense (Level 4: retention la
 
 Without understanding this progression:
 
-- the passer tries to jump directly to chest-to-chest control while the feet and knees are still active
-- partially beaten layers re-engage because they were never fully cleared
-- the pass feels chaotic: the passer is fighting legs, knees, and hips all at once
-- the guard player re-guards easily because the passer is fighting the wrong layer
+- The passer tries to jump directly to chest-to-chest control while the feet and knees are still active
+- Partially beaten layers re-engage because they were never fully cleared
+- The pass feels chaotic: the passer is fighting legs, knees, and hips all at once
+- The guard player re-guards easily because the passer is fighting the wrong layer
 
 With this understanding:
 
-- the passer methodically works through each layer
-- each cleared layer stays cleared because the passer consolidates before advancing
-- the pass feels systematic: one problem at a time
-- the guard player's retention layers fail sequentially because the passer is not giving them back
+- The passer methodically works through each layer
+- Each cleared layer stays cleared because the passer consolidates before advancing
+- The pass feels systematic: one problem at a time
+- The guard player's retention layers fail sequentially because the passer is not giving them back
 
 If this is ignored, the student throws passing techniques at the guard without understanding which layer they need to solve. They clear the feet but get stopped by the knees. They clear the knees but the feet re-engage behind them. Progress is one step forward, two steps back.
 

@@ -18,10 +18,10 @@ In Level 1, the concept of frames was introduced as a tool for creating space. A
 
 Without frame maintenance:
 
-- the opponent closes space and re-establishes control after every small gain you make
-- escapes stall halfway through because the structure holding your space disappears
-- you burn energy rebuilding frames that should have been maintained
-- the opponent learns that your frames are temporary and stops respecting them
+- The opponent closes space and re-establishes control after every small gain you make
+- Escapes stall halfway through because the structure holding your space disappears
+- You burn energy rebuilding frames that should have been maintained
+- The opponent learns that your frames are temporary and stops respecting them
 
 Good frame maintenance turns a single effort into lasting advantage. Poor frame maintenance turns every escape into a cycle of building, losing, and rebuilding.
 

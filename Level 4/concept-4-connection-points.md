@@ -14,17 +14,17 @@ Guard only works when you are connected to the opponent. Every guard technique (
 
 Without connection points:
 
-- the opponent can freely change angles, back away, or rush in on their terms
-- you cannot off-balance because you have nothing to push or pull with
-- sweeps have no lever to work with: you cannot move someone you are not attached to
-- guard retention fails because you cannot feel or redirect their passing energy
+- The opponent can freely change angles, back away, or rush in on their terms
+- You cannot off-balance because you have nothing to push or pull with
+- Sweeps have no lever to work with: you cannot move someone you are not attached to
+- Guard retention fails because you cannot feel or redirect their passing energy
 
 With connection points:
 
-- every movement the opponent makes is transmitted through your connections: you feel everything
-- you have levers for sweeps, anchors for retention, and entries for submissions
-- the opponent must break your connections before they can pass: each connection is a problem they must solve
-- your guard becomes a web they must navigate, not an open door they walk through
+- Every movement the opponent makes is transmitted through your connections: you feel everything
+- You have levers for sweeps, anchors for retention, and entries for submissions
+- The opponent must break your connections before they can pass: each connection is a problem they must solve
+- Your guard becomes a web they must navigate, not an open door they walk through
 
 If this is ignored, the student learns guard shapes but has no ability to make them work. They know what closed guard looks like, but without understanding which connections matter, they cannot control anyone from it.
 

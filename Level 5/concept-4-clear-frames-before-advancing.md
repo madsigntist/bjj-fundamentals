@@ -14,17 +14,17 @@ Frames are the cheapest, most efficient defensive tool the guard player has. A s
 
 Without clearing frames:
 
-- the pass stalls at the last mile: the passer clears the legs but runs into a wall of forearms and elbows
-- the passer burns energy trying to drive through skeletal structures (bone doesn't fatigue)
-- the guard player uses the distance created by frames to re-insert knees and recover guard
-- every positional advance is temporary because the bottom player frames back to space immediately
+- The pass stalls at the last mile: the passer clears the legs but runs into a wall of forearms and elbows
+- The passer burns energy trying to drive through skeletal structures (bone doesn't fatigue)
+- The guard player uses the distance created by frames to re-insert knees and recover guard
+- Every positional advance is temporary because the bottom player frames back to space immediately
 
 With frame clearing:
 
-- the passer removes the guard player's ability to create distance at the moment of the pass
-- the pass completes cleanly to a control position without a scramble
-- the guard player is flat, heavy, and compressed with no structural barriers remaining
-- energy is conserved because the passer does not fight against structural resistance
+- The passer removes the guard player's ability to create distance at the moment of the pass
+- The pass completes cleanly to a control position without a scramble
+- The guard player is flat, heavy, and compressed with no structural barriers remaining
+- Energy is conserved because the passer does not fight against structural resistance
 
 This is the bridge between beating the legs (Concepts 2-3) and establishing top control. Many students can beat feet, clear knees, and separate elbows from knees, but then stall because a single forearm frame blocks the final advance. Frame clearing is what finishes the pass.
 

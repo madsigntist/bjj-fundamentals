@@ -16,15 +16,15 @@ A pin without pressure is a hug. You may be connected, but if you are not drivin
 
 Without connection:
 
-- you react to escapes after they have already started
-- the opponent creates space you did not feel being created
-- your control is visual (you see the position) instead of tactile (you feel the control)
+- You react to escapes after they have already started
+- The opponent creates space you did not feel being created
+- Your control is visual (you see the position) instead of tactile (you feel the control)
 
 Without pressure:
 
-- the opponent is comfortable on bottom
-- they have time and space to think and plan escapes
-- your connection is present but not meaningful: it does not restrict anything
+- The opponent is comfortable on bottom
+- They have time and space to think and plan escapes
+- Your connection is present but not meaningful: it does not restrict anything
 
 Connection provides information. Pressure provides restriction. You need both.
 

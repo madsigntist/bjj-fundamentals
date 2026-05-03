@@ -18,10 +18,10 @@ Without posture, your structure breaks.
 
 If your posture is compromised:
 
-- your base becomes weak
-- your frames collapse
-- your opponent can control your head and upper body
-- you become vulnerable to submissions and sweeps
+- Your base becomes weak
+- Your frames collapse
+- Your opponent can control your head and upper body
+- You become vulnerable to submissions and sweeps
 
 Posture is what allows your body to carry pressure correctly. It keeps your structure intact so you can function under resistance.
 
@@ -147,6 +147,6 @@ At this level, posture is about not being broken down.
 
 At higher levels, posture becomes more refined:
 
-- using posture to apply pressure
-- adjusting posture dynamically during transitions
-- breaking the opponent’s posture to create attacks
+- Using posture to apply pressure
+- Adjusting posture dynamically during transitions
+- Breaking the opponent’s posture to create attacks

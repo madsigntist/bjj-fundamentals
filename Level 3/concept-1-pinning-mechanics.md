@@ -16,10 +16,10 @@ Dominant position means nothing if you cannot keep it.
 
 Without understanding pinning mechanics:
 
-- the opponent escapes as soon as they begin working
-- you burn energy trying to hold them down with strength
-- you rush to submissions because you know the position will not last
-- your control feels temporary instead of dominant
+- The opponent escapes as soon as they begin working
+- You burn energy trying to hold them down with strength
+- You rush to submissions because you know the position will not last
+- Your control feels temporary instead of dominant
 
 A strong pin does the opposite. It makes the opponent carry your weight. It removes their movement options before they begin. It gives you time to think, plan, and attack from a position of strength.
 

@@ -16,10 +16,10 @@ Escaping a bad position is only half the job. If you escape side control but end
 
 Without guard recovery logic:
 
-- escapes lead to brief freedom followed by immediate re-pinning
-- the student creates space but does not know what to do with it
-- energy is spent escaping the same position repeatedly
-- the opponent learns that your escapes lead nowhere and becomes more aggressive
+- Escapes lead to brief freedom followed by immediate re-pinning
+- The student creates space but does not know what to do with it
+- Energy is spent escaping the same position repeatedly
+- The opponent learns that your escapes lead nowhere and becomes more aggressive
 
 Guard recovery is the bridge between defense and neutral position. It turns a successful escape into a real positional improvement instead of a temporary reprieve.
 

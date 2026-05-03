@@ -14,17 +14,17 @@ The most common reason attacks fail from top position is not poor technique: it 
 
 Without this discipline:
 
-- submissions are rushed and sloppy because the window is closing
-- every attack attempt gives the opponent a chance to escape
-- the student trades dominant position for low-percentage submission attempts
-- the round becomes a cycle of achieving position, losing it, and starting over
+- Submissions are rushed and sloppy because the window is closing
+- Every attack attempt gives the opponent a chance to escape
+- The student trades dominant position for low-percentage submission attempts
+- The round becomes a cycle of achieving position, losing it, and starting over
 
 With this discipline:
 
-- the opponent is controlled before the attack begins
-- the attack itself does not create escape opportunities
-- submissions come from a position of certainty, not desperation
-- dominant position is maintained even when attacks fail
+- The opponent is controlled before the attack begins
+- The attack itself does not create escape opportunities
+- Submissions come from a position of certainty, not desperation
+- Dominant position is maintained even when attacks fail
 
 If this is ignored, the student develops a pattern of attacking from unstable positions and wondering why their submissions never work from top.
 

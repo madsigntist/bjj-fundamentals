@@ -18,17 +18,17 @@ Inside position controls access.
 
 If your opponent controls the inside space:
 
-- they can dominate grips and positioning
-- they can control your movement more easily
-- they can isolate limbs and attack
-- your ability to defend and move becomes limited
+- They can dominate grips and positioning
+- They can control your movement more easily
+- They can isolate limbs and attack
+- Your ability to defend and move becomes limited
 
 If you control the inside space:
 
-- you gain better leverage
-- you can block attacks before they develop
-- you can control and redirect movement
-- you become harder to isolate and attack
+- You gain better leverage
+- You can block attacks before they develop
+- You can control and redirect movement
+- You become harder to isolate and attack
 
 If this is ignored, the student constantly gives up control without realizing why they are losing positions.
 
@@ -152,6 +152,6 @@ At this level, inside position is about recognition and protection.
 
 At higher levels, it becomes more strategic:
 
-- using inside position to create attacks
-- controlling transitions through inside dominance
-- forcing predictable reactions through inside control
+- Using inside position to create attacks
+- Controlling transitions through inside dominance
+- Forcing predictable reactions through inside control

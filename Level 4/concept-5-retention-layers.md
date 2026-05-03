@@ -14,17 +14,17 @@ No guard is unpassable. Every guard position can be broken, stripped, or bypasse
 
 Without understanding retention layers:
 
-- one successful grip break or leg clear from the passer ends the guard
-- the student panics when their primary guard is disrupted
-- guard recovery is random: there is no system for what to do when things go wrong
-- the pass feels inevitable once the first line of defense breaks
+- One successful grip break or leg clear from the passer ends the guard
+- The student panics when their primary guard is disrupted
+- Guard recovery is random: there is no system for what to do when things go wrong
+- The pass feels inevitable once the first line of defense breaks
 
 With understanding of retention layers:
 
-- the student has a plan B, C, and D for when the guard is attacked
-- each broken layer transitions naturally into the next defensive structure
-- the passer must solve multiple problems in sequence, not just one
-- guard recovery is reliable because it follows a predictable structure
+- The student has a plan B, C, and D for when the guard is attacked
+- Each broken layer transitions naturally into the next defensive structure
+- The passer must solve multiple problems in sequence, not just one
+- Guard recovery is reliable because it follows a predictable structure
 
 If this is ignored, the student has one guard that either works or does not. When it fails, they go straight to a passed position with no intermediate recovery options.
 
@@ -44,40 +44,40 @@ Retention layers can be understood as concentric defensive rings around the guar
 
 When Layer 1 is working:
 
-- maximum distance is maintained
-- the guard player has full visibility and reaction time
-- offensive options (sweeps, submissions) are at medium-to-long range
+- Maximum distance is maintained
+- The guard player has full visibility and reaction time
+- Offensive options (sweeps, submissions) are at medium-to-long range
 
 When Layer 1 fails:
 
-- the passer clears the feet off the hips or pins one ankle
-- the guard player drops to Layer 2
+- The passer clears the feet off the hips or pins one ankle
+- The guard player drops to Layer 2
 
 **Layer 2: Knees and shins.** When feet are cleared, the knees and shins become the barrier. Knee shield (shin across the torso), butterfly hooks (shins inside the thighs), or active knee framing against the approaching body. This is a closer-range defensive structure.
 
 When Layer 2 is working:
 
-- the passer is slowed at close-medium range
-- the guard player has options to re-establish feet on hips (climbing back to Layer 1) or set up sweeps from the closer range
-- knee shield and butterfly positions are active guard positions, not just defensive: offense remains available
+- The passer is slowed at close-medium range
+- The guard player has options to re-establish feet on hips (climbing back to Layer 1) or set up sweeps from the closer range
+- Knee shield and butterfly positions are active guard positions, not just defensive: offense remains available
 
 When Layer 2 fails:
 
-- the passer flattens the knee shield or clears the butterfly hooks
-- the guard player drops to Layer 3
+- The passer flattens the knee shield or clears the butterfly hooks
+- The guard player drops to Layer 3
 
 **Layer 3: Hips and frames (innermost).** When the legs are cleared or flattened, the hips and arm frames become the last barrier. Hip escape (shrimp) to create distance. Forearm frames against the approaching chest or shoulder. Elbow-knee connection to prevent the passer from settling.
 
 When Layer 3 is working:
 
-- the guard player is barely holding: the passer is close
-- the primary goal is to create enough space to re-insert a knee or foot (climbing back to Layer 2 or Layer 1)
-- this is survival, not offense
+- The guard player is barely holding: the passer is close
+- The primary goal is to create enough space to re-insert a knee or foot (climbing back to Layer 2 or Layer 1)
+- This is survival, not offense
 
 When Layer 3 fails:
 
-- the passer achieves chest-to-chest with no legs or frames between them
-- guard is passed
+- The passer achieves chest-to-chest with no legs or frames between them
+- Guard is passed
 
 **The retention cycle.** Effective guard players do not just descend through layers and hope. They actively fight to climb back up. The cycle is:
 

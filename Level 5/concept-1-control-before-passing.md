@@ -14,17 +14,17 @@ The most common reason guard passes fail is that the passer rushes. They see a g
 
 Without control before passing:
 
-- every pass attempt is a gamble: sometimes it works, usually it does not
-- the guard player dictates the exchange because they have grips and connections while the passer does not
-- failed pass attempts give the guard player sweep and submission opportunities
-- passing becomes exhausting because each attempt starts from zero
+- Every pass attempt is a gamble: sometimes it works, usually it does not
+- The guard player dictates the exchange because they have grips and connections while the passer does not
+- Failed pass attempts give the guard player sweep and submission opportunities
+- Passing becomes exhausting because each attempt starts from zero
 
 With control before passing:
 
-- the pass begins from a position of advantage: grips established, guard player's structure disrupted
-- failed pass attempts do not cost position because the control remains
-- the guard player is reactive instead of proactive
-- passing becomes systematic instead of opportunistic
+- The pass begins from a position of advantage: grips established, guard player's structure disrupted
+- Failed pass attempts do not cost position because the control remains
+- The guard player is reactive instead of proactive
+- Passing becomes systematic instead of opportunistic
 
 If this is ignored, the student treats passing as a single explosive movement instead of a structured process. They wonder why their passes only work against lower-level opponents who cannot retain guard.
 

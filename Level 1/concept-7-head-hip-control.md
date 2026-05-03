@@ -16,17 +16,17 @@ If you control the head and hips, you control the person.
 
 If your opponent controls your head and hips:
 
-- your movement becomes limited
-- your posture breaks
-- your ability to escape is reduced
-- you become easier to pin and submit
+- Your movement becomes limited
+- Your posture breaks
+- Your ability to escape is reduced
+- You become easier to pin and submit
 
 If you control your opponentâ€™s head and hips:
 
-- you can direct where they move
-- you can limit their mobility
-- you can stabilize positions
-- you can create and maintain control
+- You can direct where they move
+- You can limit their mobility
+- You can stabilize positions
+- You can create and maintain control
 
 If this is ignored, the student will focus on grips or limbs while losing control of what actually matters most.
 
@@ -52,9 +52,9 @@ The head dictates the body's direction. If you can turn, pin, or misalign your o
 
 For example:
 
-- turning the head away can weaken structure
-- controlling the head can break posture
-- misaligning the head can limit defensive reactions
+- Turning the head away can weaken structure
+- Controlling the head can break posture
+- Misaligning the head can limit defensive reactions
 
 Losing control of your own head often leads to immediate problems. Your posture breaks, your alignment fails, and your opponent gains advantage.
 
@@ -66,15 +66,15 @@ Most powerful movements in jiu-jitsu come from the hips. If the hips are free, t
 
 If the hips are controlled:
 
-- movement is restricted
-- escapes become difficult
-- the opponent becomes easier to pin
+- Movement is restricted
+- Escapes become difficult
+- The opponent becomes easier to pin
 
 Controlling the hips often involves:
 
-- blocking hip movement
-- pinning the hips to the mat
-- controlling angles and rotation
+- Blocking hip movement
+- Pinning the hips to the mat
+- Controlling angles and rotation
 
 ### Combined Control
 
@@ -91,8 +91,8 @@ This is what defines strong positions like side control and mount. The opponentâ
 
 On defense, your goal is the opposite:
 
-- protect your head alignment
-- free your hips
+- Protect your head alignment
+- Free your hips
 
 This is the foundation of most escapes.
 
@@ -175,6 +175,6 @@ At this level, focus on recognizing and protecting these control points.
 
 At higher levels, this becomes more advanced:
 
-- combining head and hip control for stronger pins
-- using misalignment to create attacks
-- controlling transitions through these two anchors
+- Combining head and hip control for stronger pins
+- Using misalignment to create attacks
+- Controlling transitions through these two anchors

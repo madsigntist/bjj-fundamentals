@@ -16,10 +16,10 @@ Without movement, you are stuck.
 
 If you cannot move properly:
 
-- you cannot escape bad positions
-- you cannot adjust your body under pressure
-- you rely on strength instead of mechanics
-- you become easy to control
+- You cannot escape bad positions
+- You cannot adjust your body under pressure
+- You rely on strength instead of mechanics
+- You become easy to control
 
 Movement is what turns space into progress.
 
@@ -43,8 +43,8 @@ It is precise, efficient, and purposeful. Every movement should solve a problem,
 
 The two most important foundational movements are:
 
-- the hip escape (shrimp)
-- the bridge
+- The hip escape (shrimp)
+- The bridge
 
 ### Hip Escape (Shrimp)
 
@@ -52,9 +52,9 @@ The hip escape moves your hips away from your opponent to create space.
 
 It is used to:
 
-- recover guard
-- reinsert frames
-- create angles for escape
+- Recover guard
+- Reinsert frames
+- Create angles for escape
 
 The key is that the movement comes from your hips, not your upper body. Your shoulders may stay connected while your hips move away.
 
@@ -66,9 +66,9 @@ The bridge lifts your hips upward to disrupt the opponent’s balance.
 
 It is used to:
 
-- off-balance the opponent
-- create reactions
-- initiate escapes
+- Off-balance the opponent
+- Create reactions
+- Initiate escapes
 
 The bridge is not just lifting. It is directed force. You are trying to move the opponent’s weight, not just raise your hips.
 
@@ -78,10 +78,10 @@ Movement fundamentals are rarely used alone.
 
 A common sequence is:
 
-- bridge to disrupt balance
-- create a reaction
-- hip escape to create space
-- insert frames or recover position
+- Bridge to disrupt balance
+- Create a reaction
+- Hip escape to create space
+- Insert frames or recover position
 
 This combination is what allows you to escape strong positions like mount or side control.
 
@@ -93,14 +93,14 @@ Moving in the wrong direction wastes energy. Moving at the wrong time makes the 
 
 For example:
 
-- shrimping without space does nothing
-- bridging without direction does not break balance
+- Shrimping without space does nothing
+- Bridging without direction does not break balance
 
 Movement should always follow structure:
 
-- build frames
-- create space
-- move with purpose
+- Build frames
+- Create space
+- Move with purpose
 
 ### Efficiency
 
@@ -185,6 +185,6 @@ At this level, movement is about learning basic mechanics.
 
 At higher levels, movement becomes more advanced:
 
-- timing movement with opponent reactions
-- combining movements seamlessly
-- using minimal effort for maximum effect
+- Timing movement with opponent reactions
+- Combining movements seamlessly
+- Using minimal effort for maximum effect

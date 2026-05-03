@@ -14,17 +14,17 @@ The guard player is on the bottom. Gravity works against them. The top player is
 
 Without off-balancing:
 
-- sweeps require enormous effort and rarely succeed
-- submissions are muscled rather than set up structurally
-- the guard player waits for the opponent to make mistakes instead of creating opportunities
-- the guard feels passive and defensive
+- Sweeps require enormous effort and rarely succeed
+- Submissions are muscled rather than set up structurally
+- The guard player waits for the opponent to make mistakes instead of creating opportunities
+- The guard feels passive and defensive
 
 With off-balancing:
 
-- sweeps require minimal effort because the opponent is already falling
-- submissions open up because the opponent's hands are busy recovering balance instead of defending
-- the guard player controls the initiative: the top player is reacting, not attacking
-- the guard becomes an active, offensive position
+- Sweeps require minimal effort because the opponent is already falling
+- Submissions open up because the opponent's hands are busy recovering balance instead of defending
+- The guard player controls the initiative: the top player is reacting, not attacking
+- The guard becomes an active, offensive position
 
 If this is ignored, the student knows sweep and submission mechanics but cannot make them work against a stable, balanced opponent. They blame their technique when the real problem is that they never broke the opponent's base first.
 

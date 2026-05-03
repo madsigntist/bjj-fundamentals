@@ -18,10 +18,10 @@ Without base, nothing else works.
 
 If your base is weak:
 
-- you get swept easily
-- you lose dominant positions
-- you cannot apply pressure effectively
-- you become unstable during movement
+- You get swept easily
+- You lose dominant positions
+- You cannot apply pressure effectively
+- You become unstable during movement
 
 Base is what keeps you in the fight. It is the foundation that allows control, movement, and offense to exist.
 
@@ -45,9 +45,9 @@ Your hips sit at the center of this platform. Everything your opponent does to a
 
 A strong base comes from three main elements:
 
-- proper weight distribution across your contact points
-- a wide enough footprint to resist force from multiple directions
-- hips centered and low over your platform
+- Proper weight distribution across your contact points
+- A wide enough footprint to resist force from multiple directions
+- Hips centered and low over your platform
 
 When your weight is evenly distributed and your hips are supported, you are stable. When your weight drifts too far in one direction, or a contact point is removed, your hips lose their platform and you become easy to move.
 
@@ -143,6 +143,6 @@ At this level, base is about not falling and maintaining balance.
 
 At higher levels, base becomes more refined:
 
-- adjusting base while attacking
-- using base to apply pressure
-- breaking the opponent’s base intentionally
+- Adjusting base while attacking
+- Using base to apply pressure
+- Breaking the opponent’s base intentionally

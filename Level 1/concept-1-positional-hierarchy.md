@@ -16,9 +16,9 @@ A beginner often panics because every bad situation feels the same.
 
 Without positional hierarchy, the student does not know:
 
-- how serious the danger is
-- whether they should escape, recover, or attack
-- which direction leads to a better outcome
+- How serious the danger is
+- Whether they should escape, recover, or attack
+- Which direction leads to a better outcome
 
 When positional hierarchy is understood, the student begins to see order inside the chaos. Instead of reacting emotionally, they can make better decisions.
 
@@ -50,11 +50,11 @@ This concept also teaches that progress is often layered.
 
 You do not always escape directly from the worst position to the best one. Often the path looks like this:
 
-- survive the pressure
-- create structure
-- recover movement
-- move to a safer position
-- improve from there
+- Survive the pressure
+- Create structure
+- Recover movement
+- Move to a safer position
+- Improve from there
 
 A student who understands hierarchy begins asking better questions:
 

@@ -16,10 +16,10 @@ The space between your elbows and knees is where you get passed, pinned, and con
 
 When that space opens:
 
-- the opponent wedges through to establish side control
-- your guard is split and becomes unrecoverable
-- your arms and legs become isolated, making submissions easier
-- transitions happen through the gap you left open
+- The opponent wedges through to establish side control
+- Your guard is split and becomes unrecoverable
+- Your arms and legs become isolated, making submissions easier
+- Transitions happen through the gap you left open
 
 Keeping elbows and knees connected is one of the simplest and most effective defensive habits. It does not require timing, athleticism, or technique. It requires awareness and discipline.
 

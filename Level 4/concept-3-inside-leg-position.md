@@ -14,17 +14,17 @@ Guard is fundamentally a leg game. The guard player's legs are longer and strong
 
 Without inside leg position:
 
-- the passer gets chest-to-chest and your legs are trapped behind or beneath them
-- you have no barrier between the opponent and your hips
-- your guard collapses because there is nothing in the way
-- sweeps and submissions lose their leverage because your legs cannot engage
+- The passer gets chest-to-chest and your legs are trapped behind or beneath them
+- You have no barrier between the opponent and your hips
+- Your guard collapses because there is nothing in the way
+- Sweeps and submissions lose their leverage because your legs cannot engage
 
 With inside leg position:
 
-- your legs create a wall the passer must deal with before they can advance
-- you have mechanical advantage: pushing, hooking, redirecting with the strongest part of your body
-- guard retention becomes easier because the passer must beat your legs first
-- every offensive technique has leverage because your legs are engaged
+- Your legs create a wall the passer must deal with before they can advance
+- You have mechanical advantage: pushing, hooking, redirecting with the strongest part of your body
+- Guard retention becomes easier because the passer must beat your legs first
+- Every offensive technique has leverage because your legs are engaged
 
 This is the guard equivalent of the inside position concept from Level 1. The person who controls the inside has the advantage. In guard, your legs are the inside.
 

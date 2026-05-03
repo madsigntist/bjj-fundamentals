@@ -14,17 +14,17 @@ Guard players who only sweep are predictable. Guard players who only submit are 
 
 Without this decision-making ability:
 
-- the student forces sweeps when submissions are open
-- the student hunts submissions when the opponent's base is broken and a sweep would be free
-- attacks feel random instead of responsive
-- the opponent only has to defend one category of threat
+- The student forces sweeps when submissions are open
+- The student hunts submissions when the opponent's base is broken and a sweep would be free
+- Attacks feel random instead of responsive
+- The opponent only has to defend one category of threat
 
 With this decision-making ability:
 
-- the student reads the situation and takes what is given
-- sweeps and submissions feed each other: defending one opens the other
-- the guard becomes a dilemma for the top player, not a single threat
-- offense is efficient because it matches the opportunity
+- The student reads the situation and takes what is given
+- Sweeps and submissions feed each other: defending one opens the other
+- The guard becomes a dilemma for the top player, not a single threat
+- Offense is efficient because it matches the opportunity
 
 If this is ignored, the student knows techniques from guard but cannot select the right one at the right time. They have tools but no decision framework for when to use each one.
 
@@ -44,19 +44,19 @@ The two categories of guard offense (sweeps and submissions) are connected by a 
 
 Sweeps are most available when:
 
-- the opponent is leaning or off-balance
-- a posting hand or knee is controlled or disrupted
-- the opponent is focused on posture (staying upright) instead of base (staying centered)
-- the opponent reaches forward with one hand (reducing their base on one side)
+- The opponent is leaning or off-balance
+- A posting hand or knee is controlled or disrupted
+- The opponent is focused on posture (staying upright) instead of base (staying centered)
+- The opponent reaches forward with one hand (reducing their base on one side)
 
 **What submissions attack.** A submission attacks the opponent's structure: their neck, shoulder, elbow, or knee. To submit successfully, you need a limb isolated, defensive structures removed, and mechanical pressure applied.
 
 Submissions are most available when:
 
-- the opponent is close with broken posture (head down, arms separated from body)
-- an arm or the neck is exposed and reachable
-- the opponent is focused on base (staying heavy, resisting sweeps) instead of posture (keeping head and arms safe)
-- the opponent posts a hand on the mat (exposing the arm)
+- The opponent is close with broken posture (head down, arms separated from body)
+- An arm or the neck is exposed and reachable
+- The opponent is focused on base (staying heavy, resisting sweeps) instead of posture (keeping head and arms safe)
+- The opponent posts a hand on the mat (exposing the arm)
 
 **The seesaw relationship.** Here is the critical insight: posture defense and base defense are in tension.
 

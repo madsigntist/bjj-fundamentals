@@ -16,17 +16,17 @@ Distance is the most fundamental of those terms.
 
 Without distance management:
 
-- the top player smashes past your legs and achieves a passing position
-- you cannot set up sweeps because the opponent is never where you need them
-- you cannot attack submissions because the opponent stays just out of reach
-- you spend all your energy reacting to the passer instead of controlling the engagement
+- The top player smashes past your legs and achieves a passing position
+- You cannot set up sweeps because the opponent is never where you need them
+- You cannot attack submissions because the opponent stays just out of reach
+- You spend all your energy reacting to the passer instead of controlling the engagement
 
 With distance management:
 
-- you choose the range: close for attacks, far for resets, medium for sweeps
-- the top player must solve your structure before they can pass
-- you have time and space to set up offense
-- the guard becomes a weapon instead of a waiting room
+- You choose the range: close for attacks, far for resets, medium for sweeps
+- The top player must solve your structure before they can pass
+- You have time and space to set up offense
+- The guard becomes a weapon instead of a waiting room
 
 If this is ignored, the student plays guard passively: waiting for the top player to make a mistake instead of controlling the interaction from the start.
 

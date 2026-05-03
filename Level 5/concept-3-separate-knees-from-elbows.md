@@ -16,17 +16,17 @@ From the passer's perspective, this means the elbow-knee connection is the singl
 
 Without separating knees from elbows:
 
-- the guard player can always re-insert a knee between the bodies
-- every pass attempt is blocked by the same compact defensive shell
-- the passer clears the legs but the elbows redirect whatever gets through
-- passing becomes a fight against a wall that keeps rebuilding itself
+- The guard player can always re-insert a knee between the bodies
+- Every pass attempt is blocked by the same compact defensive shell
+- The passer clears the legs but the elbows redirect whatever gets through
+- Passing becomes a fight against a wall that keeps rebuilding itself
 
 With this separation:
 
-- the guard player loses the ability to re-guard: their upper and lower body are disconnected
-- the pass completes because there is nothing linking the frame barrier to the leg barrier
-- the compact shell is broken: the guard player is stretched, flat, and vulnerable
-- once separated, the guard player's defensive options drop dramatically
+- The guard player loses the ability to re-guard: their upper and lower body are disconnected
+- The pass completes because there is nothing linking the frame barrier to the leg barrier
+- The compact shell is broken: the guard player is stretched, flat, and vulnerable
+- Once separated, the guard player's defensive options drop dramatically
 
 If this is ignored, the student clears legs and still cannot pass because the elbows are right there to re-frame and re-insert the knees. They are fighting the symptom (the legs) instead of the cause (the elbow-knee link).
 

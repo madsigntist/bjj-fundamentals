@@ -16,10 +16,10 @@ Without frames, you get crushed.
 
 If you cannot manage distance:
 
-- the opponent closes space and applies pressure
-- your movement becomes limited
-- your breathing becomes restricted
-- escapes become much harder
+- The opponent closes space and applies pressure
+- Your movement becomes limited
+- Your breathing becomes restricted
+- Escapes become much harder
 
 Frames create space. Space creates options.
 
@@ -150,6 +150,6 @@ At this level, frames are used to survive and create space.
 
 At higher levels, frames become more precise:
 
-- combining frames with movement timing
-- using frames to off-balance the opponent
-- transitioning seamlessly from frames into attacks
+- Combining frames with movement timing
+- Using frames to off-balance the opponent
+- Transitioning seamlessly from frames into attacks

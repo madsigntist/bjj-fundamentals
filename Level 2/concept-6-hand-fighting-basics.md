@@ -16,10 +16,10 @@ Grips dictate control. Whoever wins the grip exchange usually wins the next posi
 
 Without hand fighting:
 
-- the opponent establishes grips freely and controls the pace
-- you react to their control instead of building your own
-- frames are stripped without resistance
-- escapes are blocked because you never addressed the hands holding you in place
+- The opponent establishes grips freely and controls the pace
+- You react to their control instead of building your own
+- Frames are stripped without resistance
+- Escapes are blocked because you never addressed the hands holding you in place
 
 Hand fighting is not flashy. It does not get attention. But it is the layer that makes everything else work. A perfect hip escape fails if the opponent has an uncontested grip on your head. A strong frame collapses if you never dealt with the hand that is stripping it.
 

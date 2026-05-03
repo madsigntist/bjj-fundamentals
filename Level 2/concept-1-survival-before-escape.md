@@ -16,10 +16,10 @@ A bad position becomes worse when you try to leave it too early.
 
 Without stabilizing first:
 
-- you give up space the opponent can exploit
-- your escape attempts become predictable and easy to counter
-- you spend energy without improving your situation
-- you often move from one bad position into a worse one
+- You give up space the opponent can exploit
+- Your escape attempts become predictable and easy to counter
+- You spend energy without improving your situation
+- You often move from one bad position into a worse one
 
 Survival is what buys you time. Time is what gives you the ability to think, breathe, and find a real path out.
 
