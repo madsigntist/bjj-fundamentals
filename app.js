@@ -954,7 +954,10 @@
    * Initializes the theme from localStorage or system preference.
    */
   function initTheme() {
-    var saved = localStorage.getItem("bjj-theme");
+    var saved = null;
+    try {
+      saved = localStorage.getItem("bjj-theme");
+    } catch (e) {}
     var prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
     var isDark = saved ? saved === "dark" : prefersDark;
     applyTheme(isDark);
@@ -979,7 +982,9 @@
   function toggleTheme() {
     var isDark = document.documentElement.getAttribute("data-theme") === "dark";
     var next = !isDark;
-    localStorage.setItem("bjj-theme", next ? "dark" : "light");
+    try {
+      localStorage.setItem("bjj-theme", next ? "dark" : "light");
+    } catch (e) {}
     applyTheme(next);
   }
 

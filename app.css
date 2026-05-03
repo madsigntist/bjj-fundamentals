@@ -184,6 +184,7 @@ body {
     background: transparent;
     color: inherit;
     cursor: pointer;
+    touch-action: manipulation;
     transition: background-color var(--transition-fast);
     flex-shrink: 0;
 }
