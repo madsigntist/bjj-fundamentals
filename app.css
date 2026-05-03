@@ -1080,6 +1080,10 @@ body {
     transition: color var(--transition-fast);
 }
 
+.reader__document-body li::marker {
+    color: currentColor;
+}
+
 .reader__bottombar-btn:hover,
 .reader__bottombar-btn.is-active {
     color: var(--color-accent);

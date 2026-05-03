@@ -10,23 +10,23 @@ All 32 drills from the curriculum compiled in one place. Each drill is listed wi
 
 | #   | Level | Drill Name                     | Type           | Concepts Developed                 |
 | --- | ----- | ------------------------------ | -------------- | ---------------------------------- |
-| 1   | 1     | Full Sequence Flow             | Cooperative    | All L1 concepts - sequence         |
+| 1   | 1     | Full Sequence Flow             | Cooperative    | All L1 concepts: sequence         |
 | 2   | 1     | Constraint Drill               | Light resist   | Sequence discipline                |
 | 3   | 1     | Positional Awareness           | Mental         | Hierarchy recognition              |
 | 4   | 1     | Structure Retention            | Resist         | Base, posture, frames              |
-| 5   | 2     | Full Sequence Flow             | Cooperative    | All L2 concepts - sequence         |
+| 5   | 2     | Full Sequence Flow             | Cooperative    | All L2 concepts: sequence         |
 | 6   | 2     | Constraint Drill               | Light resist   | Escape sequence discipline         |
 | 7   | 2     | Timed Escape                   | Timed          | Full escape under pressure         |
 | 8   | 2     | Layer Reset                    | Diagnostic     | Identifying escape breakdowns      |
 | 9   | 2     | Escape-to-Guard Sparring       | Positional     | Complete escape-to-recovery        |
-| 10  | 3     | The Complete Pin               | Resist (5min)  | All L3 concepts - control          |
+| 10  | 3     | The Complete Pin               | Resist (5min)  | All L3 concepts: control          |
 | 11  | 3     | Position Reset Flow            | Flow           | Transition without losing contact  |
 | 12  | 3     | Diagnostic Drill               | Diagnostic     | Identifying control breakdowns     |
-| 13  | 4     | Full Guard Flow                | Resist (6min)  | All L4 concepts - guard            |
+| 13  | 4     | Full Guard Flow                | Resist (6min)  | All L4 concepts: guard            |
 | 14  | 4     | Guard Reset                    | Positional     | Recovery-to-offense cycle          |
 | 15  | 4     | Sweep-Submit Alternation       | Chain          | Reading and alternating attacks    |
 | 16  | 4     | Connection Maintenance         | Timed          | Grip resilience and retention      |
-| 17  | 5     | Full Passing Integration       | Resist (6min)  | All L5 concepts - passing          |
+| 17  | 5     | Full Passing Integration       | Resist (6min)  | All L5 concepts: passing          |
 | 18  | 5     | Gate Identification            | Mental/freeze  | Conscious gate awareness           |
 | 19  | 5     | Pressure-to-Movement Switching | Switching      | Approach flexibility               |
 | 20  | 5     | Frame Clearing Under Pressure  | Timed (15s)    | Frame clearing urgency             |
@@ -63,11 +63,11 @@ All 32 drills from the curriculum compiled in one place. Each drill is listed wi
 
 **Purpose**: Build the discipline of following the correct order under light pressure.
 
-**Format**: Partner applies light resistance from side control or mount. Student must follow the sequence in order - no movement before frames are built, no escape before posture is fixed, no guard recovery before inside position is established. If any step is skipped, the partner stops the round and the student resets.
+**Format**: Partner applies light resistance from side control or mount. Student must follow the sequence in order: no movement before frames are built, no escape before posture is fixed, no guard recovery before inside position is established. If any step is skipped, the partner stops the round and the student resets.
 
 **Focus**: Discipline of sequence under pressure.
 
-**Concepts**: Sequence enforcement - frames before movement, posture before escape.
+**Concepts**: Sequence enforcement: frames before movement, posture before escape.
 
 ---
 
@@ -75,7 +75,7 @@ All 32 drills from the curriculum compiled in one place. Each drill is listed wi
 
 **Purpose**: Build the mental map of the positional hierarchy.
 
-**Format**: Partner places the student in random positions (side control, mount, turtle, guard, half guard). Student immediately identifies: bad, neutral, or dominant - then states the first three priorities based on the hierarchy. No physical escape - recognition and planning only.
+**Format**: Partner places the student in random positions (side control, mount, turtle, guard, half guard). Student immediately identifies (bad, neutral, or dominant, then states the first three priorities based on the hierarchy. No physical escape) recognition and planning only.
 
 **Focus**: Mental speed in positional assessment.
 
@@ -87,7 +87,7 @@ All 32 drills from the curriculum compiled in one place. Each drill is listed wi
 
 **Purpose**: Develop the ability to maintain structural integrity under increasing pressure.
 
-**Format**: Start in bottom side control. Partner applies increasing pressure (30%, 50%, 70%). Student's only goal: maintain base, posture, and frames for 60 seconds. No escape attempts - only structural maintenance. After the round, identify which structural element broke down first.
+**Format**: Start in bottom side control. Partner applies increasing pressure (30%, 50%, 70%). Student's only goal (maintain base, posture, and frames for 60 seconds. No escape attempts) only structural maintenance. After the round, identify which structural element broke down first.
 
 **Focus**: Endurance of structure, not escape.
 
@@ -117,7 +117,7 @@ All 32 drills from the curriculum compiled in one place. Each drill is listed wi
 
 **Focus**: Discipline of sequence under real pressure.
 
-**Concepts**: Sequence enforcement - survive before escape, frame before move.
+**Concepts**: Sequence enforcement: survive before escape, frame before move.
 
 ---
 
@@ -125,7 +125,7 @@ All 32 drills from the curriculum compiled in one place. Each drill is listed wi
 
 **Purpose**: Develop speed in the full escape sequence under a time constraint.
 
-**Format**: Start in a bad position. Complete the full six-step sequence within 60-90 seconds. Track which step takes the longest - that is where to focus practice. Repeat with increasing partner resistance each round.
+**Format**: Start in a bad position. Complete the full six-step sequence within 60-90 seconds. Track which step takes the longest: that is where to focus practice. Repeat with increasing partner resistance each round.
 
 **Focus**: Speed and efficiency in the escape process.
 
@@ -141,7 +141,7 @@ All 32 drills from the curriculum compiled in one place. Each drill is listed wi
 
 **Focus**: Identifying the weakest link in the escape chain.
 
-**Concepts**: Diagnostic - all Level 2 concepts.
+**Concepts**: Diagnostic: all Level 2 concepts.
 
 ---
 
@@ -149,7 +149,7 @@ All 32 drills from the curriculum compiled in one place. Each drill is listed wi
 
 **Purpose**: Full escape-to-guard recovery under real resistance.
 
-**Format**: Start in a bad position. Student's goal: reach guard using the full sequence. Partner's goal: maintain the dominant position. The escape is only counted as successful if the student reaches a functional guard - not just creating space. Three-minute rounds. Track success rate.
+**Format**: Start in a bad position. Student's goal (reach guard using the full sequence. Partner's goal) maintain the dominant position. The escape is only counted as successful if the student reaches a functional guard, not just creating space. Three-minute rounds. Track success rate.
 
 **Focus**: Complete escape-to-recovery execution.
 
@@ -163,7 +163,7 @@ All 32 drills from the curriculum compiled in one place. Each drill is listed wi
 
 **Purpose**: Develop sustained control using all five Level 3 concepts simultaneously.
 
-**Format**: Hold side control, mount, or back for a full 5-minute round. No submissions allowed - control only. Partner escalates effort each minute: 20%, 40%, 60%, 80%, 100%. After the round, identify which concept broke down first when pressure increased.
+**Format**: Hold side control, mount, or back for a full 5-minute round. No submissions allowed: control only. Partner escalates effort each minute: 20%, 40%, 60%, 80%, 100%. After the round, identify which concept broke down first when pressure increased.
 
 **Focus**: Complete control endurance.
 
@@ -175,7 +175,7 @@ All 32 drills from the curriculum compiled in one place. Each drill is listed wi
 
 **Purpose**: Maintain control while transitioning between dominant positions.
 
-**Format**: Start in side control - hold 30 seconds. Transition to mount without losing connection - hold 30 seconds. Transition to back control without losing connection - hold 30 seconds. Return to side control. Repeat for 5 minutes. Rule: never break body contact during transitions.
+**Format**: Start in side control (hold 30 seconds. Transition to mount without losing connection) hold 30 seconds. Transition to back control without losing connection (hold 30 seconds. Return to side control. Repeat for 5 minutes. Rule) never break body contact during transitions.
 
 **Focus**: Fluid transition between dominant positions.
 
@@ -191,7 +191,7 @@ All 32 drills from the curriculum compiled in one place. Each drill is listed wi
 
 **Focus**: Diagnosing control breakdowns.
 
-**Concepts**: Diagnostic - all Level 3 concepts.
+**Concepts**: Diagnostic: all Level 3 concepts.
 
 ---
 
@@ -237,7 +237,7 @@ All 32 drills from the curriculum compiled in one place. Each drill is listed wi
 
 **Purpose**: Build grip resilience and the reflex of replacing stripped connections.
 
-**Format**: Guard player starts with four connections (two grips, two hooks). Passer's goal: strip all connections in 60 seconds. Guard player's goal: maintain at least two connections at all times. If connections drop below two, stop and reset.
+**Format**: Guard player starts with four connections (two grips, two hooks). Passer's goal (strip all connections in 60 seconds. Guard player's goal) maintain at least two connections at all times. If connections drop below two, stop and reset.
 
 **Focus**: Grip endurance and connection replacement speed.
 
@@ -317,7 +317,7 @@ All 32 drills from the curriculum compiled in one place. Each drill is listed wi
 
 **Focus**: Explicit five-phase sequence before it becomes automatic.
 
-**Concepts**: All Level 6 concepts - isolation, exposure, breaking defense, control, mechanical efficiency.
+**Concepts**: All Level 6 concepts: isolation, exposure, breaking defense, control, mechanical efficiency.
 
 ---
 
@@ -325,11 +325,11 @@ All 32 drills from the curriculum compiled in one place. Each drill is listed wi
 
 **Purpose**: Develop analytical thinking about why submissions fail.
 
-**Format**: Attacker attempts a submission and fails. Both partners freeze in position. Attacker diagnoses the failure using the Decision-Making Checklist: "Isolation was good. Exposure was incomplete - the arm is still bent. I need to extend before trying to finish." Reset from the same position and address the identified gap.
+**Format**: Attacker attempts a submission and fails. Both partners freeze in position. Attacker diagnoses the failure using the Decision-Making Checklist ("Isolation was good. Exposure was incomplete) the arm is still bent. I need to extend before trying to finish." Reset from the same position and address the identified gap.
 
 **Focus**: Post-failure analysis and correction.
 
-**Concepts**: Diagnostic - all Level 6 concepts.
+**Concepts**: Diagnostic: all Level 6 concepts.
 
 ---
 
@@ -337,7 +337,7 @@ All 32 drills from the curriculum compiled in one place. Each drill is listed wi
 
 **Purpose**: Develop awareness of efficient vs inefficient mechanics by experiencing both.
 
-**Format**: Execute the same submission twice. First: using only arms and grip (deliberately inefficient). Second: using hips and core (efficient). Note the difference in effort, force, and finishing speed.
+**Format**: Execute the same submission twice. First (using only arms and grip (deliberately inefficient). Second) using hips and core (efficient). Note the difference in effort, force, and finishing speed.
 
 **Focus**: Feeling the difference between muscle and mechanics.
 
@@ -373,7 +373,7 @@ All 32 drills from the curriculum compiled in one place. Each drill is listed wi
 
 ### Drill 27: Full System Rounds (8 Minutes)
 
-**Purpose**: The capstone drill - a full match simulation using every concept from all seven levels.
+**Purpose**: The capstone drill: a full match simulation using every concept from all seven levels.
 
 **Format**: 8-minute rounds simulating a full match with all three phases (opening, middle, closing). After the round, both partners debrief using the Decision-Making Checklist: at each major moment, which concepts were used? Which were missed? Where did the system break down?
 
@@ -385,9 +385,9 @@ All 32 drills from the curriculum compiled in one place. Each drill is listed wi
 
 ### Drill 28: Dilemma Chain Drill
 
-**Purpose**: Build fluency in the offensive engine - dilemma creation, chaining, and anticipation combined.
+**Purpose**: Build fluency in the offensive engine: dilemma creation, chaining, and anticipation combined.
 
-**Format**: From any position, execute a chain of at least 3 dilemmas in sequence. Each dilemma must present two real threats. Each defense must flow into the next dilemma. The chain must be continuous - no resets, no holds, no pauses. Partner provides 60% resistance and makes the predicted defenses.
+**Format**: From any position, execute a chain of at least 3 dilemmas in sequence. Each dilemma must present two real threats. Each defense must flow into the next dilemma. The chain must be continuous: no resets, no holds, no pauses. Partner provides 60% resistance and makes the predicted defenses.
 
 **Focus**: Continuous offensive pressure.
 
@@ -399,7 +399,7 @@ All 32 drills from the curriculum compiled in one place. Each drill is listed wi
 
 **Purpose**: Force both players to see and act during transition moments rather than settled positions.
 
-**Format**: 5-minute rounds where both partners are scored only on what happens during transitions - not during settled positions. Sweeps, passes, back takes, and submissions during transitions count. Anything from a settled position does not.
+**Format**: 5-minute rounds where both partners are scored only on what happens during transitions, not during settled positions. Sweeps, passes, back takes, and submissions during transitions count. Anything from a settled position does not.
 
 **Focus**: Recognizing and exploiting transition windows.
 
@@ -411,7 +411,7 @@ All 32 drills from the curriculum compiled in one place. Each drill is listed wi
 
 **Purpose**: Build awareness of tempo as a strategic variable.
 
-**Format**: 6-minute rounds where one player declares their pacing strategy: "I am going to control the pace by slowing this down" or "I am going to control the pace with burst-and-recover." After the round, both partners assess: who actually controlled the pace? At what moments did control shift?
+**Format**: 6-minute rounds where one player declares their pacing strategy ("I am going to control the pace by slowing this down" or "I am going to control the pace with burst-and-recover." After the round, both partners assess) who actually controlled the pace? At what moments did control shift?
 
 **Focus**: Intentional tempo management.
 

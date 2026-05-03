@@ -6,7 +6,7 @@
 
 Hand fighting is the practice of controlling, redirecting, stripping, and establishing grips using your hands and wrists to gain positional advantage.
 
-It is the battle that happens before and during every position - the contest over who controls the connection points between two people.
+It is the battle that happens before and during every position: the contest over who controls the connection points between two people.
 
 ---
 
@@ -41,7 +41,7 @@ Before a pass happens, there is a grip battle. Before a submission is locked, th
 
 At this level, hand fighting is about three basic skills.
 
-**Grip prevention.** The easiest grip to deal with is the one that never gets established. When you see the opponent reaching for your collar, your wrist, your ankle, or your head, the first option is to prevent it. A quick redirect, a push on their hand, turning your body to change the angle - anything that stops the grip from landing.
+**Grip prevention.** The easiest grip to deal with is the one that never gets established. When you see the opponent reaching for your collar, your wrist, your ankle, or your head, the first option is to prevent it. A quick redirect, a push on their hand, turning your body to change the angle: anything that stops the grip from landing.
 
 Prevention costs very little energy. Dealing with an established grip costs a lot.
 
@@ -49,7 +49,7 @@ Prevention costs very little energy. Dealing with an established grip costs a lo
 
 Most grips break at the fingers. Pulling against the thumb side of a grip is easier than pulling against the fingers. Peeling a grip with two hands against their one is efficient. Redirecting the grip by pushing the elbow rather than fighting the hand directly can be more effective than brute force.
 
-Grip stripping must have purpose. You do not strip a grip just to be free. You strip it to create a window for your next action - a frame, an escape, a guard recovery, or a positional change.
+Grip stripping must have purpose. You do not strip a grip just to be free. You strip it to create a window for your next action: a frame, an escape, a guard recovery, or a positional change.
 
 **Grip establishment.** Once you have dealt with the opponent's grips, you need to build your own. Grips serve frames, sweeps, escapes, and control.
 
@@ -64,7 +64,7 @@ The grip you choose depends on the position and your goal. There is no universal
 
 Hand fighting also has a timing component.
 
-Grips change constantly. What you control now may be stripped in two seconds. What the opponent controls may shift as they adjust. Effective hand fighting is not about winning once. It is about staying engaged - constantly adjusting, re-gripping, stripping, and re-establishing as the position evolves.
+Grips change constantly. What you control now may be stripped in two seconds. What the opponent controls may shift as they adjust. Effective hand fighting is not about winning once. It is about staying engaged: constantly adjusting, re-gripping, stripping, and re-establishing as the position evolves.
 
 This is where most beginners struggle. They fight for a grip, get it, and then stop. They hold static while the opponent continues to work. The grip becomes stale, the position changes around it, and the advantage disappears.
 
@@ -79,7 +79,7 @@ Hand fighting is continuous.
 - Use two hands against one when stripping an established grip
 - Every grip strip should lead to your next action
 - Establish grips that serve your immediate positional goal
-- Hand fighting is continuous - do not stop after winning one exchange
+- Hand fighting is continuous: do not stop after winning one exchange
 - Your hands should always be doing something purposeful
 
 ---
@@ -100,13 +100,13 @@ Hand fighting is continuous.
 
 ### Bottom Positions
 
-- Side control (bottom): fight the crossface hand before it controls your head - strip it, redirect it, or frame against it
+- Side control (bottom): fight the crossface hand before it controls your head. Strip it, redirect it, or frame against it
 - Mount (bottom): control the opponent's wrists to prevent them from establishing collar grips or posting for balance
 - Guard (bottom): establish sleeve and collar grips to set up sweeps and maintain distance
 
 ### Top Positions
 
-- Establish grips before advancing - control the head, control a wrist, pin a shoulder
+- Establish grips before advancing: control the head, control a wrist, pin a shoulder
 - Strip the bottom player's frames by attacking their grip points
 - Hand fighting from top is about removing the opponent's tools one at a time
 
@@ -135,14 +135,14 @@ Never let your hands be idle.
 
 - Partner establishes grips from various positions (collar, wrist, sleeve)
 - Strip each grip as efficiently as possible
-- Focus on technique - thumb side, two-on-one, elbow push
+- Focus on technique: thumb side, two-on-one, elbow push
 - No positional movement, just grip work in isolation
 
 **Grip Fighting Rounds**
 
 - From seated or kneeling position facing each other
 - Both players fight to establish and maintain grips for 60-second rounds
-- No takedowns or sweeps - only grip work
+- No takedowns or sweeps: only grip work
 - Builds awareness of the constant exchange
 
 **Grip to Action Drill**

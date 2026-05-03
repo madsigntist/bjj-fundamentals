@@ -10,20 +10,20 @@ Guard passing follows a sequential progression: you must beat the guard player's
 
 ## Why It Matters
 
-The guard player's body is organized in layers of defense (Level 4 - retention layers). Their feet are the outermost barrier. Their knees are behind the feet. Their hips are behind the knees. Their upper body - the final destination for the passer - is behind all of it.
+The guard player's body is organized in layers of defense (Level 4: retention layers). Their feet are the outermost barrier. Their knees are behind the feet. Their hips are behind the knees. Their upper body (the final destination for the passer) is behind all of it.
 
 Without understanding this progression:
 
 - the passer tries to jump directly to chest-to-chest control while the feet and knees are still active
 - partially beaten layers re-engage because they were never fully cleared
-- the pass feels chaotic - the passer is fighting legs, knees, and hips all at once
+- the pass feels chaotic: the passer is fighting legs, knees, and hips all at once
 - the guard player re-guards easily because the passer is fighting the wrong layer
 
 With this understanding:
 
 - the passer methodically works through each layer
 - each cleared layer stays cleared because the passer consolidates before advancing
-- the pass feels systematic - one problem at a time
+- the pass feels systematic: one problem at a time
 - the guard player's retention layers fail sequentially because the passer is not giving them back
 
 If this is ignored, the student throws passing techniques at the guard without understanding which layer they need to solve. They clear the feet but get stopped by the knees. They clear the knees but the feet re-engage behind them. Progress is one step forward, two steps back.
@@ -67,15 +67,15 @@ To clear this gate, you must pin or control the hips so they cannot create the s
 - Drop your weight over their waist as you transition to side control
 - Block the near hip with your knee or hand as you slide past
 
-**Gate 4: Upper body.** This is the finish. Once you have beaten feet, knees, and hips, you must establish upper body control - chest to chest, crossface, and hip-to-hip contact. This is where the pass becomes a pin (Level 3 concepts activate).
+**Gate 4: Upper body.** This is the finish. Once you have beaten feet, knees, and hips, you must establish upper body control: chest to chest, crossface, and hip-to-hip contact. This is where the pass becomes a pin (Level 3 concepts activate).
 
-The transition from clearing hips to establishing upper body control must be tight. A gap here - even a small one - allows the guard player to re-insert a knee (dropping back to Gate 2) or a foot (dropping back to Gate 1).
+The transition from clearing hips to establishing upper body control must be tight. A gap here (even a small one) allows the guard player to re-insert a knee (dropping back to Gate 2) or a foot (dropping back to Gate 1).
 
 **The consolidation principle.** The critical rule: do not advance to the next gate until the current gate is secured. Clearing the feet but leaving them free to re-engage means you have not actually cleared Gate 1. You are fighting Gate 2 while Gate 1 reopens behind you.
 
 Each gate must be won and held. This usually means pinning or controlling the cleared layer with a grip, body position, or weight while advancing to the next layer.
 
-**The re-guard threat.** The guard player's entire retention strategy (Level 4 - retention layers) is to re-insert a lower gate after the passer clears it. Beat the feet? They re-insert a knee. Beat the knee? They re-insert a foot. The passing game is about clearing each gate and preventing re-insertion as you advance to the next.
+**The re-guard threat.** The guard player's entire retention strategy (Level 4: retention layers) is to re-insert a lower gate after the passer clears it. Beat the feet? They re-insert a knee. Beat the knee? They re-insert a foot. The passing game is about clearing each gate and preventing re-insertion as you advance to the next.
 
 ---
 
@@ -83,10 +83,10 @@ Each gate must be won and held. This usually means pinning or controlling the cl
 
 - The pass follows a fixed anatomical sequence: feet → knees → hips → upper body
 - Each gate must be cleared and held before advancing to the next
-- Skipping a gate means fighting multiple layers at once - this favors the guard player
-- The guard player's retention strategy is to re-insert cleared layers - prevent this
+- Skipping a gate means fighting multiple layers at once: this favors the guard player
+- The guard player's retention strategy is to re-insert cleared layers: prevent this
 - Consolidate each cleared layer with a grip, pin, or body position before moving forward
-- The transition from hips to upper body control must be tight - no gaps
+- The transition from hips to upper body control must be tight: no gaps
 - When a lower gate re-engages, drop back and re-clear it before advancing again
 
 ---
@@ -94,11 +94,11 @@ Each gate must be won and held. This usually means pinning or controlling the cl
 ## Common Mistakes
 
 - Trying to jump directly to upper body control while feet and knees are still active
-- Clearing a gate but not holding it - allowing re-insertion
+- Clearing a gate but not holding it: allowing re-insertion
 - Fighting multiple gates simultaneously instead of solving one at a time
 - Ignoring the feet (Gate 1) and trying to start the pass from the knee level
-- Clearing the knees but leaving the hips free - allowing shrimps that re-create the guard
-- Rushing the transition from hips to upper body - leaving a gap for the knee to re-enter
+- Clearing the knees but leaving the hips free: allowing shrimps that re-create the guard
+- Rushing the transition from hips to upper body: leaving a gap for the knee to re-enter
 - Not recognizing which gate is currently the problem
 
 ---
@@ -122,7 +122,7 @@ Each gate must be won and held. This usually means pinning or controlling the cl
 ### Torreando (Bull Fighter) Pass
 
 - **Gate 1 (Feet)**: Grip both pant legs at the ankles. Push the feet to one side, taking them completely off your body.
-- **Gate 2 (Knees)**: As you redirect the legs, the knees follow. Your grip control keeps the knees pinned to one side - they cannot re-insert as shields.
+- **Gate 2 (Knees)**: As you redirect the legs, the knees follow. Your grip control keeps the knees pinned to one side: they cannot re-insert as shields.
 - **Gate 3 (Hips)**: Sprint past the legs and drop your weight over their waist. Your speed and pressure prevent the hip escape.
 - **Gate 4 (Upper Body)**: Land in side control. Immediately establish crossface and chest connection before the guard player can re-insert any lower layer.
 
@@ -147,7 +147,7 @@ Four doors in a hallway. You must open each one in order. If you leave a door op
 
 **Single Gate Drill**
 
-- Guard player starts with feet on hips only - no grips
+- Guard player starts with feet on hips only: no grips
 - Passer's only goal: clear the feet and pin them for 5 seconds
 - No passing beyond Gate 1 allowed
 - Reset and repeat 10 times. Then move to Gate 2 (knee shields only), Gate 3 (hips only)
@@ -156,7 +156,7 @@ Four doors in a hallway. You must open each one in order. If you leave a door op
 **No-Reinsert Passing**
 
 - Full passing round, but the guard player can only use each retention layer once
-- Once the passer clears the feet, the guard player cannot put feet back on the hips - they must rely on knees
+- Once the passer clears the feet, the guard player cannot put feet back on the hips: they must rely on knees
 - Once knees are cleared, they rely on hips only
 - Forces the passer to consolidate and forces the guard player to recognize when layers are lost
 
@@ -166,4 +166,4 @@ Four doors in a hallway. You must open each one in order. If you leave a door op
 
 At this level, the focus is on recognizing the four gates, solving each one in order, and consolidating before advancing.
 
-At higher levels, the passer learns to blast through multiple gates simultaneously - speed passes like the torreando clear feet and knees in one motion. But even in high-speed passing, the gates exist. The passer who understands the progression can diagnose why a fast pass failed (they did not consolidate at a specific gate) and adjust. Without this framework, fast passing that fails has no diagnostic path - the student just tries again faster.
+At higher levels, the passer learns to blast through multiple gates simultaneously (speed passes like the torreando clear feet and knees in one motion. But even in high-speed passing, the gates exist. The passer who understands the progression can diagnose why a fast pass failed (they did not consolidate at a specific gate) and adjust. Without this framework, fast passing that fails has no diagnostic path) the student just tries again faster.

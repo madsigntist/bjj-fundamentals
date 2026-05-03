@@ -25,7 +25,7 @@ Condensed versions of the curriculum's key frameworks, checklists, and sequences
    → If I can move: proceed to #5
 
 5. **What is the next best position?**
-   → Advance one tier on the hierarchy - never skip tiers
+   → Advance one tier on the hierarchy, never skip tiers
    → Tier 1 → Tier 2 → Tier 3 → Tier 4 → Tier 5 → Tier 6
 
 6. **What threats exist right now?**
@@ -86,7 +86,7 @@ Condensed versions of the curriculum's key frameworks, checklists, and sequences
 | Inside Position       | Occupation of the opponent's torso and neck zones (ear-to-shoulder, armpit-to-hip, hip-to-hip) |
 | Head Control          | Controlling the head to dictate body direction                                                 |
 | Hip Control           | Controlling the hips to limit movement and power                                               |
-| Connection/Separation | Managing body contact - close to control, open to escape                                       |
+| Connection/Separation | Managing body contact: close to control, open to escape                                       |
 | Pressure/Mobility     | Weight to immobilize vs speed to reposition                                                    |
 
 ---
@@ -100,7 +100,7 @@ Condensed versions of the curriculum's key frameworks, checklists, and sequences
 → Recover spinal alignment, get to one hip, face the opponent
 
 **Step 3: Frame**
-→ Build rigid frames on neck/hip/bicep - bone, not muscle
+→ Build rigid frames on neck/hip/bicep: bone, not muscle
 
 **Step 4: Hand Fight**
 → Strip threatening grips before they establish control
@@ -116,16 +116,16 @@ Condensed versions of the curriculum's key frameworks, checklists, and sequences
 ## 5. Level 5 Passing Gate Sequence
 
 **Gate 1: Feet**
-→ Beat the feet - strip grips, control ankles, pass the feet line
+→ Beat the feet: strip grips, control ankles, pass the feet line
 
 **Gate 2: Knees**
-→ Beat the knees - clear knee shields, collapse butterfly hooks
+→ Beat the knees: clear knee shields, collapse butterfly hooks
 
 **Gate 3: Hips**
-→ Beat the hips - flatten hips to mat, deny hip escape
+→ Beat the hips: flatten hips to mat, deny hip escape
 
 **Gate 4: Upper Body**
-→ Clear frames - remove forearm frames, establish crossface
+→ Clear frames: remove forearm frames, establish crossface
 
 **Complete:** Arrive in side control with control established
 **Rule:** Work the gates in order. Do not skip.
@@ -147,7 +147,7 @@ Condensed versions of the curriculum's key frameworks, checklists, and sequences
 → Maintain positional control throughout the finishing sequence
 
 **Phase 5: Finish**
-→ Apply the submission with mechanical efficiency - hips, not hands
+→ Apply the submission with mechanical efficiency: hips, not hands
 
 ---
 
@@ -161,7 +161,7 @@ Condensed versions of the curriculum's key frameworks, checklists, and sequences
 6. **Anticipate and pre-position** (Anticipating Reactions)
 7. **Exploit transitions** (Transition Awareness)
 8. **Recover and repeat** (Pacing + Efficiency)
-   → Return to step 2 - the cycle continues
+   → Return to step 2: the cycle continues
 
 ---
 
@@ -169,9 +169,9 @@ Condensed versions of the curriculum's key frameworks, checklists, and sequences
 
 | Check        | Question                                | If No...                                  |
 | ------------ | --------------------------------------- | ----------------------------------------- |
-| Safety       | Am I safe?                              | Survive first - frame, protect, structure |
+| Safety       | Am I safe?                              | Survive first: frame, protect, structure |
 | Position     | What position am I in?                  | Identify tier and opportunities           |
-| Opportunity  | Is there a clear opportunity right now? | Hold and scan - do not force              |
+| Opportunity  | Is there a clear opportunity right now? | Hold and scan: do not force              |
 | Dilemma      | Can I present two threats?              | Establish better control first            |
 | Chain        | What is the next link?                  | Always have the next attack prepared      |
 | Anticipation | What will they do?                      | Pre-position for most likely defense      |

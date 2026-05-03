@@ -17,7 +17,7 @@ Most escape attempts use either the head (turning, posting, looking away to crea
 
 The opponent moves in segments. Stop both ends and the middle has nowhere to go. This is why the best top players constantly address both. It is not about choosing between head control and hip control. It is about doing both, simultaneously and continuously.
 
-If this is ignored, the student will feel like they are always one step behind - fixing one problem while another opens.
+If this is ignored, the student will feel like they are always one step behind: fixing one problem while another opens.
 
 ---
 
@@ -29,13 +29,13 @@ The body moves from the head and the hips. Control both and the middle cannot go
 
 ## Detailed Explanation
 
-The human body creates movement from two primary regions. The head leads direction changes - displacing the head forces the shoulders and torso to follow. The hips generate force. Bridging, shrimping, and turning all originate from hip movement.
+The human body creates movement from two primary regions. The head leads direction changes: displacing the head forces the shoulders and torso to follow. The hips generate force. Bridging, shrimping, and turning all originate from hip movement.
 
 **Head control and what it gives you.** When you control the opponent's head, you control where they can look and which direction they can turn. Crossface pressure (driving your shoulder or forearm into the jaw to turn the head away) prevents the opponent from turning into you. If they cannot face you, they cannot build frames toward you, insert a knee, or create the angle needed for most escapes.
 
 Head control also disrupts posture. A head that is turned or compressed to one side makes the spine weak. The opponent cannot generate power from a compromised spine.
 
-**Hip control and what it gives you.** When you control the opponent's hips, you stop the engine. Hip escapes require the hips to slide away - block the hip with your hand, knee, or body and the escape fails. Bridges require the hips to drive upward - keep your weight over the hips or angle your base to absorb the bridge.
+**Hip control and what it gives you.** When you control the opponent's hips, you stop the engine. Hip escapes require the hips to slide away (block the hip with your hand, knee, or body and the escape fails. Bridges require the hips to drive upward) keep your weight over the hips or angle your base to absorb the bridge.
 
 Hip control also prevents guard recovery. The shrimp-to-guard sequence requires hip freedom. A blocked hip cannot create the space needed to insert a knee shield or recover full guard.
 
@@ -43,7 +43,7 @@ Hip control also prevents guard recovery. The shrimp-to-guard sequence requires 
 
 Effective top control means having a solution for both. This does not mean grabbing the head with one hand and the hip with the other at all times. It means being in a position where your structure addresses both. In side control, crossface handles the head while your hip-side arm or knee-hip placement handles the hips. In mount, your seat position controls the hips while your hands or chest control the head and arms.
 
-**The connection between the two.** Head and hip control are not two separate tasks - they are one system. When the head is turned, the hips lose power because the spine is compromised. When the hips are blocked, the head cannot create a useful angle because the body cannot follow. Each reinforces the other.
+**The connection between the two.** Head and hip control are not two separate tasks: they are one system. When the head is turned, the hips lose power because the spine is compromised. When the hips are blocked, the head cannot create a useful angle because the body cannot follow. Each reinforces the other.
 
 The best top players think of head-hips as a single control objective, not two independent problems.
 
@@ -54,7 +54,7 @@ The best top players think of head-hips as a single control objective, not two i
 - Always have an answer for both the head and the hips
 - Crossface controls head direction and disrupts spinal alignment
 - Hip blocking (hand, knee, body weight) prevents shrimps and bridges
-- Controlling one makes controlling the other easier - they work together
+- Controlling one makes controlling the other easier: they work together
 - Head turned away weakens the opponent's entire movement chain
 - Hips blocked means guard recovery is shut down
 - Think of head-hips as one system, not two separate tasks
@@ -107,9 +107,9 @@ Two anchors. Head and hips. Lose one, and the ship drifts. Keep both, and they g
 **Head-Hips Alternating Pressure Drill**
 
 - From side control, have the partner try to escape
-- First 30 seconds, focus only on head control - notice what the hips do
-- Next 30 seconds, focus only on hip control - notice what the head does
-- Final 60 seconds, control both - feel the difference in how little the partner can accomplish
+- First 30 seconds, focus only on head control: notice what the hips do
+- Next 30 seconds, focus only on hip control: notice what the head does
+- Final 60 seconds, control both: feel the difference in how little the partner can accomplish
 
 **Mirror Drill**
 

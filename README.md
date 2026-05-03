@@ -38,7 +38,7 @@ Then open `http://localhost:3000` in a browser.
 
 ## Author
 
-Michael Kelly - michael.kelly.hash@gmail.com
+Michael Kelly: michael.kelly.hash@gmail.com
 
 ## License
 

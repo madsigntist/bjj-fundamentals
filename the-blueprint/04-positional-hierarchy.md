@@ -4,9 +4,9 @@
 
 ## Why Position Matters
 
-Jiu jitsu is a positional art. Submissions finish fights, but positions create submissions. A practitioner who arrives at a dominant position with control has options - submissions, transitions, and the luxury of time. A practitioner trapped in an inferior position has one job: escape.
+Jiu jitsu is a positional art. Submissions finish fights, but positions create submissions. A practitioner who arrives at a dominant position with control has options (submissions, transitions, and the luxury of time. A practitioner trapped in an inferior position has one job) escape.
 
-Understanding the positional hierarchy - which positions are better, which are worse, and why - is the strategic map that every tactical decision references. Before asking "what technique should I use?", the student must ask "where am I on the hierarchy?" and "where do I want to be?"
+Understanding the positional hierarchy (which positions are better, which are worse, and why) is the strategic map that every tactical decision references. Before asking "what technique should I use?", the student must ask "where am I on the hierarchy?" and "where do I want to be?"
 
 This chapter defines every tier of the hierarchy, explains the logic behind the ranking, and provides the framework that the entire curriculum builds upon.
 
@@ -16,36 +16,36 @@ This chapter defines every tier of the hierarchy, explains the logic behind the 
 
 The positional hierarchy is organized from worst to best. "Worst" means the most dangerous and the fewest options. "Best" means the most control and the most offensive opportunity.
 
-**Tier 1 - Defensive Positions (Worst)**
+**Tier 1: Defensive Positions (Worst)**
 
 - Back controlled (bottom)
 - Mount (bottom)
 - Side control (bottom)
 
-**Tier 2 - Recovery Positions**
+**Tier 2: Recovery Positions**
 
 - Turtle
 - Half guard (bottom)
 - Transitional frames (quarter guard, knee shield half)
 
-**Tier 3 - Neutral / Guard Positions**
+**Tier 3: Neutral / Guard Positions**
 
 - Closed guard (bottom)
 - Open guard variations (butterfly, De La Riva, spider, lasso, etc.)
 
-**Tier 4 - Offensive Positions**
+**Tier 4: Offensive Positions**
 
 - Passing positions (standing in guard, headquarters)
 - Top half guard
 
-**Tier 5 - Dominant Positions**
+**Tier 5: Dominant Positions**
 
 - Side control (top)
 - Knee-on-belly (top)
 - Mount (top)
 - Back control (top)
 
-**Tier 6 - Submission Phase**
+**Tier 6: Submission Phase**
 
 - Strangles
 - Joint locks
@@ -58,7 +58,7 @@ These are the worst places to be. The opponent has maximum control and direct ac
 
 ### Back Controlled (Bottom)
 
-The most dangerous position in jiu jitsu. The opponent controls the torso with hooks and a seatbelt grip, has direct access to the neck for chokes, and the bottom player cannot see what is coming. Every defensive capacity is required - chin protection, hand fighting, hip movement, and structured escape sequences.
+The most dangerous position in jiu jitsu. The opponent controls the torso with hooks and a seatbelt grip, has direct access to the neck for chokes, and the bottom player cannot see what is coming. Every defensive capacity is required: chin protection, hand fighting, hip movement, and structured escape sequences.
 
 **Why it is the worst**: The opponent has access to the highest-percentage submission in the sport (rear naked choke) while the bottom player has no offensive options and limited defensive visibility.
 
@@ -90,17 +90,17 @@ These positions are not safe, but they are transitional. The student has more mo
 
 The bottom player is on hands and knees with limbs tucked. The back is partially exposed but the neck is somewhat protected. Turtle is a common transitional position reached during failed guard retention or incomplete escapes.
 
-**Why it ranks here**: Turtle offers more mobility than side control bottom (the hips are free to move) but the back is vulnerable. Turtle should be a transit position - stay briefly, then move to guard or standing.
+**Why it ranks here**: Turtle offers more mobility than side control bottom (the hips are free to move) but the back is vulnerable. Turtle should be a transit position: stay briefly, then move to guard or standing.
 
 **Primary curriculum reference**: Level 2 (escape to guard or standing), Level 4 (guard recovery from turtle)
 
 ### Half Guard (Bottom)
 
-One of the opponent's legs is trapped between the bottom player's legs. This provides some hip control and guard structure but is not as strong as full guard. Half guard is the most common recovery position - the last line of defense before the opponent completes the pass.
+One of the opponent's legs is trapped between the bottom player's legs. This provides some hip control and guard structure but is not as strong as full guard. Half guard is the most common recovery position: the last line of defense before the opponent completes the pass.
 
 **Why it ranks here**: Half guard provides a bottom player with sweep opportunities and some guard functionality, but the top player has weight advantage and can continue the pass. It is better than Tier 1 but not as safe as Tier 3.
 
-**Primary curriculum reference**: Level 4 (guard retention layers - half guard as Layer 4), Level 5 (half guard passing from top)
+**Primary curriculum reference**: Level 4 (guard retention layers: half guard as Layer 4), Level 5 (half guard passing from top)
 
 ### Transitional Frames
 
@@ -140,7 +140,7 @@ These positions favor the top player. The top player is working to advance to Ti
 
 Standing in the opponent's guard, kneeling in headquarters (one knee up, one knee down between the opponent's legs), or working through a guard pass sequence. The passer has mobility, base advantage, and is systematically working to defeat the guard structure.
 
-**Why it ranks here**: The passer is on offense and the guard player is on defense. The passer chooses the engagement - pressure or movement, left side or right side, over or under. However, the pass is not complete and the guard player retains options.
+**Why it ranks here**: The passer is on offense and the guard player is on defense. The passer chooses the engagement: pressure or movement, left side or right side, over or under. However, the pass is not complete and the guard player retains options.
 
 **Primary curriculum reference**: Level 5 (control before passing, gate sequence, pressure vs movement choice)
 
@@ -158,13 +158,13 @@ One leg is trapped but the top player has weight advantage, crossface, and under
 
 These are the best positions. The top player has maximum control and direct access to submissions. The bottom player must survive and escape (returning to Tier 1 and Tier 2 concepts).
 
-Not all dominant positions are equal. They are ranked by the degree of control they provide and - critically - by how effectively they enable a fighter to finish the fight. A pin that merely holds an opponent is not the same as a pin that enables devastating offensive action. The hierarchy within this tier reflects that distinction.
+Not all dominant positions are equal. They are ranked by the degree of control they provide and (critically) by how effectively they enable a fighter to finish the fight. A pin that merely holds an opponent is not the same as a pin that enables devastating offensive action. The hierarchy within this tier reflects that distinction.
 
 ### Side Control (Top)
 
-The top player pins from the side with crossface, underhook, chest pressure, and hip control. This is the most common dominant position - it is typically the first position reached after a guard pass.
+The top player pins from the side with crossface, underhook, chest pressure, and hip control. This is the most common dominant position: it is typically the first position reached after a guard pass.
 
-**Why it ranks here**: Side control offers the greatest stability of any pin and provides an excellent platform for grinding, fatiguing pressure. It is stable, sustainable, and provides transitions to mount, knee-on-belly, and back control. It is also an excellent recovery station between offensive bursts (Level 7 - strategic pacing). However, it offers fewer direct submission angles than mount or back control.
+**Why it ranks here**: Side control offers the greatest stability of any pin and provides an excellent platform for grinding, fatiguing pressure. It is stable, sustainable, and provides transitions to mount, knee-on-belly, and back control. It is also an excellent recovery station between offensive bursts (Level 7: strategic pacing). However, it offers fewer direct submission angles than mount or back control.
 
 **Primary curriculum reference**: Level 3 (all five control concepts), Level 6 (kimura, americana, arm triangle from side control)
 
@@ -174,11 +174,11 @@ The top player places one knee on the opponent's torso while the other leg posts
 
 **Why it ranks here**: Knee-on-belly provides tremendous mobility and offensive transition speed that other dominant positions lack. The top player can quickly advance to mount, spin to the far side, or drop back to side control in response to the bottom player's movements. Escaping knee-on-belly without exposing the neck or arms is difficult, and the pressure of a driven knee compels reactive movement that opens submissions. It trades the grinding stability of side control for speed and versatility.
 
-**Primary curriculum reference**: Level 3 (weight distribution - concentration of weight through a small contact point), Level 6 (collar chokes, armlocks from knee-on-belly transitions)
+**Primary curriculum reference**: Level 3 (weight distribution: concentration of weight through a small contact point), Level 6 (collar chokes, armlocks from knee-on-belly transitions)
 
 ### Mount (Top)
 
-The top player sits on the opponent's torso with weight, gravity, and hip control. Mount provides the widest range of submission options - chokes, arm attacks, and wrist locks all available from a single position.
+The top player sits on the opponent's torso with weight, gravity, and hip control. Mount provides the widest range of submission options: chokes, arm attacks, and wrist locks all available from a single position.
 
 **Why it ranks here**: Mount is one of the two most dominant positions. The top player has gravity, weight, and 360 degrees of submission access. Maintaining mount requires base management (Level 1) and pinning mechanics (Level 3).
 
@@ -186,7 +186,7 @@ The top player sits on the opponent's torso with weight, gravity, and hip contro
 
 ### Back Control (Top)
 
-The top player controls the opponent's back with hooks and a seatbelt grip. This is the most dominant position in jiu jitsu - the opponent cannot see the attacker, cannot defend efficiently, and the rear naked choke is available.
+The top player controls the opponent's back with hooks and a seatbelt grip. This is the most dominant position in jiu jitsu: the opponent cannot see the attacker, cannot defend efficiently, and the rear naked choke is available.
 
 **Why it ranks here**: Back control is the apex of the positional hierarchy. The highest-percentage submission in the sport (rear naked choke) is directly available. The bottom player has the fewest options and the lowest success rate for escape.
 
@@ -200,11 +200,11 @@ Submissions are the endgame. They are not positions in the traditional sense but
 
 ### Strangles
 
-Attacks that restrict blood flow or air to the brain. Rear naked choke, guillotine, triangle, ezekiel, arm triangle, and their variations. Strangles produce unconsciousness if not defended - they are the highest-urgency submissions.
+Attacks that restrict blood flow or air to the brain. Rear naked choke, guillotine, triangle, ezekiel, arm triangle, and their variations. Strangles produce unconsciousness if not defended: they are the highest-urgency submissions.
 
 ### Joint Locks
 
-Attacks that hyperextend or rotate a joint beyond its natural range. Armbar, kimura, americana, omoplata, straight ankle lock, kneebar, and their variations. Joint locks produce joint damage if not defended - they require a tap or cause injury.
+Attacks that hyperextend or rotate a joint beyond its natural range. Armbar, kimura, americana, omoplata, straight ankle lock, kneebar, and their variations. Joint locks produce joint damage if not defended: they require a tap or cause injury.
 
 > **IBJJF legality note**: Not all joint locks are legal at every belt level. Straight ankle locks are legal for all belts. Kneebars and toe holds become legal at higher belt levels. Wrist locks are legal from blue belt onward. Always train within your competition ruleset. See the IBJJF rules for the full legality table.
 
@@ -212,7 +212,7 @@ Attacks that hyperextend or rotate a joint beyond its natural range. Armbar, kim
 
 ## Using the Hierarchy
 
-The positional hierarchy is not just a ranking - it is a decision-making tool. At every moment in every exchange, the student should know:
+The positional hierarchy is not just a ranking: it is a decision-making tool. At every moment in every exchange, the student should know:
 
 1. **Where am I on the hierarchy?** - This determines the immediate priority (survive, escape, recover, maintain, advance, or finish)
 2. **Where is the next best position?** - This determines the direction of movement (one tier up, not two)
@@ -220,4 +220,4 @@ The positional hierarchy is not just a ranking - it is a decision-making tool. A
 
 The rule: **advance one tier at a time**. From Tier 1, escape to Tier 2. From Tier 2, recover to Tier 3. From Tier 3, advance to Tier 4. Do not skip tiers. Do not attempt submissions from bad positions. Do not chase the finish when control is not established. One step at a time, always moving in the right direction on the hierarchy.
 
-This patient, positional approach is the foundation of the entire curriculum - and it is what separates systematic jiu jitsu from scramble-based gambling.
+This patient, positional approach is the foundation of the entire curriculum, and it is what separates systematic jiu jitsu from scramble-based gambling.

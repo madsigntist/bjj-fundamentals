@@ -4,7 +4,7 @@
 
 ## Definition
 
-Weight distribution is the deliberate placement of your body weight to maximize control and minimize your opponent's ability to escape. It is not about being heavy - it is about being heavy in the right place at the right time.
+Weight distribution is the deliberate placement of your body weight to maximize control and minimize your opponent's ability to escape. It is not about being heavy: it is about being heavy in the right place at the right time.
 
 ---
 
@@ -27,7 +27,7 @@ If this is ignored, the student treats every top position as a grip-fighting con
 
 ## Core Idea
 
-Put the right amount of weight in the right place. Not all of it everywhere - just enough where it matters most.
+Put the right amount of weight in the right place. Not all of it everywhere, just enough where it matters most.
 
 ---
 
@@ -53,23 +53,23 @@ Not every position uses the same target. The skill is reading the position and c
 - _Shrimp_: Shift weight into the direction they are moving to stay connected. Heavy pressure toward their retreating hips.
 - _Turn to side_: Drive shoulder weight through the crossface to flatten them back.
 
-The key insight: weight distribution is not a fixed position. It is a constant, subtle adjustment. The best top players are always shifting - a small forward lean, a slight hip drop, a shoulder drive - in response to what they feel beneath them.
+The key insight: weight distribution is not a fixed position. It is a constant, subtle adjustment. The best top players are always shifting (a small forward lean, a slight hip drop, a shoulder drive) in response to what they feel beneath them.
 
 **The principle of heavy and light.** An advanced application involves being heavy in one area while being light in another. Heavy on the chest while light on the hips allows you to adjust your hip position. Heavy on the hips while light on the upper body lets you switch grips or set up submissions. This selective heaviness creates a dynamic pin that is harder to escape than a static one.
 
-**Base and weight are related.** Weight that goes toward control cannot also go toward base. This is the fundamental trade-off. A wide, posted base gives you stability but makes you light. A tight, heavy pin gives you pressure but reduces your base. The skill is finding the balance point - heavy enough to control, based enough to stay.
+**Base and weight are related.** Weight that goes toward control cannot also go toward base. This is the fundamental trade-off. A wide, posted base gives you stability but makes you light. A tight, heavy pin gives you pressure but reduces your base. The skill is finding the balance point: heavy enough to control, based enough to stay.
 
 ---
 
 ## Key Principles
 
-- Never commit all your weight in one direction - keep base available
+- Never commit all your weight in one direction: keep base available
 - Put weight where it matters most for the current position
 - Shift weight constantly in small adjustments to match the opponent's movement
-- Be heavy in one area and light in another - selective pressure
+- Be heavy in one area and light in another: selective pressure
 - Weight forward absorbs bridges; weight toward hips absorbs shrimps
 - Effective weight distribution feels effortless for you and suffocating for them
-- There is a trade-off between pressure and base - find the balance point
+- There is a trade-off between pressure and base: find the balance point
 
 ---
 
@@ -78,7 +78,7 @@ The key insight: weight distribution is not a fixed position. It is a constant, 
 - Putting all weight on the opponent and having no base
 - Putting no weight on the opponent and relying on grips
 - Staying static instead of shifting weight in response to movement
-- Being heavy everywhere - spreading weight thin instead of concentrating it
+- Being heavy everywhere: spreading weight thin instead of concentrating it
 - Posting wide for base but losing all pressure
 - Not recognizing which direction the opponent is trying to move
 - Using arms for control when body weight should be doing the work
@@ -90,7 +90,7 @@ The key insight: weight distribution is not a fixed position. It is a constant, 
 ### Side Control (Top)
 
 - Primary weight on the chest-to-chest connection, driving through the shoulder
-- Hips low but not fully committed - ready to sprawl or follow a shrimp
+- Hips low but not fully committed: ready to sprawl or follow a shrimp
 - When they bridge: drive weight forward, post with the far hand if needed
 - When they shrimp: drop hips toward their retreating hips, stay connected
 
@@ -99,12 +99,12 @@ The key insight: weight distribution is not a fixed position. It is a constant, 
 - Weight settled low in the hips, sitting heavy on their waist
 - When they bridge: shift weight forward over their head, post hands
 - When they shrimp/elbow escape: drive weight into the knee they are trying to push, or shift weight to the hip they are creating space from
-- Avoid sitting bolt upright - lean slightly forward to distribute weight between seat and hands
+- Avoid sitting bolt upright: lean slightly forward to distribute weight between seat and hands
 
 ### North-South (Top)
 
 - Weight through the sternum, chest-to-chest
-- Hips off to one side or sprawled - not stacked directly over them
+- Hips off to one side or sprawled, not stacked directly over them
 - Shift side to side to cut off lateral movement
 - Arms controlling arms or underhooking, but the primary control is chest weight
 
@@ -124,7 +124,7 @@ A see-saw. When they push one end up, lean toward it. Never let both ends come o
 
 - Hold side control while the partner tries to escape at increasing intensity (30%, 50%, 70%)
 - Focus only on shifting weight to stay connected
-- No grips allowed - hands behind your back
+- No grips allowed: hands behind your back
 - Forces reliance on body weight placement alone
 
 **Weight Toggle Drill**
@@ -140,4 +140,4 @@ A see-saw. When they push one end up, lean toward it. Never let both ends come o
 
 At this level, the focus is on feeling where your weight is and making deliberate choices about where to put it.
 
-At higher levels, weight distribution becomes a tool for offense. By shifting weight to one side, you invite the opponent to escape toward that side - directly into a submission or transition you have prepared. Weight becomes bait as much as control.
+At higher levels, weight distribution becomes a tool for offense. By shifting weight to one side, you invite the opponent to escape toward that side: directly into a submission or transition you have prepared. Weight becomes bait as much as control.
