@@ -928,6 +928,9 @@
 
     dom.bookmarkBtn = document.getElementById("bookmarkBtn");
     dom.continueReadingBtn = document.getElementById("continueReadingBtn");
+
+    dom.themeToggleBtn = document.getElementById("themeToggleBtn");
+    dom.themeIcon = document.getElementById("themeIcon");
   }
 
   /* ======================================================================
@@ -935,11 +938,49 @@
        ====================================================================== */
   function initializeApp() {
     cacheDom();
+    initTheme();
     loadBookmark();
     buildToc();
     buildHomeCards();
     bindEvents();
     handleInitialHash();
+  }
+
+  /* ======================================================================
+       THEME
+       ====================================================================== */
+
+  /**
+   * Initializes the theme from localStorage or system preference.
+   */
+  function initTheme() {
+    var saved = localStorage.getItem("bjj-theme");
+    var prefersDark = window.matchMedia("(prefers-color-scheme: dark)").matches;
+    var isDark = saved ? saved === "dark" : prefersDark;
+    applyTheme(isDark);
+  }
+
+  /**
+   * Applies the given theme to the document.
+   * @param {boolean} isDark Whether dark mode should be active.
+   */
+  function applyTheme(isDark) {
+    document.documentElement.setAttribute(
+      "data-theme",
+      isDark ? "dark" : "light",
+    );
+    var icon = isDark ? "light_mode" : "dark_mode";
+    if (dom.themeIcon) dom.themeIcon.textContent = icon;
+  }
+
+  /**
+   * Toggles between light and dark mode and persists the preference.
+   */
+  function toggleTheme() {
+    var isDark = document.documentElement.getAttribute("data-theme") === "dark";
+    var next = !isDark;
+    localStorage.setItem("bjj-theme", next ? "dark" : "light");
+    applyTheme(next);
   }
 
   /* ======================================================================
@@ -1128,6 +1169,7 @@
         loadDocument(nextIndex);
       }
     });
+    dom.themeToggleBtn.addEventListener("click", toggleTheme);
 
     // Search
     dom.searchClose.addEventListener("click", closeSearch);
