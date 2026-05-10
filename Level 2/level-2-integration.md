@@ -18,12 +18,12 @@ Escape bad positions and recover to safety.
 
 ## Concept Summary
 
-| #   | Concept                        | Core Lesson                                                                                            |
-| --- | ------------------------------ | ------------------------------------------------------------------------------------------------------ |
+| #   | Concept                        | Core Lesson                                                                                           |
+| --- | ------------------------------ | ----------------------------------------------------------------------------------------------------- |
 | 1   | Survival Before Escape         | Stabilize and address immediate threats before attempting to move: do not escape into a worse problem |
-| 2   | Frame Creation and Maintenance | Build skeletal structures between you and the opponent to hold space and prevent advances              |
-| 3   | Alignment Under Pressure       | Organize your body: head, spine, hips, limbs as a connected system, so defensive tools actually work |
-| 4   | Elbow-Knee Connection          | Close the gap between upper and lower body to create the gateway for guard recovery                    |
+| 2   | Frame Creation and Maintenance | Build skeletal structures between you and the opponent to hold space and prevent advances             |
+| 3   | Alignment Under Pressure       | Organize your body: head, spine, hips, limbs as a connected system, so defensive tools actually work  |
+| 4   | Elbow-Knee Connection          | Close the gap between upper and lower body to create the gateway for guard recovery                   |
 | 5   | Guard Recovery Logic           | Follow a structured path: create space, insert knee, establish connection, rebuild guard              |
 | 6   | Hand Fighting Basics           | Control the grip exchange: strip what hurts you, establish what helps you                             |
 
@@ -111,14 +111,14 @@ When placed in a bad position, all six concepts execute as a single flow:
 
 When stuck in a bad position, run this diagnostic:
 
-| Check          | Question                                                | If No...                                                   |
-| -------------- | ------------------------------------------------------- | ---------------------------------------------------------- |
-| Survival       | Am I about to be finished? Is my neck or arm in danger? | Address the immediate threat before doing anything else    |
+| Check          | Question                                                | If Negative...                                            |
+| -------------- | ------------------------------------------------------- | --------------------------------------------------------- |
+| Survival       | Am I about to be finished? Is my neck or arm in danger? | Address the immediate threat before doing anything else   |
 | Alignment      | Is my body organized? Am I on my side or am I flat?     | Fix alignment: turn to the hip, tuck chin, connect elbows |
 | Frames         | Do I have structure between me and the opponent?        | Build frames immediately: forearms, knees, shins          |
-| Hand Fighting  | Are the opponent's grips preventing my escape?          | Identify the most damaging grip and strip it               |
+| Hand Fighting  | Are the opponent's grips preventing my escape?          | Identify the most damaging grip and strip it              |
 | Elbow-Knee     | Is there a gap between my upper and lower body?         | Close the gap: bring the knee to the elbow line           |
-| Guard Recovery | Am I in guard or still in a passed position?            | Insert a leg between bodies and complete the recovery      |
+| Guard Recovery | Am I in guard or still in a passed position?            | Insert a leg between bodies and complete the recovery     |
 
 If any earlier step is broken, go back and fix it before moving forward.
 

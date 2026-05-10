@@ -85,13 +85,13 @@ When the opponent is already shut down, the weakening from the attack does not m
 
 ## Application (Positional Examples)
 
-### Side Control → Kimura
+### Side Control → Americana
 
 - Arrive in side control and establish crossface and hip control
 - Wait for the opponent to stop framing and bridging: kill each attempt
 - When they are flat and still, isolate the near arm
-- Then set up the kimura grip and attack
-- If they move during the kimura setup, abandon the attack and re-pin before trying again
+- Then set up the americana grip and attack
+- If they move during the americana setup, abandon the attack and re-pin before trying again
 
 ### Mount → Cross Collar Choke
 
