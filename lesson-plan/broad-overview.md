@@ -2,13 +2,11 @@
 
 ## 1) Simple 60-minute class template (repeat every week)
 
-1. 0:00 to 0:05. Theme and one key question.
-2. 0:05 to 0:12. Movement warm-up linked to today's concept.
-3. 0:12 to 0:22. Teach 1 to 2 concepts max, with one memory phrase each.
-4. 0:22 to 0:35. Cooperative drilling (clean reps, low resistance).
-5. 0:35 to 0:47. Constraint game (specific goal, limited options).
-6. 0:47 to 0:55. Positional rounds (start from today's position).
-7. 0:55 to 1:00. Recap, 1 takeaway, and 1 homework drill.
+1. Whiteboard: cover theme, concepts, and key cues.
+2. Drill 1: cooperative drill for first concept.
+3. Setup: discuss context and setup for second drill.
+4. Drill 2: cooperative drill for second concept.
+5. Feedback: open discussion to share insights on the positions.
 
 This structure is easy for students to remember and gives you consistency.
 
@@ -31,7 +29,7 @@ Suggested 14-week cycle:
 11. Week 11. Passing gates (feet, knees, hips, upper body).
 12. Week 12. Pressure passing vs movement passing.
 13. Week 13. Submission phases (isolate, expose, break defense).
-14. Week 14. Control to finish integration + review testing day.
+14. Week 14. Dilemma creation and chaining + pacing and energy management.
 
 Then repeat the cycle with more resistance and better timing.
 
@@ -92,13 +90,11 @@ These will have the highest teaching payoff with posters and charts.
 
 1. Teach only one headline per class.
 2. Use one phrase students repeat out loud.
-3. Use one game per class with scoring.
-4. End every class with one "win condition" students can explain.
-5. Keep technical detail low, decision quality high.
+3. Keep technical detail low, decision quality high.
 
 Example memory phrases:
 
-1. Safety first, then strategy.
+1. Position first, then technique.
 2. Inside wins exchanges.
 3. Head and hips steer everything.
 4. Pass gates in order.
@@ -110,11 +106,7 @@ For each class, write this on one page:
 
 1. Theme.
 2. Two concepts max.
-3. One visual aid.
-4. One drill.
-5. One game.
-6. One positional round start point.
-7. One measurable success metric.
+3. One cooperative drill per concept.
 
 Example metric ideas:
 
